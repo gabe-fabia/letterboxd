@@ -1,0 +1,1490 @@
+,title,release_date,budget,revenue,runtime,genres,original_language,production_countries,id
+0,Dragged Across Concrete,2018-09-03,15000000,660132,159,"['Crime', 'Action', 'Thriller']",en,"['Canada', 'United Kingdom', 'United States of America']",438674
+1,Her,2013-12-18,23000000,47351251,126,"['Romance', 'Science Fiction', 'Drama']",en,['United States of America'],152601
+2,Climax,2018-09-19,2940457,1088907,97,"['Drama', 'Horror']",fr,"['Belgium', 'France', 'United States of America']",507076
+3,Kill Bill: Vol. 1,2003-10-10,30000000,180906076,111,"['Action', 'Crime']",en,['United States of America'],24
+4,Good Time,2017-08-11,0,3283369,102,"['Crime', 'Thriller']",en,['United States of America'],429200
+5,Django Unchained,2012-12-25,100000000,425368238,165,"['Drama', 'Western']",en,['United States of America'],68718
+6,Inglourious Basterds,2009-08-19,70000000,321457747,153,"['Drama', 'Thriller', 'War']",en,"['France', 'Germany', 'United States of America']",16869
+7,Pulp Fiction,1994-09-10,8500000,213900000,154,"['Thriller', 'Crime']",en,['United States of America'],680
+8,The Hateful Eight,2015-12-25,44000000,155760117,188,"['Drama', 'Mystery', 'Western']",en,['United States of America'],273248
+9,Reservoir Dogs,1992-09-02,1200000,2859750,99,"['Crime', 'Thriller']",en,['United States of America'],500
+10,Kill Bill: Vol. 2,2004-04-16,30000000,152159461,136,"['Action', 'Crime', 'Thriller']",en,['United States of America'],393
+11,Grindhouse,2007-04-06,67000000,25422088,191,"['Thriller', 'Action', 'Horror']",en,['United States of America'],285923
+12,From Dusk Till Dawn,1996-01-19,19000000,25836616,108,"['Horror', 'Action', 'Thriller', 'Crime']",en,['United States of America'],755
+13,Full Metal Jacket,1987-06-26,30000000,46357676,117,"['Drama', 'War']",en,"['United Kingdom', 'United States of America']",600
+14,2001: A Space Odyssey,1968-04-02,12000000,71923560,149,"['Science Fiction', 'Mystery', 'Adventure']",en,"['United Kingdom', 'United States of America']",62
+15,A Clockwork Orange,1971-12-19,2200000,26589000,137,"['Science Fiction', 'Drama']",en,"['United Kingdom', 'United States of America']",185
+16,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-01-29,1800000,9523464,95,"['Drama', 'Comedy', 'War']",en,"['United Kingdom', 'United States of America']",935
+17,Crank,2006-08-31,12000000,42931041,88,"['Action', 'Thriller', 'Crime']",en,['United States of America'],1948
+18,Crank: High Voltage,2009-04-16,20000000,34560577,96,"['Action', 'Thriller', 'Crime']",en,['United States of America'],15092
+19,Oldboy,2003-11-21,3000000,15194593,120,"['Drama', 'Thriller', 'Mystery', 'Action']",ko,['South Korea'],670
+20,The Handmaiden,2016-06-01,8575000,38600000,145,"['Thriller', 'Drama', 'Romance']",ko,['South Korea'],290098
+21,Audition,1999-10-06,250000,359853,115,"['Horror', 'Drama']",ja,['Japan'],11075
+22,13 Assassins,2010-09-09,6000000,17555141,141,"['Adventure', 'Drama', 'Action']",ja,"['Japan', 'United Kingdom']",58857
+23,Yakuza Apocalypse,2015-05-21,0,12756,115,"['Action', 'Horror']",ja,['Japan'],283127
+24,Snowpiercer,2013-08-01,39200000,86758912,127,"['Action', 'Science Fiction', 'Drama']",ko,"['Czech Republic', 'South Korea']",110415
+25,The Host,2006-07-27,11000000,88489643,119,"['Horror', 'Drama', 'Science Fiction']",ko,"['Japan', 'South Korea']",1255
+26,Okja,2017-06-28,50000000,0,122,"['Adventure', 'Drama', 'Science Fiction', 'Fantasy']",en,"['South Korea', 'United States of America']",387426
+27,Memories of Murder,2003-05-02,2800000,26000000,131,"['Crime', 'Drama', 'Thriller']",ko,['South Korea'],11423
+28,Mother,2009-04-01,0,0,20,['Documentary'],en,[],698885
+29,House,1977-08-26,0,0,88,"['Comedy', 'Fantasy', 'Horror']",ja,['Japan'],25623
+30,Annihilation,2018-02-22,40000000,43070915,115,"['Science Fiction', 'Horror']",en,"['United Kingdom', 'United States of America']",300668
+31,Eraserhead,1977-03-19,100000,7000000,89,['Horror'],en,['United States of America'],985
+32,Under the Skin,2014-03-14,13300000,5735963,108,"['Thriller', 'Science Fiction', 'Drama']",en,"['Switzerland', 'United Kingdom', 'United States of America']",97370
+33,The Killing of a Sacred Deer,2017-10-20,0,7027336,121,"['Drama', 'Thriller', 'Mystery']",en,"['United Kingdom', 'United States of America', 'Ireland']",399057
+34,The Lobster,2015-10-15,4000000,15656193,118,"['Comedy', 'Drama', 'Romance']",en,"['France', 'Greece', 'Ireland', 'Netherlands', 'United Kingdom']",254320
+35,The Favourite,2018-11-23,15000000,95918706,119,"['Drama', 'Comedy', 'Thriller']",en,"['Ireland', 'United Kingdom', 'United States of America']",375262
+36,Enter the Void,2009-06-17,13000000,754249,161,"['Fantasy', 'Drama']",en,"['Brazil', 'Canada', 'France', 'Germany', 'Italy']",34647
+37,[REC],2007-11-23,1500000,32511655,78,"['Horror', 'Mystery']",es,['Spain'],8329
+38,[REC]²,2009-09-15,5600000,18469680,84,"['Thriller', 'Horror']",es,['Spain'],10664
+39,Suspiria,1977-02-01,0,2884265,99,['Horror'],it,['Italy'],11906
+40,Mad Max: Fury Road,2015-05-13,150000000,378858340,121,"['Action', 'Adventure', 'Science Fiction']",en,"['Australia', 'United States of America', 'South Africa']",76341
+41,Lost in Translation,2003-09-18,4000000,119723856,102,"['Drama', 'Romance']",en,"['Japan', 'United Kingdom', 'United States of America']",153
+42,Akira,1988-07-16,10000000,553171,124,"['Animation', 'Science Fiction', 'Action']",ja,['Japan'],149
+43,Star Wars,1977-05-25,11000000,775398007,121,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],11
+44,Free Fire,2017-03-31,7000000,3719383,90,"['Action', 'Crime', 'Mystery']",en,['United Kingdom'],334521
+45,Get Out,2017-02-24,4500000,255407969,104,"['Mystery', 'Thriller', 'Horror']",en,['United States of America'],419430
+46,Jodorowsky's Dune,2013-08-30,0,0,90,['Documentary'],en,"['France', 'United States of America']",191720
+47,Sing Street,2016-03-11,4000000,13624522,106,"['Comedy', 'Romance', 'Drama', 'Music']",en,"['United States of America', 'United Kingdom', 'Ireland']",369557
+48,The Truman Show,1998-06-04,60000000,264118201,103,"['Comedy', 'Drama']",en,['United States of America'],37165
+49,Manhattan,1979-04-25,9000000,40194067,96,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],696
+50,Whiplash,2014-10-10,3300000,13092000,107,"['Drama', 'Music']",en,['United States of America'],244786
+51,Army of Darkness,1992-10-31,11000000,21502976,81,"['Fantasy', 'Horror', 'Comedy']",en,['United States of America'],766
+52,The Fate of the Furious,2017-04-12,250000000,1236005118,136,"['Action', 'Crime', 'Thriller']",en,['United States of America'],337339
+53,Blow Out,1981-07-24,18000000,12000000,108,"['Thriller', 'Mystery', 'Crime']",en,['United States of America'],11644
+54,Carrie,1976-11-03,1800000,25878153,98,"['Horror', 'Thriller']",en,['United States of America'],7340
+55,Scarface,1983-12-09,25000000,66023329,170,"['Action', 'Crime', 'Drama']",en,['United States of America'],111
+56,The Untouchables,1987-06-03,25000000,76270454,119,"['Crime', 'Drama', 'History', 'Thriller']",en,['United States of America'],117
+57,Rear Window,1954-08-01,1000000,37034514,112,"['Thriller', 'Mystery']",en,['United States of America'],567
+58,Us,2019-03-14,20000000,256067149,116,"['Horror', 'Thriller', 'Mystery']",en,['United States of America'],458723
+59,"Three Billboards Outside Ebbing, Missouri",2017-12-01,15000000,160192031,115,"['Crime', 'Drama']",en,"['United Kingdom', 'United States of America']",359940
+60,The Social Network,2010-10-01,40000000,224920315,121,['Drama'],en,['United States of America'],37799
+61,No Country for Old Men,2007-06-13,25000000,171627166,122,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],6977
+62,The Florida Project,2017-10-06,2000000,11303040,112,['Drama'],en,['United States of America'],394117
+63,X-Men: First Class,2011-06-01,160000000,353624124,132,"['Action', 'Science Fiction', 'Adventure']",en,['United States of America'],49538
+64,The Cabin in the Woods,2012-04-12,30000000,71041255,95,"['Horror', 'Fantasy']",en,['United States of America'],22970
+65,Spider-Man: Into the Spider-Verse,2018-12-06,90000000,375464627,117,"['Action', 'Adventure', 'Animation', 'Science Fiction']",en,['United States of America'],324857
+66,Serenity,2019-01-24,25000000,14500000,102,"['Thriller', 'Mystery', 'Drama']",en,['United Kingdom'],452832
+67,Robin Hood,2018-11-21,100000000,86493046,116,"['Adventure', 'Action', 'Thriller']",en,['United States of America'],375588
+68,Black Panther,2018-02-13,200000000,1349926083,135,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],284054
+69,Avengers: Infinity War,2018-04-25,300000000,2052415039,149,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],299536
+70,Thor: Ragnarok,2017-10-02,180000000,855301806,131,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],284053
+71,Guardians of the Galaxy Vol. 2,2017-04-19,200000000,863756051,137,"['Science Fiction', 'Adventure', 'Action']",en,['United States of America'],283995
+72,Guardians of the Galaxy,2014-07-30,170000000,772776600,121,"['Action', 'Science Fiction', 'Adventure']",en,['United States of America'],118340
+73,Venom,2018-09-28,116000000,856085151,112,"['Science Fiction', 'Action']",en,"['China', 'United States of America']",335983
+74,Martyrs,2008-09-03,6500000,1100000,99,"['Horror', 'Drama', 'Thriller']",fr,"['Canada', 'France']",9539
+75,Tucker and Dale vs. Evil,2010-01-22,5000000,5224938,89,"['Comedy', 'Horror']",en,"['Canada', 'United States of America']",46838
+76,Shame,2011-10-02,6500000,3909002,102,['Drama'],en,"['Canada', 'United Kingdom']",76025
+77,Primer,2004-10-08,7000,545436,77,"['Science Fiction', 'Drama', 'Thriller']",en,['United States of America'],14337
+78,The Skin I Live In,2011-08-17,13000000,33750478,120,"['Drama', 'Horror', 'Mystery', 'Thriller']",es,['Spain'],63311
+79,Black Dynamite,2009-10-16,2900000,296557,85,"['Comedy', 'Action']",en,['United States of America'],24804
+80,Phantom Thread,2017-12-25,35000000,47756590,130,"['Drama', 'Romance']",en,"['China', 'United States of America']",400617
+81,The Master,2012-09-07,32000000,28258060,137,['Drama'],en,['United States of America'],68722
+82,Nocturnal Animals,2016-11-04,22500000,29252978,117,"['Drama', 'Thriller']",en,['United States of America'],340666
+83,Arrival,2016-11-10,47000000,203388186,116,"['Drama', 'Science Fiction', 'Mystery']",en,['United States of America'],329865
+84,Enemy,2013-12-31,0,3396726,91,"['Thriller', 'Mystery']",en,"['Canada', 'France', 'Spain']",181886
+85,Blue Valentine,2010-12-16,1000000,15440333,112,"['Drama', 'Romance']",en,['United States of America'],46705
+86,"Synecdoche, New York",2008-10-24,20000000,4383538,124,['Drama'],en,['United States of America'],4960
+87,Drive,2011-09-15,15000000,78054825,100,"['Drama', 'Thriller', 'Crime']",en,['United States of America'],64690
+88,Anomalisa,2015-12-30,8000000,5659286,90,"['Animation', 'Drama', 'Romance', 'Comedy']",en,['United States of America'],291270
+89,Upstream Color,2013-04-05,100000,444098,96,"['Drama', 'Science Fiction']",en,['United States of America'],145197
+90,Seven Samurai,1954-04-26,2000000,346300,207,"['Action', 'Drama']",ja,['Japan'],346
+91,12 Angry Men,1957-04-10,350000,1000000,97,['Drama'],en,['United States of America'],389
+92,Burning,2018-11-20,0,0,18,[],en,[],813106
+93,Psycho,1960-06-22,806947,32000000,109,"['Horror', 'Drama', 'Thriller']",en,['United States of America'],539
+94,Solo: A Star Wars Story,2018-05-15,250000000,392952373,135,"['Science Fiction', 'Adventure', 'Action']",en,['United States of America'],348350
+95,Sorry to Bother You,2018-07-06,3200000,18200000,112,"['Fantasy', 'Science Fiction', 'Comedy']",en,['United States of America'],424781
+96,Mayhem,2017-11-10,0,0,86,"['Action', 'Comedy', 'Horror']",en,['United States of America'],429733
+97,Spider-Man 2,2004-06-25,200000000,788976453,127,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],558
+98,Spider-Man,2002-05-01,139000000,821708551,121,"['Fantasy', 'Action']",en,['United States of America'],557
+99,Spider-Man 3,2007-05-01,258000000,894983373,139,"['Fantasy', 'Action', 'Adventure']",en,['United States of America'],559
+100,Spider-Man: Homecoming,2017-07-05,175000000,880166924,133,"['Action', 'Adventure', 'Science Fiction', 'Drama']",en,['United States of America'],315635
+101,Your Name.,2016-08-26,0,357986087,106,"['Romance', 'Animation', 'Drama']",ja,['Japan'],372058
+102,Wreck-It Ralph,2012-11-01,165000000,471222889,101,"['Family', 'Animation', 'Comedy', 'Adventure']",en,['United States of America'],82690
+103,Wonder Woman,2017-05-30,149000000,822854286,141,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],297762
+104,Man of Steel,2013-06-12,225000000,668045518,143,"['Action', 'Adventure', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",49521
+105,Batman v Superman: Dawn of Justice,2016-03-23,250000000,873637528,152,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],209112
+106,Justice League,2017-11-15,300000000,657926987,120,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],141052
+107,Aquaman,2018-12-07,160000000,1148528393,143,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],297802
+108,Dead Silence,2007-03-16,20000000,22217407,89,['Horror'],en,['United States of America'],14001
+109,Insidious,2011-03-31,1500000,99870886,103,"['Horror', 'Thriller']",en,"['Canada', 'United States of America']",49018
+110,Furious 7,2015-04-01,190000000,1515341399,137,"['Action', 'Thriller', 'Crime']",en,['United States of America'],168259
+111,The Conjuring,2013-07-18,13000000,320406242,112,"['Horror', 'Thriller']",en,['United States of America'],138843
+112,The Conjuring 2,2016-06-08,40000000,321834351,134,"['Horror', 'Thriller']",en,['United States of America'],259693
+113,Creed,2015-11-25,37000000,173567581,133,"['Action', 'Drama']",en,['United States of America'],312221
+114,Ghost Dog: The Way of the Samurai,1999-06-02,2000000,9400000,116,"['Crime', 'Drama']",en,"['France', 'Germany', 'Japan', 'United Kingdom', 'United States of America']",4816
+115,In the Mood for Love,2000-09-29,150000,14204632,99,"['Drama', 'Romance']",cn,"['France', 'Hong Kong', 'Netherlands']",843
+116,The Godfather,1972-03-14,6000000,245066411,175,"['Drama', 'Crime']",en,['United States of America'],238
+117,The Godfather Part II,1974-12-20,13000000,102600000,202,"['Drama', 'Crime']",en,['United States of America'],240
+118,Spirited Away,2001-07-20,19000000,274925095,125,"['Animation', 'Family', 'Fantasy']",ja,['Japan'],129
+119,The Dark Knight,2008-07-16,185000000,1004558444,152,"['Drama', 'Action', 'Crime', 'Thriller']",en,"['United Kingdom', 'United States of America']",155
+120,The Shawshank Redemption,1994-09-23,25000000,28341469,142,"['Drama', 'Crime']",en,['United States of America'],278
+121,GoodFellas,1990-09-12,25000000,46835000,145,"['Drama', 'Crime']",en,['United States of America'],769
+122,The Lord of the Rings: The Return of the King,2003-12-01,94000000,1118888979,201,"['Adventure', 'Fantasy', 'Action']",en,"['New Zealand', 'United States of America']",122
+123,The Silence of the Lambs,1991-02-14,19000000,272742922,119,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],274
+124,Alien,1979-05-25,11000000,104931801,117,"['Horror', 'Science Fiction']",en,"['United States of America', 'United Kingdom']",348
+125,Singin' in the Rain,1952-04-09,2540800,7200000,103,"['Comedy', 'Romance']",en,['United States of America'],872
+126,The Thing,1982-06-25,15000000,19629760,109,"['Horror', 'Mystery', 'Science Fiction']",en,"['Canada', 'United States of America']",1091
+127,Grave of the Fireflies,1988-04-16,3700000,516962,89,"['Animation', 'Drama', 'War']",ja,['Japan'],12477
+128,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,93000000,871368364,179,"['Adventure', 'Fantasy', 'Action']",en,"['New Zealand', 'United States of America']",120
+129,It's a Wonderful Life,1946-12-20,3180000,9644124,130,"['Drama', 'Family', 'Fantasy']",en,['United States of America'],1585
+130,Neon Genesis Evangelion: The End of Evangelion,1997-07-19,0,20000000,87,"['Animation', 'Science Fiction', 'Action', 'Drama']",ja,['Japan'],18491
+131,Taxi Driver,1976-02-09,1900000,28600000,114,"['Crime', 'Drama']",en,['United States of America'],103
+132,Casablanca,1943-01-15,878000,10462500,102,"['Drama', 'Romance']",en,['United States of America'],289
+133,The Lion King,1994-06-24,45000000,763455561,89,"['Family', 'Animation', 'Drama']",en,['United States of America'],8587
+134,Before Sunrise,1995-01-27,2500000,5987386,101,"['Drama', 'Romance']",en,"['Austria', 'Switzerland', 'United States of America']",76
+135,Fight Club,1999-10-15,63000000,100853753,139,['Drama'],en,['United States of America'],550
+136,Citizen Kane,1941-04-17,839727,23218000,119,"['Mystery', 'Drama']",en,['United States of America'],15
+137,8½,1963-02-14,0,0,139,"['Fantasy', 'Drama']",it,"['Italy', 'France']",422
+138,Se7en,1995-09-22,33000000,327311859,127,"['Crime', 'Mystery', 'Thriller']",en,['United States of America'],807
+139,Back to the Future,1985-07-03,19000000,381109762,116,"['Adventure', 'Comedy', 'Science Fiction']",en,['United States of America'],105
+140,Raiders of the Lost Ark,1981-06-12,18000000,389925971,115,"['Adventure', 'Action']",en,['United States of America'],85
+141,Yojimbo,1961-04-25,0,0,110,"['Drama', 'Thriller']",ja,['Japan'],11878
+142,The Lord of the Rings: The Two Towers,2002-12-18,79000000,926287400,179,"['Adventure', 'Fantasy', 'Action']",en,"['New Zealand', 'United States of America']",121
+143,Toy Story,1995-10-30,30000000,394400000,81,"['Animation', 'Adventure', 'Family', 'Comedy']",en,['United States of America'],862
+144,Fargo,1996-03-08,7000000,60611975,98,"['Crime', 'Drama', 'Thriller']",en,"['United Kingdom', 'United States of America']",275
+145,Coco,2017-10-27,175000000,800526015,105,"['Family', 'Animation', 'Fantasy', 'Music', 'Comedy', 'Adventure']",en,['United States of America'],354912
+146,Eternal Sunshine of the Spotless Mind,2004-03-19,20000000,72258126,108,"['Science Fiction', 'Drama', 'Romance']",en,['United States of America'],38
+147,Children of Men,2006-09-22,76000000,70595464,109,"['Drama', 'Action', 'Thriller', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",9693
+148,Rashomon,1950-08-26,250000,96568,88,"['Crime', 'Drama', 'Mystery']",ja,['Japan'],548
+149,Mommy,2014-09-19,4900000,3494070,138,['Drama'],fr,['Canada'],265177
+150,Paddington 2,2017-11-09,40000000,227300000,104,"['Adventure', 'Comedy', 'Family']",en,"['France', 'United Kingdom']",346648
+151,Terminator 2: Judgment Day,1991-07-03,102000000,520000000,137,"['Action', 'Thriller', 'Science Fiction']",en,"['France', 'United States of America']",280
+152,Moonlight,2016-10-21,4000000,65046687,111,['Drama'],en,['United States of America'],376867
+153,Call Me by Your Name,2017-09-01,4000000,43143046,132,"['Romance', 'Drama']",en,"['Brazil', 'France', 'Italy', 'United States of America']",398818
+154,Saving Private Ryan,1998-07-24,70000000,481840909,169,"['Drama', 'History', 'War']",en,['United States of America'],857
+155,Inception,2010-07-15,160000000,825532764,148,"['Action', 'Science Fiction', 'Adventure']",en,"['United Kingdom', 'United States of America']",27205
+156,The Big Lebowski,1998-03-06,15000000,47010480,117,"['Comedy', 'Crime']",en,"['United Kingdom', 'United States of America']",115
+157,Short Term 12,2013-08-23,1000000,1645164,96,['Drama'],en,['United States of America'],169813
+158,Heat,1995-12-15,60000000,187436818,170,"['Action', 'Crime', 'Drama']",en,['United States of America'],949
+159,Blade Runner,1982-06-25,28000000,41722424,118,"['Science Fiction', 'Drama', 'Thriller']",en,"['United States of America', 'Hong Kong', 'United Kingdom']",78
+160,The Grand Budapest Hotel,2014-02-26,30000000,174600318,100,"['Comedy', 'Drama']",en,"['Germany', 'United States of America']",120467
+161,Memento,2000-10-11,9000000,39723096,113,"['Mystery', 'Thriller']",en,['United States of America'],77
+162,Jurassic Park,1993-06-11,63000000,920100000,127,"['Adventure', 'Science Fiction']",en,['United States of America'],329
+163,Aliens,1986-07-18,18500000,183316455,137,"['Action', 'Thriller', 'Science Fiction']",en,['United States of America'],679
+164,Anacondas: The Hunt for the Blood Orchid,2004-08-25,0,0,94,"['Adventure', 'Fantasy', 'Action', 'Horror']",en,['United States of America'],11237
+165,Die Hard,1988-07-15,28000000,140767956,131,"['Action', 'Thriller']",en,['United States of America'],562
+166,The Pianist,2002-09-17,35000000,120072577,150,"['Drama', 'War']",en,"['France', 'Germany', 'Poland', 'United Kingdom']",423
+167,American History X,1998-07-01,20000000,23875127,119,['Drama'],en,['United States of America'],73
+168,Mulan,1998-06-18,90000000,304320254,88,"['Animation', 'Family', 'Adventure']",en,['United States of America'],10674
+169,A Bug's Life,1998-11-25,120000000,363258859,95,"['Adventure', 'Animation', 'Comedy', 'Family']",en,['United States of America'],9487
+170,Fear and Loathing in Las Vegas,1998-05-22,18500000,10700000,118,"['Adventure', 'Drama', 'Comedy']",en,['United States of America'],1878
+171,Armageddon,1998-07-01,140000000,553799566,151,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",en,['United States of America'],95
+172,Blade,1998-08-21,45000000,131183530,121,"['Horror', 'Action']",en,['United States of America'],36647
+173,The Prince of Egypt,1998-12-16,70000000,218613188,99,"['Adventure', 'Animation', 'Drama', 'Family']",en,['United States of America'],9837
+174,You've Got Mail,1998-12-17,65000000,250821495,119,"['Comedy', 'Romance']",en,['United States of America'],9489
+175,Shakespeare in Love,1998-12-11,25000000,289317794,123,"['Romance', 'History', 'Comedy']",en,"['United Kingdom', 'United States of America']",1934
+176,Godzilla,1998-05-20,130000000,379014294,138,"['Science Fiction', 'Action', 'Thriller']",en,"['Japan', 'United States of America']",929
+177,Shaun of the Dead,2004-04-09,6100000,30097092,99,"['Horror', 'Comedy']",en,"['France', 'United Kingdom', 'United States of America']",747
+178,Half Nelson,2006-08-11,700000,4911725,107,['Drama'],en,['United States of America'],7859
+179,BlacKkKlansman,2018-08-09,15000000,93411426,136,"['Comedy', 'Crime', 'Drama']",en,['United States of America'],487558
+180,Suicide Squad,2016-08-03,175000000,746846894,123,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],297761
+181,Fury,2014-10-15,68000000,211817906,135,"['War', 'Drama', 'Action']",en,['United States of America'],228150
+182,Bright,2017-12-22,90000000,0,117,"['Fantasy', 'Action', 'Thriller']",en,['United States of America'],400106
+183,End of Watch,2012-09-20,7000000,48126384,109,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],77016
+184,The Wolf of Wall Street,2013-12-25,100000000,392000000,180,"['Crime', 'Drama', 'Comedy']",en,['United States of America'],106646
+185,Kundun,1997-12-25,28000000,5684789,134,"['Drama', 'History']",en,"['France', 'Morocco', 'United States of America']",9746
+186,Shutter Island,2010-02-14,80000000,294800000,138,"['Drama', 'Thriller', 'Mystery']",en,['United States of America'],11324
+187,Argo,2012-10-11,44500000,232325503,120,"['Drama', 'Thriller']",en,"['United Kingdom', 'United States of America']",68734
+188,Ocean's Eleven,2001-12-07,85000000,450717150,116,"['Thriller', 'Crime']",en,['United States of America'],161
+189,Magic Mike,2012-06-28,7000000,167221571,110,"['Drama', 'Comedy']",en,['United States of America'],77930
+190,Magic Mike XXL,2015-07-01,14800000,117813057,115,"['Comedy', 'Drama']",en,['United States of America'],264999
+191,Drive Angry,2011-02-24,50000000,40909909,105,"['Fantasy', 'Thriller', 'Action', 'Crime']",en,['United States of America'],47327
+192,Sicario,2015-09-17,30000000,84872444,122,"['Action', 'Crime', 'Thriller']",en,"['Mexico', 'United States of America']",273481
+193,Blade Runner 2049,2017-10-04,150000000,259239658,164,"['Science Fiction', 'Drama']",en,"['Canada', 'United Kingdom', 'United States of America']",335984
+194,Prisoners,2013-09-19,46000000,122126687,153,"['Drama', 'Thriller', 'Crime']",en,['United States of America'],146233
+195,American Psycho,2000-04-13,7000000,34266564,102,"['Thriller', 'Drama', 'Crime']",en,"['Canada', 'United States of America']",1359
+196,Wild at Heart,1990-08-17,9500000,14560247,125,"['Crime', 'Thriller', 'Romance']",en,['United States of America'],483
+197,Platoon,1986-12-19,6000000,138530565,120,"['Drama', 'War', 'Action']",en,"['United Kingdom', 'United States of America']",792
+198,Rango,2011-03-02,135000000,245724603,107,"['Animation', 'Comedy', 'Family', 'Western', 'Adventure']",en,"['United Kingdom', 'United States of America']",44896
+199,Mandy,2018-09-13,6000000,1214525,122,"['Horror', 'Action', 'Thriller', 'Fantasy']",en,"['United States of America', 'Belgium']",460885
+200,Dunkirk,2017-07-19,150000000,527000000,107,"['War', 'Action', 'Drama']",en,"['France', 'Netherlands', 'United Kingdom', 'United States of America']",374720
+201,Interstellar,2014-11-05,165000000,701729206,169,"['Adventure', 'Drama', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",157336
+202,Dredd,2012-09-07,50000000,41037742,95,"['Action', 'Science Fiction']",en,"['South Africa', 'United Kingdom', 'United States of America', 'India']",49049
+203,Halloween,1978-10-24,325000,70274000,91,"['Horror', 'Thriller']",en,['United States of America'],948
+204,Donnie Darko,2001-10-24,6000000,7500000,114,"['Fantasy', 'Drama', 'Mystery']",en,['United States of America'],141
+205,Ex Machina,2015-01-21,15000000,36869414,108,"['Drama', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",264660
+206,Birdman or (The Unexpected Virtue of Ignorance),2014-10-17,18000000,103215094,120,"['Drama', 'Comedy']",en,['United States of America'],194662
+207,Jaws,1975-06-20,7000000,470653000,124,"['Horror', 'Thriller', 'Adventure']",en,['United States of America'],578
+208,Compliance,2012-08-23,270000,592116,90,"['Drama', 'Thriller']",en,['United States of America'],84188
+209,Alien: Covenant,2017-05-09,97000000,240891763,122,"['Science Fiction', 'Horror', 'Mystery']",en,"['United Kingdom', 'United States of America']",126889
+210,Thoroughbreds,2018-03-09,0,2830775,92,"['Drama', 'Thriller']",en,['United States of America'],397722
+211,The Sweet Hereafter,1997-09-25,5000000,7951247,112,['Drama'],en,['Canada'],10217
+212,Redline,2010-05-27,0,0,102,"['Animation', 'Action', 'Science Fiction']",ja,['Japan'],71883
+213,The Holy Mountain,1973-11-29,750000,0,114,['Drama'],es,['Mexico'],8327
+214,The Belko Experiment,2016-03-17,5000000,10166820,89,"['Horror', 'Thriller']",en,['United States of America'],341006
+215,It Follows,2014-09-24,2000000,14674076,101,"['Horror', 'Mystery']",en,['United States of America'],270303
+216,The Witch,2015-01-27,3500000,40423945,92,"['Horror', 'Mystery', 'Drama']",en,"['Canada', 'United States of America']",310131
+217,It,2017-09-06,40000000,701800000,135,"['Horror', 'Fantasy']",en,['United States of America'],346364
+218,10 Cloverfield Lane,2016-03-10,15000000,110216998,104,"['Thriller', 'Science Fiction', 'Drama', 'Horror']",en,['United States of America'],333371
+219,Don't Breathe,2016-06-08,9900000,159047649,89,"['Thriller', 'Horror']",en,['United States of America'],300669
+220,Bone Tomahawk,2015-10-23,1800000,0,133,"['Western', 'Horror', 'Drama']",en,['United States of America'],294963
+221,The Neon Demon,2016-05-31,7000000,3377430,118,"['Thriller', 'Horror']",en,"['Belgium', 'Denmark', 'France', 'United States of America']",301365
+222,Split,2017-01-19,9000000,278454358,117,"['Horror', 'Thriller']",en,['United States of America'],381288
+223,It Comes at Night,2017-06-09,5000000,19280931,91,"['Drama', 'Horror', 'Mystery']",en,['United States of America'],418078
+224,mother!,2017-09-13,30000000,44516999,121,"['Drama', 'Thriller', 'Horror']",en,['United States of America'],381283
+225,Suspiria,2018-10-11,20000000,6348889,152,"['Horror', 'Mystery', 'Drama']",en,"['Italy', 'United States of America']",361292
+226,The Clovehitch Killer,2018-11-16,0,0,109,"['Drama', 'Mystery', 'Crime']",en,['United States of America'],544431
+227,Antz,1998-10-02,60000000,171757863,83,"['Adventure', 'Animation', 'Comedy', 'Family']",en,['United States of America'],8916
+228,Lost in Space,1998-04-03,80000000,136159423,130,"['Science Fiction', 'Adventure']",en,['United States of America'],2157
+229,"Lock, Stock and Two Smoking Barrels",1998-08-28,1350000,28356188,105,"['Comedy', 'Crime']",en,"['United Kingdom', 'United States of America']",100
+230,A Simple Plan,1998-12-11,30000000,16316273,121,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],10223
+231,What We Do in the Shadows,2014-06-19,1600000,6263224,86,"['Comedy', 'Horror']",en,"['New Zealand', 'United States of America']",246741
+232,The Babadook,2014-05-22,2000000,10312540,94,"['Drama', 'Horror']",en,"['Australia', 'Canada']",242224
+233,Train to Busan,2016-07-20,8500000,87547518,118,"['Horror', 'Thriller', 'Action', 'Adventure']",ko,['South Korea'],396535
+234,World War Z,2013-06-20,200000000,531865000,116,"['Action', 'Drama', 'Horror', 'Science Fiction', 'Thriller']",en,"['Malta', 'United Kingdom', 'United States of America']",72190
+235,The Cloverfield Paradox,2018-02-04,45000000,0,102,"['Horror', 'Science Fiction', 'Action', 'Thriller']",en,['United States of America'],384521
+236,Hush,2016-03-12,0,0,82,"['Horror', 'Thriller']",en,['United States of America'],376570
+237,The Purge: Anarchy,2014-07-17,9000000,111928365,104,"['Horror', 'Thriller']",en,"['France', 'United States of America']",238636
+238,Overlord,2018-11-01,38000000,41657844,110,"['Horror', 'War', 'Science Fiction']",en,"['Canada', 'United States of America']",438799
+239,Krampus,2015-11-26,15000000,61788393,98,"['Horror', 'Comedy', 'Fantasy']",en,['United States of America'],287903
+240,Unfriended,2014-10-22,1000000,62882090,82,"['Horror', 'Mystery', 'Thriller']",en,['United States of America'],277685
+241,Sinister,2012-03-29,3000000,82515113,110,"['Horror', 'Thriller', 'Mystery']",en,"['Canada', 'United Kingdom', 'United States of America']",82507
+242,Evil Dead,2013-04-05,17000000,97542952,91,['Horror'],en,['United States of America'],109428
+243,The Shallows,2016-06-24,17000000,119100758,86,"['Horror', 'Drama', 'Thriller']",en,"['Australia', 'Spain', 'United States of America']",332567
+244,V/H/S,2012-07-28,0,100345,116,"['Thriller', 'Horror']",en,['United States of America'],84348
+245,V/H/S/2,2013-06-06,0,21833,96,"['Horror', 'Thriller']",en,['United States of America'],159117
+246,Resident Evil: Afterlife,2010-09-09,60000000,300228084,97,"['Action', 'Adventure', 'Horror', 'Science Fiction']",en,"['Canada', 'Germany', 'United States of America']",35791
+247,Devil,2010-09-16,10000000,33583175,80,"['Horror', 'Mystery', 'Thriller']",en,['United States of America'],44040
+248,Resident Evil: Retribution,2012-09-12,65000000,240159255,95,"['Action', 'Horror', 'Science Fiction']",en,"['Canada', 'Germany', 'United States of America']",71679
+249,Fright Night,2011-08-18,30000000,41002607,106,"['Horror', 'Comedy']",en,"['India', 'United States of America']",58151
+250,Let Me In,2010-10-01,20000000,24145613,116,"['Drama', 'Horror', 'Mystery']",en,"['United Kingdom', 'United States of America']",41402
+251,Tusk,2014-09-19,3000000,1882074,102,"['Comedy', 'Horror']",en,"['Canada', 'United States of America']",246403
+252,The Devil's Candy,2017-03-17,0,0,79,"['Horror', 'Drama', 'Mystery', 'Thriller']",en,"['United Kingdom', 'United States of America']",354216
+253,The Loved Ones,2009-09-13,0,0,84,['Horror'],en,['Australia'],46420
+254,Madagascar 3: Europe's Most Wanted,2012-06-06,145000000,746921274,93,"['Animation', 'Family', 'Comedy', 'Adventure']",en,['United States of America'],80321
+255,Rio,2011-04-03,90000000,484635760,96,"['Animation', 'Adventure', 'Comedy', 'Family']",en,['United States of America'],46195
+256,Bao,2018-06-15,0,0,8,"['Animation', 'Family', 'Fantasy']",en,"['Canada', 'United States of America']",514754
+257,How to Train Your Dragon 2,2014-06-05,145000000,621537519,102,"['Fantasy', 'Action', 'Adventure', 'Animation', 'Comedy', 'Family']",en,['United States of America'],82702
+258,Despicable Me 2,2013-06-26,76000000,970761885,98,"['Animation', 'Comedy', 'Family']",en,['United States of America'],93456
+259,The Adventures of Tintin,2011-10-24,130000000,373993951,107,"['Adventure', 'Animation', 'Mystery']",en,"['New Zealand', 'United States of America']",17578
+260,The Good Dinosaur,2015-11-14,175000000,332207671,93,"['Adventure', 'Animation', 'Family']",en,['United States of America'],105864
+261,Megamind,2010-10-28,130000000,321885765,96,"['Animation', 'Action', 'Comedy', 'Family', 'Science Fiction']",en,['United States of America'],38055
+262,Sausage Party,2016-07-11,19000000,140705322,89,"['Adventure', 'Animation', 'Comedy', 'Fantasy']",en,"['Canada', 'United States of America']",223702
+263,Despicable Me,2010-07-08,69000000,533679475,95,"['Family', 'Animation', 'Comedy']",en,['United States of America'],20352
+264,Tangled,2010-11-24,260000000,592461732,100,"['Animation', 'Family']",en,['United States of America'],38757
+265,How to Train Your Dragon,2010-03-18,165000000,494879471,98,"['Fantasy', 'Adventure', 'Animation', 'Family']",en,['United States of America'],10191
+266,Finding Dory,2016-06-16,200000000,1028570889,97,"['Adventure', 'Animation', 'Comedy', 'Family']",en,['United States of America'],127380
+267,Frozen,2013-11-20,150000000,1274219009,102,"['Animation', 'Family', 'Adventure', 'Fantasy']",en,['United States of America'],109445
+268,Big Hero 6,2014-10-24,165000000,657827828,102,"['Adventure', 'Family', 'Animation', 'Action', 'Comedy']",en,['United States of America'],177572
+269,The Lego Movie,2014-02-06,60000000,469160692,100,"['Animation', 'Family', 'Adventure', 'Comedy', 'Fantasy']",en,"['Australia', 'Denmark', 'United States of America']",137106
+270,Toy Story 3,2010-06-16,200000000,1066969703,103,"['Animation', 'Family', 'Comedy']",en,['United States of America'],10193
+271,Isle of Dogs,2018-03-23,62770198,64337744,101,"['Adventure', 'Comedy', 'Animation']",en,"['Germany', 'United States of America']",399174
+272,Zootopia,2016-02-11,150000000,1023784195,109,"['Animation', 'Adventure', 'Family', 'Comedy']",en,['United States of America'],269149
+273,Incredibles 2,2018-06-14,200000000,1242805359,118,"['Action', 'Adventure', 'Animation', 'Family']",en,['United States of America'],260513
+274,Inside Out,2015-06-09,175000000,857611174,95,"['Animation', 'Family', 'Adventure', 'Drama', 'Comedy']",en,['United States of America'],150540
+275,Baby Driver,2017-06-28,34000000,226945087,113,"['Action', 'Crime']",en,['United Kingdom'],339403
+276,Star Wars: The Force Awakens,2015-12-15,245000000,2068223624,136,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],140607
+277,Star Wars: The Last Jedi,2017-12-13,200000000,1332698830,152,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],181808
+278,Deadpool,2016-02-09,58000000,783100000,108,"['Action', 'Adventure', 'Comedy']",en,['United States of America'],293660
+279,Avengers: Age of Ultron,2015-04-22,365000000,1405403694,141,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],99861
+280,The Dark Knight Rises,2012-07-17,250000000,1081041287,165,"['Action', 'Crime', 'Drama', 'Thriller']",en,['United States of America'],49026
+281,Captain America: The Winter Soldier,2014-03-20,170000000,714766572,136,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],100402
+282,Doctor Strange,2016-10-25,180000000,676343174,115,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],284052
+283,Captain America: Civil War,2016-04-27,250000000,1155046416,147,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],271110
+284,Rogue One: A Star Wars Story,2016-12-14,200000000,1056057273,133,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],330459
+285,The Avengers,2012-04-25,220000000,1518815515,143,"['Science Fiction', 'Action', 'Adventure']",en,['United States of America'],24428
+286,Logan,2017-02-28,97000000,619021436,137,"['Action', 'Drama', 'Science Fiction']",en,['United States of America'],263115
+287,Deadpool 2,2018-05-10,110000000,785896609,120,"['Action', 'Comedy', 'Adventure']",en,['United States of America'],383498
+288,Scott Pilgrim vs. the World,2010-08-12,85000000,48000000,113,"['Action', 'Comedy', 'Romance']",en,"['Japan', 'United Kingdom', 'United States of America']",22538
+289,Ant-Man,2015-07-14,130000000,519311965,117,"['Science Fiction', 'Action', 'Adventure']",en,['United States of America'],102899
+290,Kingsman: The Secret Service,2014-12-13,81000000,414351546,129,"['Crime', 'Comedy', 'Action', 'Adventure']",en,"['United Kingdom', 'United States of America']",207703
+291,Jurassic World,2015-06-06,150000000,1671537444,124,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",en,['United States of America'],135397
+292,John Wick,2014-10-22,20000000,88761661,101,"['Action', 'Thriller']",en,['United States of America'],245891
+293,Iron Man 3,2013-04-18,200000000,1215577205,130,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],68721
+294,Captain America: The First Avenger,2011-07-22,140000000,370569774,124,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],1771
+295,Edge of Tomorrow,2014-05-27,178000000,370541256,114,"['Action', 'Science Fiction']",en,['United States of America'],137113
+296,Thor: The Dark World,2013-10-30,170000000,644783140,112,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],76338
+297,Skyfall,2012-10-24,200000000,1142471295,143,"['Action', 'Adventure', 'Thriller']",en,"['United Kingdom', 'United States of America']",37724
+298,Thor,2011-04-21,150000000,449326618,115,"['Adventure', 'Fantasy', 'Action']",en,['United States of America'],10195
+299,X-Men: Days of Future Past,2014-05-15,250000000,747862775,132,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],127585
+300,Mission: Impossible - Fallout,2018-07-13,178000000,791657398,147,"['Action', 'Adventure']",en,['United States of America'],353081
+301,The Hobbit: An Unexpected Journey,2012-12-12,250000000,1021103568,169,"['Adventure', 'Fantasy', 'Action']",en,"['New Zealand', 'United States of America']",49051
+302,John Wick: Chapter 2,2017-02-08,40000000,171539887,122,"['Action', 'Thriller', 'Crime']",en,['United States of America'],324552
+303,The Hunger Games: Catching Fire,2013-11-15,130000000,865011746,146,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],101299
+304,Pacific Rim,2013-07-11,180000000,411002906,131,"['Action', 'Science Fiction', 'Adventure']",en,['United States of America'],68726
+305,Looper,2012-09-26,30000000,47042000,118,"['Action', 'Thriller', 'Science Fiction']",en,['United States of America'],59967
+306,Jumanji: Welcome to the Jungle,2017-12-09,90000000,995339117,119,"['Adventure', 'Action', 'Comedy', 'Fantasy']",en,['United States of America'],353486
+307,Dawn of the Planet of the Apes,2014-06-26,170000000,710644566,130,"['Science Fiction', 'Action', 'Drama', 'Thriller']",en,['United States of America'],119450
+308,The World's End,2013-07-18,20000000,46089287,109,"['Comedy', 'Action', 'Science Fiction']",en,['United Kingdom'],107985
+309,The Amazing Spider-Man,2012-06-23,215000000,757930663,136,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],1930
+310,Kong: Skull Island,2017-03-08,185000000,566652812,118,"['Action', 'Adventure', 'Fantasy']",en,"['China', 'United States of America']",293167
+311,The Hobbit: The Desolation of Smaug,2013-12-11,250000000,958400000,161,"['Fantasy', 'Adventure', 'Action']",en,"['New Zealand', 'United States of America']",57158
+312,21 Jump Street,2012-03-14,42000000,201585328,109,"['Action', 'Comedy', 'Crime']",en,['United States of America'],64688
+313,Kick-Ass,2010-03-22,28000000,96188903,117,"['Action', 'Crime']",en,"['United Kingdom', 'United States of America']",23483
+314,Mission: Impossible - Rogue Nation,2015-07-23,150000000,682716636,131,"['Action', 'Adventure']",en,['United States of America'],177677
+315,The Hobbit: The Battle of the Five Armies,2014-12-10,250000000,956019788,144,"['Action', 'Adventure', 'Fantasy']",en,"['New Zealand', 'United States of America']",122917
+316,This Is the End,2013-06-12,32000000,126041322,106,"['Action', 'Comedy']",en,['United States of America'],109414
+317,22 Jump Street,2014-06-05,50000000,331333876,112,"['Crime', 'Comedy', 'Action']",en,['United States of America'],187017
+318,Star Trek Into Darkness,2013-05-05,190000000,467365246,132,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],54138
+319,The Amazing Spider-Man 2,2014-04-16,200000000,708962323,141,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],102382
+320,Captain Phillips,2013-10-10,55000000,218791811,134,"['Action', 'Drama', 'Thriller']",en,['United States of America'],109424
+321,Mission: Impossible - Ghost Protocol,2011-12-07,145000000,694713380,133,"['Action', 'Thriller', 'Adventure']",en,['United States of America'],56292
+322,The Wolverine,2013-07-23,120000000,415440673,126,"['Action', 'Science Fiction', 'Adventure', 'Fantasy']",en,['United States of America'],76170
+323,American Sniper,2014-12-25,58800000,542307423,133,"['War', 'Action']",en,['United States of America'],190859
+324,Star Trek Beyond,2016-07-07,185000000,343471816,122,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],188927
+325,Godzilla,2014-05-14,160000000,529076069,123,"['Action', 'Drama', 'Science Fiction']",en,['United States of America'],124905
+326,Rise of the Planet of the Apes,2011-08-03,93000000,482860185,105,"['Thriller', 'Action', 'Drama', 'Science Fiction']",en,['United States of America'],61791
+327,Maleficent,2014-05-28,180000000,758539785,97,"['Fantasy', 'Adventure', 'Action', 'Family', 'Romance']",en,['United States of America'],102651
+328,Upgrade,2018-05-31,5000000,16706680,100,"['Action', 'Thriller', 'Science Fiction']",en,"['Australia', 'United States of America']",500664
+329,Raiders of the Lost Ark,1981-06-12,18000000,389925971,115,"['Adventure', 'Action']",en,['United States of America'],85
+330,Valerian and the City of a Thousand Planets,2017-07-20,177200000,225973340,136,"['Adventure', 'Science Fiction', 'Action']",en,"['Belgium', 'Canada', 'China', 'France', 'Germany', 'United Arab Emirates', 'United States of America']",339964
+331,Sicario: Day of the Soldado,2018-06-27,35000000,75836683,122,"['Action', 'Crime', 'Thriller']",en,['United States of America'],400535
+332,Pacific Rim: Uprising,2018-03-21,150000000,290061297,111,"['Action', 'Fantasy', 'Science Fiction', 'Adventure']",en,['United States of America'],268896
+333,The Guest,2014-09-05,5000000,2700051,100,"['Mystery', 'Thriller', 'Action']",en,['United States of America'],241848
+334,Elysium,2013-08-07,115000000,286140700,109,"['Science Fiction', 'Action', 'Drama', 'Thriller']",en,['United States of America'],68724
+335,Rush,2013-09-02,38000000,90247624,123,"['Drama', 'Action']",en,"['United Kingdom', 'United States of America']",96721
+336,Fast Five,2011-04-20,125000000,626137675,130,"['Action', 'Thriller', 'Crime']",en,['United States of America'],51497
+337,Fast & Furious 6,2013-05-21,160000000,788680968,131,"['Action', 'Thriller', 'Crime']",en,"['Japan', 'Spain', 'United Kingdom', 'United States of America']",82992
+338,The Raid 2,2014-03-27,4500000,6566916,150,"['Action', 'Crime', 'Thriller']",id,"['Indonesia', 'United States of America']",180299
+339,Jason Bourne,2016-07-27,120000000,415484914,123,"['Action', 'Thriller', 'Mystery', 'Drama']",en,"['China', 'United States of America']",324668
+340,Kung Fury,2015-05-22,630019,0,32,"['Action', 'Comedy', 'Science Fiction', 'Fantasy']",en,['Sweden'],251516
+341,Transformers: The Last Knight,2017-06-16,217000000,605425157,154,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],335988
+342,Cowboys & Aliens,2011-07-29,163000000,174822325,119,"['Action', 'Science Fiction', 'Thriller', 'Western']",en,"['India', 'United States of America']",49849
+343,The Expendables 2,2012-08-08,100000000,314975955,103,"['Action', 'Adventure', 'Thriller']",en,"['Bulgaria', 'United States of America']",76163
+344,300: Rise of an Empire,2014-03-05,110000000,337580051,102,"['Action', 'Drama', 'War']",en,['United States of America'],53182
+345,Hardcore Henry,2015-09-12,2000000,14333790,96,"['Action', 'Adventure', 'Science Fiction']",en,"['China', 'Russia', 'United States of America']",325348
+346,Gangster Squad,2013-01-09,60000000,105200903,113,"['Crime', 'Drama', 'Action', 'Thriller']",en,['United States of America'],82682
+347,RED,2010-10-13,58000000,199000000,111,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",en,"['Canada', 'United States of America']",39514
+348,The Commuter,2018-01-11,30000000,119942387,104,"['Action', 'Thriller', 'Mystery']",en,"['Canada', 'France', 'United Kingdom', 'United States of America']",399035
+349,The Expendables,2010-08-03,80000000,274470394,103,"['Thriller', 'Adventure', 'Action']",en,"['Bulgaria', 'United States of America']",27578
+350,The Heat,2013-06-27,43000000,158674180,117,"['Action', 'Comedy', 'Crime']",en,"['United Kingdom', 'United States of America']",136795
+351,Brawl in Cell Block 99,2017-09-23,10000000,0,132,"['Action', 'Crime', 'Thriller']",en,['United States of America'],398175
+352,The Other Guys,2010-08-06,100000000,170432927,107,"['Action', 'Comedy', 'Crime']",en,['United States of America'],27581
+353,Transformers: Age of Extinction,2014-06-25,210000000,1104054072,165,"['Science Fiction', 'Action', 'Adventure']",en,['United States of America'],91314
+354,Independence Day: Resurgence,2016-06-22,165000000,389681935,120,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],47933
+355,Transformers: Dark of the Moon,2011-06-28,195000000,1123794079,154,"['Action', 'Science Fiction', 'Adventure']",en,['United States of America'],38356
+356,Sucker Punch,2011-03-24,82000000,89792502,110,"['Action', 'Fantasy', 'Thriller']",en,"['Canada', 'United States of America']",23629
+357,Rampage,2018-04-11,120000000,428028233,107,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],427641
+358,The Incredibles,2004-10-27,92000000,631442092,115,"['Action', 'Adventure', 'Animation', 'Family']",en,['United States of America'],9806
+359,Iron Man,2008-04-30,140000000,585174222,126,"['Action', 'Science Fiction', 'Adventure']",en,['United States of America'],1726
+360,Batman Begins,2005-06-10,150000000,374218673,140,"['Action', 'Crime', 'Drama']",en,"['United Kingdom', 'United States of America']",272
+361,Avatar,2009-12-15,237000000,2923706026,162,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",en,"['United States of America', 'United Kingdom']",19995
+362,Star Trek,2009-05-06,150000000,385680446,127,"['Science Fiction', 'Action', 'Adventure']",en,['United States of America'],13475
+363,Casino Royale,2006-11-14,150000000,599045960,144,"['Adventure', 'Action', 'Thriller']",en,"['Czech Republic', 'Germany', 'United Kingdom', 'United States of America']",36557
+364,Gladiator,2000-05-04,103000000,465361176,155,"['Action', 'Drama', 'Adventure']",en,"['United Kingdom', 'United States of America']",98
+365,Star Wars: Episode II - Attack of the Clones,2002-05-15,120000000,649398328,142,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],1894
+366,Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,140000000,655011224,143,"['Adventure', 'Fantasy', 'Action']",en,['United States of America'],22
+367,V for Vendetta,2006-02-23,54000000,132511035,132,"['Action', 'Thriller', 'Science Fiction']",en,"['Germany', 'United Kingdom', 'United States of America']",752
+368,Star Wars: Episode III - Revenge of the Sith,2005-05-17,113000000,850000000,140,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],1895
+369,Hot Fuzz,2007-02-14,12000000,80573774,121,"['Crime', 'Action', 'Comedy']",en,"['France', 'United Kingdom', 'United States of America']",4638
+370,The Incredible Hulk,2008-06-12,150000000,163712074,114,"['Science Fiction', 'Action', 'Adventure']",en,['United States of America'],1724
+371,X-Men,2000-07-13,75000000,296339527,104,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],36657
+372,"O Brother, Where Art Thou?",2000-08-30,26000000,71870729,107,"['Adventure', 'Comedy', 'Crime']",en,"['France', 'United Kingdom', 'United States of America']",134
+373,Sherlock Holmes,2009-12-23,90000000,524028679,129,"['Action', 'Adventure', 'Crime', 'Mystery']",en,"['Australia', 'Germany', 'United Kingdom', 'United States of America']",10528
+374,Cloverfield,2008-01-15,25000000,170764026,85,"['Action', 'Thriller', 'Science Fiction']",en,['United States of America'],7191
+375,X2,2003-04-27,110000000,407711549,133,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],36658
+376,300,2007-03-07,65000000,456082343,117,"['Action', 'Adventure', 'War']",en,"['Bulgaria', 'Canada', 'United States of America']",1271
+377,I Am Legend,2007-12-12,150000000,585410052,101,"['Drama', 'Science Fiction', 'Thriller']",en,['United States of America'],6479
+378,Tropic Thunder,2008-08-09,92000000,195702811,107,"['Action', 'Comedy', 'Adventure', 'War']",en,"['United States of America', 'United Kingdom', 'Germany']",7446
+379,Night at the Museum,2006-12-20,110000000,574480841,108,"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy']",en,"['United States of America', 'United Kingdom']",1593
+380,The Bourne Ultimatum,2007-08-03,70000000,442824138,115,"['Action', 'Drama', 'Mystery', 'Thriller']",en,"['France', 'Germany', 'Spain', 'United States of America']",2503
+381,Taken,2008-02-18,25000000,226830568,94,"['Action', 'Thriller']",en,"['France', 'United States of America']",8681
+382,The Matrix Reloaded,2003-05-15,150000000,738599701,138,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,['United States of America'],604
+383,X-Men Origins: Wolverine,2009-04-28,150000000,373062864,107,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,['United States of America'],2080
+384,Transformers,2007-06-27,150000000,709709780,143,"['Adventure', 'Science Fiction', 'Action']",en,['United States of America'],1858
+385,The Bourne Identity,2002-06-14,60000000,214034224,119,"['Action', 'Drama', 'Mystery', 'Thriller']",en,"['United States of America', 'Germany', 'Czech Republic']",2501
+386,Mr. & Mrs. Smith,2005-06-07,110000000,487287646,120,"['Action', 'Comedy', 'Drama', 'Thriller']",en,"['Switzerland', 'United States of America']",787
+387,Hellboy,2004-04-02,66000000,99318987,122,"['Fantasy', 'Action']",en,"['Czech Republic', 'United States of America']",1487
+388,Quantum of Solace,2008-10-29,200000000,589580482,106,"['Adventure', 'Action', 'Thriller', 'Crime']",en,"['United Kingdom', 'United States of America']",10764
+389,The Matrix Revolutions,2003-11-05,150000000,424988211,129,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,['United States of America'],605
+390,The Bourne Supremacy,2004-07-23,75000000,288500217,108,"['Action', 'Drama', 'Thriller']",en,"['Germany', 'United States of America']",2502
+391,"I, Robot",2004-07-15,120000000,347234916,115,"['Action', 'Science Fiction']",en,"['United States of America', 'Germany']",2048
+392,Black Hawk Down,2001-12-28,92000000,172989651,145,"['Action', 'History', 'War']",en,"['United Kingdom', 'United States of America']",855
+393,Transformers: Revenge of the Fallen,2009-06-19,200000000,836303693,149,"['Science Fiction', 'Action', 'Adventure']",en,['United States of America'],8373
+394,2012,2009-10-10,200000000,791217826,158,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],14161
+395,National Treasure,2004-11-19,100000000,347512318,131,"['Adventure', 'Action', 'Thriller', 'Mystery']",en,['United States of America'],2059
+396,Hancock,2008-07-01,150000000,629443428,92,"['Fantasy', 'Action']",en,['United States of America'],8960
+397,The Fast and the Furious,2001-06-22,38000000,207283925,106,"['Action', 'Crime', 'Thriller']",en,"['Germany', 'United States of America']",9799
+398,The Day After Tomorrow,2004-05-26,125000000,552639571,124,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",en,['United States of America'],435
+399,Zombieland,2009-10-07,23600000,102391540,88,"['Comedy', 'Horror']",en,['United States of America'],19908
+400,28 Days Later,2002-10-31,5000000,85720385,113,"['Horror', 'Thriller', 'Science Fiction']",en,['United Kingdom'],170
+401,The Descent,2005-07-08,3500000,57130027,99,"['Adventure', 'Horror']",en,['United Kingdom'],9392
+402,Final Destination,2000-03-17,23000000,112880294,98,['Horror'],en,['United States of America'],9532
+403,Dawn of the Dead,2004-03-19,26000000,102278712,101,"['Horror', 'Action']",en,"['Canada', 'France', 'Japan', 'United States of America']",924
+404,Drag Me to Hell,2009-03-15,30000000,90810892,99,"['Horror', 'Thriller']",en,['United States of America'],16871
+405,Paranormal Activity,2007-09-14,215000,193355800,86,"['Horror', 'Mystery']",en,['United States of America'],23827
+406,The Mist,2007-11-21,18000000,57470220,126,"['Horror', 'Science Fiction', 'Thriller']",en,['United States of America'],5876
+407,Funny Games,2008-03-14,15000000,7938872,111,"['Drama', 'Thriller', 'Horror']",en,"['Austria', 'France', 'Germany', 'Italy', 'United Kingdom', 'United States of America']",8461
+408,28 Weeks Later,2007-04-26,15000000,65048678,100,"['Horror', 'Thriller', 'Science Fiction']",en,"['Spain', 'United Kingdom']",1562
+409,Blade II,2002-03-22,54000000,155010032,117,"['Fantasy', 'Horror', 'Action', 'Thriller']",en,['United States of America'],36586
+410,AVP: Alien vs. Predator,2004-08-12,70000000,177427090,101,"['Adventure', 'Science Fiction', 'Action', 'Horror']",en,"['Czech Republic', 'Germany', 'United Kingdom', 'United States of America']",395
+411,30 Days of Night,2007-10-17,30000000,75505973,113,"['Horror', 'Thriller']",en,"['New Zealand', 'United States of America']",4513
+412,Blade: Trinity,2004-12-08,65000000,128905366,123,"['Action', 'Horror', 'Fantasy']",en,['United States of America'],36648
+413,The Grudge,2004-10-22,10000000,183474602,92,"['Horror', 'Mystery', 'Thriller']",en,['United States of America'],1970
+414,The Final Destination,2009-08-26,40000000,186167139,82,"['Horror', 'Mystery']",en,['United States of America'],19912
+415,The Blair Witch Project,1999-07-14,60000,248639099,81,"['Horror', 'Mystery']",en,['United States of America'],2667
+416,Tremors,1990-01-19,11000000,48572000,96,"['Horror', 'Action', 'Science Fiction']",en,['United States of America'],9362
+417,A Nightmare on Elm Street,1984-11-09,1100000,57000000,91,['Horror'],en,"['United States of America', 'United Kingdom']",377
+418,The Evil Dead,1981-09-10,350000,29612367,85,['Horror'],en,['United States of America'],764
+419,Evil Dead II,1987-03-13,3500000,10900000,84,"['Horror', 'Comedy', 'Fantasy']",en,['United States of America'],765
+420,Poltergeist,1982-06-04,10700000,122200000,114,['Horror'],en,['United States of America'],609
+421,Re-Animator,1985-10-18,900000,2023414,86,"['Science Fiction', 'Comedy', 'Horror']",en,['United States of America'],1694
+422,Altered States,1980-12-25,15000000,19853892,102,"['Horror', 'Science Fiction', 'Thriller']",en,['United States of America'],11542
+423,From Beyond,1986-10-24,4500000,1261000,85,"['Horror', 'Science Fiction']",en,['United States of America'],14510
+424,Society,1989-05-13,0,0,100,"['Comedy', 'Horror', 'Mystery']",en,['United States of America'],22244
+425,The Matrix,1999-03-30,63000000,463517383,136,"['Action', 'Science Fiction']",en,['United States of America'],603
+426,Star Wars: Episode I - The Phantom Menace,1999-05-19,115000000,924317558,136,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],1893
+427,Men in Black,1997-07-02,90000000,589390539,98,"['Action', 'Adventure', 'Comedy', 'Science Fiction']",en,['United States of America'],607
+428,Braveheart,1995-05-24,72000000,213216216,177,"['Action', 'Drama', 'History', 'War']",en,['United States of America'],197
+429,Independence Day,1996-06-25,75000000,817400891,145,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],602
+430,Point Break,1991-01-31,24000000,83531958,122,"['Action', 'Thriller', 'Crime']",en,"['Japan', 'United States of America']",1089
+431,Batman & Robin,1997-06-20,125000000,238207122,125,"['Action', 'Science Fiction', 'Adventure']",en,['United States of America'],415
+432,True Romance,1993-09-09,12500000,12600000,120,"['Action', 'Crime', 'Romance']",en,"['France', 'United States of America']",319
+433,Face/Off,1997-06-27,80000000,245676146,138,"['Action', 'Crime', 'Science Fiction']",en,['United States of America'],754
+434,Speed,1994-06-09,30000000,350448145,116,"['Action', 'Adventure', 'Crime']",en,['United States of America'],1637
+435,Starship Troopers,1997-11-07,105000000,121214377,129,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,['United States of America'],563
+436,The Mummy,1999-04-16,80000000,415885488,124,"['Adventure', 'Action', 'Fantasy']",en,['United States of America'],564
+437,Die Hard: With a Vengeance,1995-05-19,90000000,366101666,128,"['Action', 'Thriller']",en,['United States of America'],1572
+438,The Fugitive,1993-08-06,44000000,368875760,131,"['Action', 'Thriller', 'Drama']",en,['United States of America'],5503
+439,Teenage Mutant Ninja Turtles,1990-03-30,13500000,201965915,93,"['Science Fiction', 'Action', 'Adventure', 'Comedy', 'Family']",en,"['Hong Kong', 'United States of America']",1498
+440,Hard Boiled,1992-04-16,4500000,0,126,"['Action', 'Thriller', 'Crime']",cn,['Hong Kong'],11782
+441,The Crow,1994-05-11,23000000,50694672,102,"['Fantasy', 'Action', 'Thriller']",en,['United States of America'],9495
+442,The Rock,1996-06-07,75000000,335062621,137,"['Action', 'Adventure', 'Thriller']",en,['United States of America'],9802
+443,GoldenEye,1995-11-16,58000000,352194034,130,"['Adventure', 'Action', 'Thriller']",en,"['United Kingdom', 'United States of America']",710
+444,Die Hard 2,1990-07-03,70000000,240031094,124,"['Action', 'Thriller']",en,['United States of America'],1573
+445,Drunken Master III,1994-07-02,0,0,91,"['Action', 'Thriller']",cn,"['China', 'Hong Kong']",66018
+446,Rumble in the Bronx,1995-01-21,7500000,32392047,104,"['Crime', 'Action', 'Comedy', 'Thriller']",cn,['Hong Kong'],33542
+447,The Empire Strikes Back,1980-05-20,18000000,538400000,124,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],1891
+448,Return of the Jedi,1983-05-25,32350000,572700000,132,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],1892
+449,The Terminator,1984-10-26,6400000,78371200,108,"['Action', 'Thriller', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",218
+450,Indiana Jones and the Last Crusade,1989-05-24,48000000,474171806,127,"['Adventure', 'Action']",en,['United States of America'],89
+451,Indiana Jones and the Temple of Doom,1984-05-23,28000000,333000000,118,"['Adventure', 'Action']",en,['United States of America'],87
+452,RoboCop,1987-07-17,13000000,53424681,102,"['Action', 'Thriller', 'Science Fiction']",en,['United States of America'],5548
+453,Predator,1987-06-12,15000000,98267558,107,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",en,"['Mexico', 'United States of America']",106
+454,Lethal Weapon,1987-03-06,15000000,120207127,110,"['Adventure', 'Action', 'Comedy', 'Thriller', 'Crime']",en,['United States of America'],941
+455,The Blues Brothers,1980-06-16,27000000,115229890,133,"['Music', 'Comedy', 'Action', 'Crime']",en,['United States of America'],525
+456,Escape from New York,1981-05-23,6000000,50244700,99,"['Science Fiction', 'Action']",en,"['United Kingdom', 'United States of America']",1103
+457,Mad Max 2,1981-12-24,2000000,24600832,96,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,['Australia'],8810
+458,Top Gun,1986-05-16,15000000,356830601,110,"['Romance', 'Drama', 'Action']",en,['United States of America'],744
+459,They Live,1988-11-23,4000000,13008928,94,"['Science Fiction', 'Action']",en,['United States of America'],8337
+460,Commando,1985-10-03,10000000,57500000,90,"['Action', 'Adventure', 'Thriller']",en,['United States of America'],10999
+461,Police Story,1985-12-14,0,113164,100,"['Action', 'Crime', 'Thriller']",cn,['Hong Kong'],9056
+462,Road House,1989-05-19,15000000,30050028,114,"['Action', 'Thriller']",en,['United States of America'],10135
+463,Raw,2016-11-11,3500000,4100000,99,"['Drama', 'Horror']",fr,"['Belgium', 'France', 'United States of America']",393519
+464,Widows,2018-11-06,42000000,73866088,129,"['Crime', 'Thriller']",en,"['United States of America', 'United Kingdom']",401469
+465,The Piano Teacher,2001-09-05,3000000,9801375,131,"['Drama', 'Romance']",fr,"['Austria', 'France', 'Germany']",1791
+466,Predestination,2014-08-28,5500000,4942449,97,"['Science Fiction', 'Thriller']",en,['Australia'],206487
+467,Source Code,2011-03-30,32000000,147332697,94,"['Thriller', 'Science Fiction', 'Mystery']",en,"['Canada', 'France', 'United States of America']",45612
+468,Gattaca,1997-09-07,36000000,12532777,106,"['Thriller', 'Science Fiction', 'Mystery', 'Romance']",en,['United States of America'],782
+469,Click,2006-06-23,82500000,240685326,107,"['Comedy', 'Drama', 'Fantasy']",en,['United States of America'],9339
+470,Attack the Block,2011-05-12,14350531,3964682,88,"['Action', 'Comedy', 'Science Fiction']",en,"['France', 'United Kingdom', 'United States of America']",59678
+471,Contagion,2011-09-08,60000000,137551594,106,"['Drama', 'Thriller', 'Science Fiction']",en,"['United States of America', 'United Arab Emirates']",39538
+472,Hellboy II: The Golden Army,2008-07-11,85000000,160388063,120,"['Fantasy', 'Adventure', 'Action']",en,"['Germany', 'Hungary', 'United States of America']",11253
+473,Mr. Nobody,2009-11-06,47000000,2331721,141,"['Science Fiction', 'Drama', 'Romance', 'Fantasy']",en,"['Belgium', 'Canada', 'France', 'Germany']",31011
+474,Where the Wild Things Are,2009-10-16,100000000,100140916,101,"['Family', 'Fantasy', 'Drama', 'Adventure']",en,"['Australia', 'Germany', 'United States of America']",16523
+475,Chronicle,2012-02-01,15000000,145000000,84,"['Science Fiction', 'Drama', 'Thriller']",en,['United States of America'],76726
+476,TRON: Legacy,2010-12-14,170000000,400062763,125,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],20526
+477,The Prestige,2006-10-19,40000000,109676311,130,"['Drama', 'Mystery', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",1124
+478,The Edge of Seventeen,2016-11-18,9000000,18803648,105,"['Comedy', 'Drama']",en,['United States of America'],376660
+479,True Grit,2010-12-22,38000000,252276927,110,"['Drama', 'Adventure', 'Western']",en,['United States of America'],44264
+480,Raising Arizona,1987-03-01,6000000,29180280,94,"['Comedy', 'Crime']",en,['United States of America'],378
+481,Miller's Crossing,1990-09-21,14000000,5080409,115,"['Drama', 'Thriller', 'Crime']",en,['United States of America'],379
+482,Blood Simple,1984-09-07,1500000,4229114,97,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],11368
+483,The Wicker Man,2006-08-31,40000000,38805380,102,"['Horror', 'Mystery', 'Thriller']",en,"['Canada', 'Germany', 'Mexico', 'United Kingdom', 'United States of America']",9708
+484,National Treasure: Book of Secrets,2007-12-13,130000000,459242249,124,"['Action', 'Adventure', 'Mystery', 'Thriller']",en,['United States of America'],6637
+485,Ghost Rider: Spirit of Vengeance,2011-12-10,57000000,132563930,96,"['Action', 'Fantasy', 'Thriller']",en,['United States of America'],71676
+486,Knowing,2009-03-19,50000000,155446362,121,"['Action', 'Mystery', 'Science Fiction', 'Thriller']",en,"['United Kingdom', 'United States of America', 'Australia']",13811
+487,Teen Titans Go! To the Movies,2018-07-27,10000000,28646544,84,"['Animation', 'Action', 'Comedy', 'Science Fiction']",en,['United States of America'],474395
+488,Madagascar,2005-05-25,75000000,542063846,86,"['Family', 'Animation', 'Adventure', 'Comedy']",en,['United States of America'],953
+489,Black Swan,2010-12-03,13000000,329398046,108,"['Drama', 'Thriller', 'Horror']",en,['United States of America'],44214
+490,Hacksaw Ridge,2016-10-07,40000000,175302354,139,"['Drama', 'History', 'War']",en,"['Australia', 'China', 'United Kingdom', 'United States of America']",324786
+491,Gone Girl,2014-10-01,61000000,369330363,149,"['Mystery', 'Thriller', 'Drama']",en,['United States of America'],210577
+492,War for the Planet of the Apes,2017-07-11,150000000,490719763,140,"['Drama', 'Science Fiction', 'War']",en,"['Canada', 'United States of America', 'New Zealand']",281338
+493,Nightcrawler,2014-10-23,8500000,50300000,118,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],242582
+494,Hell or High Water,2016-08-11,12000000,37589296,102,"['Western', 'Crime', 'Drama']",en,['United States of America'],338766
+495,Prometheus,2012-05-30,130000000,403354469,124,"['Science Fiction', 'Adventure', 'Mystery']",en,"['United Kingdom', 'United States of America']",70981
+496,Zodiac,2007-03-02,65000000,84785914,157,"['Crime', 'Drama', 'Mystery', 'Thriller']",en,['United States of America'],1949
+497,The Revenant,2015-12-25,135000000,532950503,157,"['Western', 'Drama', 'Adventure']",en,"['Canada', 'Hong Kong', 'Taiwan', 'United States of America']",281957
+498,Blue Ruin,2014-04-25,420000,993313,91,"['Crime', 'Thriller']",en,['United States of America'],188166
+499,Watchmen,2009-03-04,130000000,185258983,163,"['Action', 'Mystery', 'Science Fiction']",en,['United States of America'],13183
+500,12 Years a Slave,2013-10-18,20000000,187000000,134,"['Drama', 'History']",en,"['United States of America', 'United Kingdom']",76203
+501,Moonrise Kingdom,2012-05-16,16000000,68263166,94,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],83666
+502,The Boondock Saints,1999-01-22,6000000,50000000,108,"['Action', 'Thriller', 'Crime']",en,"['Canada', 'United States of America']",8374
+503,Green Room,2016-04-15,5000000,3769214,95,"['Horror', 'Crime', 'Thriller']",en,['United States of America'],313922
+504,Terminator Salvation,2009-05-20,200000000,371353001,115,"['Action', 'Science Fiction', 'Thriller']",en,"['Germany', 'United Kingdom', 'United States of America']",534
+505,Hero,2002-07-22,31000000,177394432,99,"['Drama', 'Adventure', 'Action', 'History']",zh,"['China', 'Hong Kong']",79
+506,The Chronicles of Riddick,2004-06-11,105000000,115772733,119,"['Action', 'Science Fiction']",en,['United States of America'],2789
+507,Up,2009-05-28,175000000,735099082,96,"['Animation', 'Comedy', 'Family', 'Adventure']",en,['United States of America'],14160
+508,The Goonies,1985-06-07,19000000,61389680,114,"['Adventure', 'Comedy', 'Family']",en,['United States of America'],9340
+509,Ghostbusters,1984-06-08,30000000,296187079,107,"['Comedy', 'Fantasy']",en,['United States of America'],620
+510,El Topo,1970-12-18,400000,0,125,"['Action', 'Adventure', 'Drama', 'Western']",es,['Mexico'],13041
+511,Groundhog Day,1993-02-11,14600000,71074049,101,"['Romance', 'Fantasy', 'Drama', 'Comedy']",en,['United States of America'],137
+512,La La Land,2016-11-29,30000000,447407695,129,"['Comedy', 'Drama', 'Romance', 'Music']",en,"['Hong Kong', 'United States of America']",313369
+513,Ferris Bueller's Day Off,1986-06-11,6000000,70136369,103,['Comedy'],en,['United States of America'],9377
+514,Ingrid Goes West,2017-08-11,0,24931915,97,"['Comedy', 'Drama']",en,['United States of America'],411741
+515,Back to the Future Part II,1989-11-22,40000000,332000000,108,"['Adventure', 'Comedy', 'Science Fiction']",en,['United States of America'],165
+516,Hunt for the Wilderpeople,2016-03-31,2500000,23915910,101,"['Adventure', 'Comedy', 'Drama']",en,['New Zealand'],371645
+517,Airplane!,1980-07-02,3500000,83453539,88,['Comedy'],en,['United States of America'],813
+518,The Room,2003-06-27,6000000,1752988,99,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],17473
+519,Life of Brian,1979-08-17,4000000,20745728,94,['Comedy'],en,['United Kingdom'],583
+520,American Beauty,1999-09-15,15000000,356296601,122,['Drama'],en,['United States of America'],14
+521,Office Space,1999-02-19,10000000,12827813,90,['Comedy'],en,['United States of America'],1542
+522,"South Park: Bigger, Longer & Uncut",1999-06-30,21000000,83137603,81,"['Animation', 'Comedy']",en,['United States of America'],9473
+523,Friday,1995-04-26,3500000,28215918,97,['Comedy'],en,['United States of America'],10634
+524,THX 1138,1971-03-11,777000,2437000,86,"['Science Fiction', 'Action', 'Drama']",en,['United States of America'],636
+525,The Way Way Back,2013-06-06,4600000,23198652,103,"['Comedy', 'Drama']",en,['United States of America'],147773
+526,Dope,2015-06-19,7000000,17986781,103,"['Crime', 'Drama', 'Comedy']",en,['United States of America'],308639
+527,Superman,1978-12-14,55000000,300218018,143,"['Science Fiction', 'Action', 'Adventure']",en,"['Panama', 'Switzerland', 'United Kingdom', 'United States of America']",1924
+528,Me and Earl and the Dying Girl,2015-06-12,0,0,105,"['Drama', 'Comedy']",en,['United States of America'],308369
+529,The Texas Chain Saw Massacre,1974-10-01,140000,30900000,83,['Horror'],en,['United States of America'],30497
+530,(500) Days of Summer,2009-07-17,7500000,60781545,95,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],19913
+531,Dazed and Confused,1993-09-24,69000000,7993039,102,['Comedy'],en,['United States of America'],9571
+532,The Place Beyond the Pines,2013-03-14,15000000,47135966,140,"['Drama', 'Crime']",en,['United States of America'],97367
+533,Toy Story 2,1999-10-30,90000000,497366869,92,"['Animation', 'Comedy', 'Family']",en,['United States of America'],863
+534,Catch Me If You Can,2002-12-16,52000000,352114312,141,"['Drama', 'Crime']",en,['United States of America'],640
+535,District 9,2009-08-05,30000000,210819611,112,['Science Fiction'],en,"['New Zealand', 'South Africa', 'United States of America']",17654
+536,The Exorcist,1973-12-26,12000000,441405644,122,['Horror'],en,['United States of America'],9552
+537,Aladdin,1992-11-25,28000000,504050219,95,"['Animation', 'Family', 'Adventure', 'Fantasy', 'Romance']",en,['United States of America'],812
+538,Trainspotting,1996-02-23,4000000,16491080,94,"['Drama', 'Crime']",en,['United Kingdom'],627
+539,The Gift,2015-07-31,5000000,58978653,108,"['Thriller', 'Mystery', 'Drama']",en,"['Australia', 'United States of America']",328425
+540,Gods of Egypt,2016-02-25,140000000,150680864,127,"['Action', 'Adventure', 'Fantasy']",en,"['Australia', 'Hong Kong', 'United States of America']",205584
+541,Space Jam,1996-11-15,80000000,250200000,88,"['Family', 'Animation', 'Comedy', 'Science Fiction']",en,['United States of America'],2300
+542,Grimsby,2016-02-24,35000000,27979040,83,"['Action', 'Comedy']",en,"['Australia', 'United States of America', 'United Kingdom']",267193
+543,Carol,2015-11-20,11800000,40272135,118,"['Romance', 'Drama']",en,"['United Kingdom', 'United States of America']",258480
+544,Shrek 2,2004-05-19,150000000,928760770,93,"['Animation', 'Family', 'Comedy', 'Fantasy', 'Adventure']",en,['United States of America'],809
+545,Locke,2014-04-10,2000000,4635300,85,"['Drama', 'Thriller']",en,"['United Kingdom', 'United States of America']",210479
+546,Adventureland,2009-04-03,9800000,17164820,107,"['Comedy', 'Drama']",en,['United States of America'],16614
+547,Lifeforce,1985-06-21,25000000,11603545,102,"['Science Fiction', 'Horror', 'Thriller']",en,['United Kingdom'],11954
+548,Sleepaway Camp,1983-11-18,350000,11000000,85,['Horror'],en,['United States of America'],13567
+549,Slumdog Millionaire,2008-11-12,15000000,378410542,120,"['Drama', 'Romance']",en,['United Kingdom'],12405
+550,The Princess Bride,1987-09-25,16000000,30861665,99,"['Adventure', 'Family', 'Fantasy', 'Comedy', 'Romance']",en,['United States of America'],2493
+551,Brick,2006-03-31,475000,3919254,110,"['Drama', 'Mystery']",en,['United States of America'],9270
+552,Moon,2009-06-12,5000000,9760104,97,"['Science Fiction', 'Drama']",en,"['United Kingdom', 'United States of America']",17431
+553,Killer Joe,2011-09-10,10000000,4633668,102,"['Crime', 'Comedy', 'Thriller']",en,['United States of America'],73567
+554,Westworld,1973-08-15,1200000,10000000,89,"['Adventure', 'Science Fiction', 'Western']",en,['United States of America'],2362
+555,The Sixth Sense,1999-08-06,40000000,672806292,107,"['Mystery', 'Thriller', 'Drama']",en,['United States of America'],745
+556,Harry Potter and the Order of the Phoenix,2007-07-08,150000000,938212738,138,"['Adventure', 'Fantasy']",en,"['United Kingdom', 'United States of America']",675
+557,Jackass Number Two,2006-09-22,11000000,72778712,92,"['Action', 'Comedy', 'Documentary']",en,['United States of America'],12094
+558,Mud,2013-04-26,10000000,32613173,130,['Drama'],en,['United States of America'],103731
+559,10 Things I Hate About You,1999-03-30,16000000,53478166,97,"['Comedy', 'Romance', 'Drama']",en,['United States of America'],4951
+560,50/50,2011-09-30,8000000,39187783,100,"['Comedy', 'Drama']",en,['United States of America'],40807
+561,The Blind Side,2009-11-20,29000000,309208309,129,['Drama'],en,['United States of America'],22881
+562,Alice in Wonderland,2010-03-03,200000000,1025467110,108,"['Family', 'Fantasy', 'Adventure']",en,['United States of America'],12155
+563,The Hunger Games,2012-03-12,75000000,694394724,142,"['Science Fiction', 'Adventure', 'Fantasy']",en,['United States of America'],70160
+564,The Hangover,2009-06-02,35000000,469310836,100,['Comedy'],en,"['Germany', 'United States of America']",18785
+565,Wedding Crashers,2005-07-13,40000000,288485135,119,"['Comedy', 'Romance']",en,['United States of America'],9522
+566,Anchorman: The Legend of Ron Burgundy,2004-06-28,26000000,90574188,95,['Comedy'],en,['United States of America'],8699
+567,Forrest Gump,1994-06-23,55000000,677387716,142,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],13
+568,Superbad,2007-03-20,20000000,170812526,113,['Comedy'],en,['United States of America'],8363
+569,Moneyball,2011-09-23,50000000,110206216,134,['Drama'],en,['United States of America'],60308
+570,"Crazy, Stupid, Love.",2011-07-29,50000000,145079584,118,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],50646
+571,Freaky Friday,2003-08-05,26000000,160846332,97,"['Comedy', 'Family', 'Fantasy']",en,['United States of America'],10330
+572,Harry Potter and the Philosopher's Stone,2001-11-16,125000000,976475550,152,"['Adventure', 'Fantasy']",en,"['United Kingdom', 'United States of America']",671
+573,American Pie,1999-07-09,11000000,235483004,95,"['Comedy', 'Romance']",en,['United States of America'],2105
+574,Enter the Dragon,1973-08-17,10000000,21485066,102,['Action'],en,"['Hong Kong', 'United States of America']",9461
+575,Hot Tub Time Machine,2010-03-26,36000000,64780213,101,"['Science Fiction', 'Comedy', 'Adventure']",en,['United States of America'],23048
+576,127 Hours,2010-11-12,18000000,35692920,94,"['Adventure', 'Drama', 'Thriller']",en,"['France', 'United Kingdom', 'United States of America']",44115
+577,Austin Powers: The Spy Who Shagged Me,1999-06-08,33000000,312016928,95,"['Adventure', 'Comedy', 'Crime', 'Science Fiction']",en,['United States of America'],817
+578,Snatch,2000-09-01,10000000,83557872,103,"['Crime', 'Comedy']",en,"['United Kingdom', 'United States of America']",107
+579,White Chicks,2004-06-23,37000000,113086475,109,"['Comedy', 'Crime']",en,['United States of America'],12153
+580,Battle Royale,2000-12-16,4500000,30600000,122,"['Drama', 'Thriller', 'Action']",ja,['Japan'],3176
+581,The Book of Eli,2010-01-14,80000000,157107755,118,"['Action', 'Thriller', 'Science Fiction']",en,['United States of America'],20504
+582,American Gangster,2007-11-02,100000000,266465037,157,"['Drama', 'Crime']",en,"['United Kingdom', 'United States of America']",4982
+583,Remember the Titans,2000-09-29,30000000,136706683,113,['Drama'],en,['United States of America'],10637
+584,Unstoppable,2010-11-04,100000000,167805466,98,"['Action', 'Thriller']",en,['United States of America'],44048
+585,2 Guns,2013-08-02,61000000,131940411,109,"['Action', 'Comedy', 'Crime']",en,['United States of America'],136400
+586,The Pursuit of Happyness,2006-12-14,55000000,307077295,117,['Drama'],en,['United States of America'],1402
+587,Anchorman 2: The Legend Continues,2013-12-18,50000000,173649015,119,['Comedy'],en,['United States of America'],109443
+588,Everybody Wants Some!!,2016-03-30,10000000,3400278,116,['Comedy'],en,['United States of America'],295699
+589,Black Mirror: Bandersnatch,2018-12-28,0,0,90,"['Science Fiction', 'Mystery', 'Drama', 'Thriller', 'TV Movie']",en,"['United States of America', 'United Kingdom']",569547
+590,Hereditary,2018-06-07,10000000,82530552,128,"['Horror', 'Mystery', 'Thriller']",en,['United States of America'],493922
+591,Shaolin Soccer,2001-07-05,10000005,42776760,113,"['Action', 'Comedy']",cn,['Hong Kong'],11770
+592,Three,2016-08-26,0,0,6,"['Horror', 'Thriller']",en,['United States of America'],413133
+593,Drug War,2012-11-15,0,0,107,"['Action', 'Drama', 'Crime']",cn,"['Hong Kong', 'China']",110410
+594,Stretch,2014-10-14,0,0,94,"['Action', 'Comedy', 'Thriller']",en,['United States of America'],227300
+595,Kung Fu Hustle,2004-02-10,20000000,102034104,99,"['Action', 'Comedy', 'Crime', 'Fantasy']",cn,"['China', 'Hong Kong', 'United States of America']",9470
+596,Under the Silver Lake,2018-06-21,8500000,2053469,139,"['Crime', 'Drama', 'Mystery']",en,['United States of America'],396461
+597,Searching,2018-08-24,1000000,75462037,102,"['Thriller', 'Mystery', 'Drama']",en,['United States of America'],489999
+598,Hobo with a Shotgun,2011-05-06,3000000,748453,86,"['Crime', 'Action', 'Thriller']",en,"['Canada', 'United States of America']",49010
+599,The Breakfast Club,1985-02-15,1000000,51525171,98,"['Comedy', 'Drama']",en,['United States of America'],2108
+600,The Mummy Returns,2001-05-04,98000000,443280904,130,"['Adventure', 'Action', 'Fantasy']",en,['United States of America'],1734
+601,The Mummy: Tomb of the Dragon Emperor,2008-07-01,145000000,403449830,112,"['Adventure', 'Action', 'Fantasy']",en,"['China', 'United States of America']",1735
+602,Journey to the Center of the Earth,2008-07-10,45000000,101702060,93,"['Action', 'Science Fiction', 'Adventure', 'Comedy', 'Family']",en,['United States of America'],88751
+603,Looney Tunes: Back in Action,2003-11-14,80000000,68514844,93,"['Animation', 'Comedy', 'Family']",en,['United States of America'],10715
+604,Bedazzled,2000-10-19,48000000,90383208,93,"['Fantasy', 'Comedy', 'Romance']",en,"['Germany', 'United States of America']",1636
+605,Austin Powers: International Man of Mystery,1997-05-02,16500000,67711748,94,"['Science Fiction', 'Comedy', 'Crime']",en,"['Germany', 'United States of America']",816
+606,Austin Powers in Goldmember,2002-07-26,63000000,296938801,93,"['Comedy', 'Crime', 'Science Fiction']",en,['United States of America'],818
+607,Beasts of No Nation,2015-09-11,6000000,9077700,137,"['Drama', 'War']",en,"['Ghana', 'United States of America']",283587
+608,The Losers,2010-04-23,25000000,23580000,97,"['Action', 'Adventure', 'Crime', 'Mystery', 'Thriller']",en,['United States of America'],34813
+609,Titanic,1997-11-18,200000000,2264162353,194,"['Drama', 'Romance']",en,['United States of America'],597
+610,Romeo + Juliet,1996-11-01,14500000,147298761,120,"['Drama', 'Romance']",en,"['Australia', 'Mexico', 'United States of America']",454
+611,The Great Gatsby,2013-05-09,105000000,351040419,143,"['Drama', 'Romance']",en,"['United States of America', 'Australia']",64682
+612,Sin City,2005-04-01,40000000,158733820,124,"['Thriller', 'Action', 'Crime']",en,['United States of America'],187
+613,Spy Kids,2001-03-18,35000000,147934180,88,"['Action', 'Comedy', 'Family', 'Adventure']",en,['United States of America'],10054
+614,Machete,2010-09-01,20000000,45491656,105,"['Action', 'Comedy', 'Thriller']",en,['United States of America'],23631
+615,Spy Kids 3-D: Game Over,2003-07-25,38000000,197011982,84,"['Action', 'Adventure', 'Comedy', 'Family', 'Science Fiction']",en,['United States of America'],12279
+616,G.I. Joe: The Rise of Cobra,2009-08-03,175000000,302469017,118,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,"['Czech Republic', 'United States of America']",14869
+617,The Thin Red Line,1998-12-25,52000000,98126565,171,"['Drama', 'History', 'War']",en,"['Canada', 'United States of America', 'Solomon Islands']",8741
+618,The Pink Panther,2006-02-10,65000000,158851357,93,"['Comedy', 'Mystery', 'Crime', 'Adventure', 'Family']",en,"['Czech Republic', 'United States of America']",12096
+619,Shoot 'Em Up,2007-07-26,39000000,26820641,86,"['Action', 'Thriller', 'Comedy', 'Crime']",en,['United States of America'],4141
+620,To All the Boys I've Loved Before,2018-08-16,0,0,100,"['Comedy', 'Romance']",en,['United States of America'],466282
+621,Straight Outta Compton,2015-08-11,28000000,201634991,147,"['Drama', 'Music', 'History']",en,"['United Kingdom', 'United States of America']",277216
+622,The 40 Year Old Virgin,2005-08-11,26000000,177378645,116,"['Comedy', 'Romance']",en,['United States of America'],6957
+623,Kung Fu Panda,2008-06-04,130000000,631744560,90,"['Action', 'Adventure', 'Animation', 'Family', 'Comedy']",en,['United States of America'],9502
+624,Kung Fu Panda 2,2011-05-25,150000000,665692281,91,"['Animation', 'Family']",en,['United States of America'],49444
+625,The Karate Kid,2010-06-10,40000000,359126022,140,"['Action', 'Adventure', 'Drama', 'Family']",en,"['China', 'United States of America']",38575
+626,Rush Hour 2,2001-08-03,90000000,347325802,90,"['Action', 'Comedy', 'Crime']",en,['United States of America'],5175
+627,Rush Hour 3,2007-08-08,140000000,258022233,91,"['Action', 'Comedy', 'Crime']",en,['United States of America'],5174
+628,Shanghai Noon,2000-05-26,55000000,99274467,110,"['Adventure', 'Action', 'Comedy', 'Western']",en,"['Hong Kong', 'United States of America']",8584
+629,The Medallion,2003-08-15,41000000,0,88,"['Thriller', 'Fantasy', 'Action', 'Comedy']",en,"['Hong Kong', 'United States of America']",10610
+630,Crazy Rich Asians,2018-08-15,30000000,238539198,121,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],455207
+631,Horrible Bosses,2011-07-08,35000000,209838559,98,"['Comedy', 'Crime']",en,['United States of America'],51540
+632,Dinner for Schmucks,2010-07-30,69000000,86387857,114,['Comedy'],en,"['India', 'United States of America']",38778
+633,Bruce Almighty,2003-05-23,80000000,484592874,101,"['Fantasy', 'Comedy']",en,['United States of America'],310
+634,Evan Almighty,2007-06-09,175000000,174440724,96,"['Fantasy', 'Comedy', 'Family']",en,['United States of America'],2698
+635,Knocked Up,2007-06-01,30000000,219922417,129,"['Comedy', 'Romance', 'Drama']",en,['United States of America'],4964
+636,Funny People,2009-07-30,75000000,71585235,146,"['Comedy', 'Drama']",en,['United States of America'],20829
+637,I Am Sam,2001-12-28,22000000,92542418,132,['Drama'],en,['United States of America'],10950
+638,Savages,2012-07-06,45000000,82966152,131,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],82525
+639,World Trade Center,2006-08-09,65000000,163247198,129,"['Drama', 'History', 'Thriller']",en,['United States of America'],1852
+640,Pearl Harbor,2001-05-21,140000000,449220945,183,"['War', 'History', 'Romance', 'Drama']",en,['United States of America'],676
+641,Sonatine,1993-04-10,0,0,94,"['Action', 'Crime', 'Thriller']",ja,['Japan'],7500
+642,The Shape of Water,2017-12-01,19500000,195333312,123,"['Drama', 'Fantasy', 'Romance']",en,['United States of America'],399055
+643,Paddington,2014-11-24,55000000,259207227,96,"['Comedy', 'Adventure', 'Family']",en,"['France', 'United Kingdom', 'United States of America']",116149
+644,Layer Cake,2004-09-30,6500000,11850214,105,"['Drama', 'Thriller', 'Crime']",en,['United Kingdom'],4836
+645,Stardust,2007-08-09,70000000,137515140,127,"['Adventure', 'Fantasy', 'Romance', 'Family']",en,"['Iceland', 'United Kingdom', 'United States of America']",2270
+646,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-07,180000000,745013115,143,"['Adventure', 'Family', 'Fantasy']",en,"['United Kingdom', 'United States of America']",411
+647,Wanted,2008-06-19,75000000,342463063,110,"['Action', 'Thriller', 'Crime']",en,"['Germany', 'United States of America']",8909
+648,Salt,2010-07-21,110000000,293329073,100,"['Action', 'Mystery', 'Thriller']",en,['United States of America'],27576
+649,Gamer,2009-09-03,50000000,40828540,95,"['Action', 'Thriller', 'Science Fiction']",en,['United States of America'],18501
+650,Terminator 3: Rise of the Machines,2003-07-02,200000000,435000000,109,"['Action', 'Thriller', 'Science Fiction']",en,"['Germany', 'United Kingdom', 'United States of America']",296
+651,Rocky,1976-11-21,1000000,225250402,119,"['Drama', 'Romance']",en,['United States of America'],1366
+652,Legend of the Guardians: The Owls of Ga'Hoole,2010-07-10,80000000,140073390,97,"['Animation', 'Adventure', 'Family', 'Fantasy']",en,"['Australia', 'United States of America']",41216
+653,The A-Team,2010-06-09,110000000,177238796,117,"['Thriller', 'Action', 'Adventure', 'Comedy', 'Crime']",en,['United States of America'],34544
+654,The Grey,2012-01-26,25000000,77278331,117,"['Drama', 'Thriller', 'Action', 'Adventure']",en,"['United Kingdom', 'United States of America']",75174
+655,Horrible Bosses 2,2014-11-12,42000000,107670357,108,['Comedy'],en,['United States of America'],227159
+656,Jack Ryan: Shadow Recruit,2014-01-15,60000000,135511030,105,"['Action', 'Drama', 'Thriller']",en,"['Russia', 'United States of America']",137094
+657,Celeste & Jesse Forever,2012-08-03,0,3094813,91,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],84184
+658,Ocean's Thirteen,2007-06-05,85000000,311312624,122,"['Crime', 'Thriller']",en,['United States of America'],298
+659,Ocean's Twelve,2004-12-09,110000000,362744280,125,"['Thriller', 'Crime']",en,['United States of America'],163
+660,Haywire,2011-11-01,23000000,33372606,93,"['Action', 'Drama', 'Thriller']",en,"['Ireland', 'United States of America']",70435
+661,"sex, lies, and videotape",1989-08-04,1200000,24741667,101,['Drama'],en,['United States of America'],1412
+662,Gravity,2013-10-03,105000000,723192705,91,"['Science Fiction', 'Thriller', 'Drama']",en,"['United Kingdom', 'United States of America']",49047
+663,Happy Feet,2006-11-16,100000000,384335608,108,"['Animation', 'Comedy', 'Family']",en,['Australia'],9836
+664,Lady Bird,2017-09-01,10000000,78966486,94,"['Drama', 'Comedy']",en,['United States of America'],391713
+665,Requiem for a Dream,2000-10-06,4500000,7390108,102,"['Crime', 'Drama']",en,['United States of America'],641
+666,The Wrestler,2008-09-07,6000000,44734660,109,"['Drama', 'Romance']",en,"['United States of America', 'France']",12163
+667,E.T. the Extra-Terrestrial,1982-06-11,10500000,792965500,115,"['Science Fiction', 'Adventure', 'Family', 'Fantasy']",en,['United States of America'],601
+668,Close Encounters of the Third Kind,1977-11-18,20000000,306889114,135,"['Science Fiction', 'Drama']",en,['United States of America'],840
+669,Hook,1991-04-10,70000000,300855000,142,"['Adventure', 'Fantasy', 'Comedy', 'Family']",en,['United States of America'],879
+670,The Disaster Artist,2017-03-12,10000000,29820616,104,"['Comedy', 'Drama']",en,['United States of America'],371638
+671,The Green Hornet,2011-01-12,120000000,227817248,119,"['Action', 'Crime', 'Comedy']",en,['United States of America'],40805
+672,You're Next,2013-08-22,1000000,14347000,94,"['Horror', 'Thriller', 'Mystery']",en,"['United Kingdom', 'United States of America']",83899
+673,Why Don't You Play in Hell?,2013-09-14,0,0,130,"['Drama', 'Action', 'Comedy']",ja,['Japan'],134350
+674,The Fast and the Furious: Tokyo Drift,2006-06-03,85000000,158964610,104,"['Action', 'Crime', 'Drama', 'Thriller']",en,"['Germany', 'Japan', 'United States of America']",9615
+675,Cowboy Bebop: The Movie,2001-09-01,0,0,115,"['Action', 'Animation', 'Science Fiction']",ja,['Japan'],11299
+676,WALL·E,2008-06-22,180000000,521311860,98,"['Animation', 'Family', 'Science Fiction']",en,['United States of America'],10681
+677,"Monsters, Inc.",2001-11-01,115000000,579707738,92,"['Animation', 'Comedy', 'Family']",en,['United States of America'],585
+678,Finding Nemo,2003-05-30,94000000,940335536,100,"['Animation', 'Family']",en,['United States of America'],12
+679,Cars,2006-06-08,120000000,461983149,117,"['Animation', 'Adventure', 'Comedy', 'Family']",en,['United States of America'],920
+680,Boundin',2003-11-04,0,0,5,"['Animation', 'Family', 'Music', 'Comedy']",en,['United States of America'],13062
+681,Piper,2016-06-16,0,0,6,"['Family', 'Animation']",en,['United States of America'],399106
+682,Lava,2014-10-10,0,0,7,"['Animation', 'Family']",en,['United States of America'],286192
+683,Lou,2017-06-16,0,0,6,"['Family', 'Fantasy', 'Animation']",en,['United States of America'],433471
+684,The Dilemma,2011-01-13,70000000,67112664,111,"['Comedy', 'Drama']",en,['United States of America'],44564
+685,WarGames,1983-06-03,12000000,124600000,114,"['Thriller', 'Science Fiction', 'Drama']",en,['United States of America'],860
+686,Ratatouille,2007-06-28,150000000,623726000,111,"['Animation', 'Comedy', 'Family', 'Fantasy']",en,['United States of America'],2062
+687,Mary Shelley's Frankenstein,1994-11-04,45000000,112006296,123,"['Drama', 'Horror', 'Science Fiction', 'Romance']",en,"['United Kingdom', 'Japan', 'United States of America']",3036
+688,The Martian,2015-09-30,108000000,630600000,141,"['Drama', 'Adventure', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",286217
+689,Panic Room,2002-03-29,48000000,197079546,111,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],4547
+690,Fateful Findings,2013-05-23,0,0,100,"['Drama', 'Fantasy']",en,[],197599
+691,Sanjuro,1962-01-01,0,0,96,"['Drama', 'Action', 'Comedy']",ja,['Japan'],11712
+692,Room,2015-10-16,13000000,35401758,118,"['Drama', 'Thriller']",en,"['Canada', 'Ireland', 'United Kingdom', 'United States of America']",264644
+693,Don Jon,2013-09-12,3000000,0,90,"['Romance', 'Comedy', 'Drama']",en,['United States of America'],138697
+694,Top Secret!,1984-06-08,9000000,20458340,90,['Comedy'],en,"['United Kingdom', 'United States of America']",8764
+695,Walker,1987-12-04,5800000,257043,94,"['Drama', 'History', 'Western']",en,"['Mexico', 'Nicaragua', 'Spain', 'United States of America']",28448
+696,Ninja Scroll,1993-06-05,60000000,0,94,"['Fantasy', 'Adventure', 'Animation']",ja,['Japan'],14282
+697,Spotlight,2015-11-06,20000000,98690254,129,"['Drama', 'History']",en,"['Canada', 'United States of America']",314365
+698,The Overnight,2015-06-19,0,1100000,79,"['Mystery', 'Comedy']",en,['United States of America'],308024
+699,The Book of Henry,2017-06-16,10000000,4596705,105,"['Drama', 'Crime', 'Thriller']",en,['United States of America'],382614
+700,The Man with the Iron Fists,2012-11-02,15000000,20546518,96,['Action'],en,"['Hong Kong', 'United States of America']",97430
+701,Green Lantern,2011-06-14,200000000,219851172,114,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,['United States of America'],44912
+702,Buried,2010-09-24,1987650,19152480,94,"['Drama', 'Thriller', 'Mystery']",en,"['France', 'Spain', 'United States of America']",26388
+703,Harry Potter and the Prisoner of Azkaban,2004-05-31,130000000,789804554,141,"['Adventure', 'Fantasy']",en,"['United Kingdom', 'United States of America']",673
+704,Harry Potter and the Deathly Hallows: Part 2,2011-07-12,125000000,1341511219,130,"['Fantasy', 'Adventure']",en,"['United Kingdom', 'United States of America']",12445
+705,Harry Potter and the Chamber of Secrets,2002-11-13,100000000,876688482,161,"['Adventure', 'Fantasy']",en,"['United Kingdom', 'United States of America']",672
+706,Harry Potter and the Goblet of Fire,2005-11-16,150000000,895921036,157,"['Adventure', 'Fantasy']",en,"['United Kingdom', 'United States of America']",674
+707,Harry Potter and the Deathly Hallows: Part 1,2010-11-17,250000000,954305868,146,"['Adventure', 'Fantasy']",en,"['United Kingdom', 'United States of America']",12444
+708,Harry Potter and the Half-Blood Prince,2009-07-15,250000000,933959197,153,"['Adventure', 'Fantasy']",en,"['United Kingdom', 'United States of America']",767
+709,Guava Island,2019-04-13,0,0,55,"['Comedy', 'Thriller', 'Music']",en,"['Cuba', 'United States of America']",543343
+710,Sisters,1972-11-18,500000,1000000,93,"['Thriller', 'Horror', 'Mystery']",en,['United States of America'],22307
+711,Basic Instinct,1992-03-20,49000000,352927224,127,"['Thriller', 'Mystery']",en,"['United States of America', 'France']",402
+712,Hugo,2011-11-22,170000000,185770160,126,"['Adventure', 'Drama', 'Family']",en,"['France', 'United Kingdom', 'United States of America']",44826
+713,Frank,2014-05-09,1000000,1897363,95,"['Comedy', 'Drama', 'Mystery']",en,"['Ireland', 'United Kingdom']",171372
+714,The Nice Guys,2016-05-15,50000000,62788218,116,"['Comedy', 'Crime', 'Action']",en,['United States of America'],290250
+715,Silver Linings Playbook,2012-11-16,21000000,236412453,122,"['Drama', 'Comedy', 'Romance']",en,['United States of America'],82693
+716,"Love, Simon",2018-02-16,17000000,66316289,110,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],449176
+717,Charlie and the Chocolate Factory,2005-07-13,150000000,474968763,115,"['Adventure', 'Comedy', 'Family', 'Fantasy']",en,"['United Kingdom', 'United States of America']",118
+718,In Bruges,2008-02-08,15000000,34533783,108,"['Comedy', 'Drama', 'Crime']",en,"['United Kingdom', 'United States of America']",8321
+719,Mean Girls,2004-04-30,17000000,130126277,97,['Comedy'],en,"['Canada', 'United States of America']",10625
+720,Shrek,2001-05-18,60000000,487853320,90,"['Animation', 'Comedy', 'Fantasy', 'Adventure', 'Family']",en,['United States of America'],808
+721,The Devil Wears Prada,2006-06-29,35000000,326706115,109,"['Comedy', 'Drama', 'Romance']",en,"['France', 'United States of America']",350
+722,Kiss Kiss Bang Bang,2005-09-05,15000000,15785148,103,"['Comedy', 'Crime', 'Mystery', 'Thriller']",en,['United States of America'],5236
+723,Zoolander,2001-09-28,28000000,60780981,90,['Comedy'],en,"['Germany', 'United States of America']",9398
+724,Chicago,2002-12-10,45000000,306776732,113,"['Comedy', 'Crime', 'Drama']",en,"['Germany', 'Canada', 'United States of America']",1574
+725,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006-11-01,18000000,262552893,84,['Comedy'],en,"['United Kingdom', 'United States of America']",496
+726,The Simpsons Movie,2007-07-25,75000000,527068851,87,"['Animation', 'Comedy', 'Family']",en,['United States of America'],35
+727,Ice Age,2002-03-10,59000000,383257136,81,"['Animation', 'Comedy', 'Family', 'Adventure']",en,['United States of America'],425
+728,The Emperor's New Groove,2000-12-15,100000000,169327687,78,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",en,['United States of America'],11688
+729,Shrek the Third,2007-05-17,160000000,813367380,93,"['Fantasy', 'Adventure', 'Animation', 'Comedy', 'Family']",en,['United States of America'],810
+730,Chicken Run,2000-06-23,45000000,224834564,84,"['Animation', 'Comedy', 'Family']",en,"['United Kingdom', 'United States of America', 'France']",7443
+731,Cloudy with a Chance of Meatballs,2009-09-17,100000000,242988466,90,"['Animation', 'Comedy', 'Family']",en,['United States of America'],22794
+732,Enchanted,2007-11-20,85000000,340487652,107,"['Comedy', 'Family', 'Fantasy', 'Romance']",en,['United States of America'],4523
+733,The Hitchhiker's Guide to the Galaxy,2005-04-28,50000000,104478416,109,"['Adventure', 'Comedy', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",7453
+734,High School Musical,2006-01-20,4200000,0,98,"['Comedy', 'Drama', 'Family', 'Music', 'Romance', 'TV Movie']",en,['United States of America'],10947
+735,Bee Movie,2007-10-28,150000000,287594577,91,"['Family', 'Animation', 'Adventure', 'Comedy']",en,['United States of America'],5559
+736,Bolt,2008-11-21,150000000,309979994,98,"['Animation', 'Family', 'Adventure', 'Comedy']",en,['United States of America'],13053
+737,Yes Man,2008-12-09,70000000,223241637,104,"['Comedy', 'Romance']",en,['United States of America'],10201
+738,The SpongeBob SquarePants Movie,2004-11-14,30000000,140161792,87,"['Family', 'Animation', 'Comedy', 'Fantasy', 'Adventure']",en,['United States of America'],11836
+739,Hairspray,2007-07-19,75000000,90450008,117,"['Comedy', 'Romance', 'Drama']",en,"['United Kingdom', 'United States of America']",2976
+740,Ice Age: The Meltdown,2006-03-29,80000000,660998756,91,"['Animation', 'Family', 'Comedy', 'Adventure']",en,['United States of America'],950
+741,Monster House,2006-06-30,75000000,140175006,91,"['Animation', 'Comedy', 'Family', 'Fantasy']",en,['United States of America'],9297
+742,Night at the Museum: Battle of the Smithsonian,2009-05-20,150000000,413106170,105,"['Adventure', 'Fantasy', 'Action', 'Comedy', 'Family']",en,"['United States of America', 'Canada']",18360
+743,Robots,2005-03-10,75000000,262511490,91,"['Animation', 'Comedy', 'Family', 'Science Fiction']",en,['United States of America'],9928
+744,Chicken Little,2005-11-04,150000000,314432665,81,"['Animation', 'Family', 'Comedy']",en,['United States of America'],9982
+745,High School Musical 2,2007-08-17,0,7000000,111,"['Comedy', 'Drama', 'Family', 'Music', 'Romance', 'TV Movie']",en,['United States of America'],13649
+746,Madagascar: Escape 2 Africa,2008-10-30,150000000,603900354,89,"['Family', 'Adventure', 'Animation', 'Comedy']",en,['United States of America'],10527
+747,Over the Hedge,2006-05-17,80000000,343397247,83,"['Family', 'Comedy', 'Animation']",en,['United States of America'],7518
+748,She's the Man,2006-03-17,20000000,33889159,105,"['Comedy', 'Romance']",en,['United States of America'],9655
+749,Meet the Robinsons,2007-03-23,150000000,169332978,95,"['Animation', 'Comedy', 'Family']",en,['United States of America'],1267
+750,Ice Age: Dawn of the Dinosaurs,2009-06-26,90000000,886686817,94,"['Animation', 'Comedy', 'Family', 'Adventure']",en,['United States of America'],8355
+751,High School Musical 3: Senior Year,2008-10-11,11000000,252909177,117,"['Comedy', 'Romance', 'Drama', 'Family', 'Music']",en,['United States of America'],11887
+752,Zathura: A Space Adventure,2005-11-06,65000000,65079104,101,"['Science Fiction', 'Adventure', 'Family']",en,['United States of America'],6795
+753,Flushed Away,2006-10-22,149000000,178120010,84,"['Adventure', 'Animation', 'Comedy', 'Family']",en,"['United Kingdom', 'United States of America']",11619
+754,Horton Hears a Who!,2008-03-03,85000000,298572799,86,"['Animation', 'Comedy', 'Family', 'Adventure', 'Fantasy']",en,['United States of America'],12222
+755,Brüno,2009-07-08,42000000,138805831,83,['Comedy'],en,"['United Kingdom', 'United States of America']",18480
+756,Paul Blart: Mall Cop,2009-01-15,26000000,183293131,91,"['Action', 'Adventure', 'Comedy', 'Family']",en,['United States of America'],14560
+757,Tenacious D in The Pick of Destiny,2006-11-22,22000000,13405595,93,"['Comedy', 'Music']",en,['United States of America'],2179
+758,American Wedding,2003-08-01,55000000,231449203,103,"['Comedy', 'Romance']",en,['United States of America'],8273
+759,Surf's Up,2007-06-08,85000000,149044513,85,"['Animation', 'Comedy', 'Family']",en,['United States of America'],9408
+760,The Pacifier,2005-03-04,56000000,198636868,95,"['Comedy', 'Family', 'Action']",en,['United States of America'],10022
+761,Home Alone,1990-11-16,18000000,476684675,103,"['Comedy', 'Family']",en,['United States of America'],771
+762,The Iron Giant,1999-08-06,70000000,23159305,86,"['Family', 'Animation', 'Science Fiction', 'Drama']",en,['United States of America'],10386
+763,Back to the Future Part III,1990-05-25,40000000,244527583,119,"['Adventure', 'Comedy', 'Science Fiction']",en,['United States of America'],196
+764,Dumb and Dumber,1994-12-16,16000000,247275374,107,['Comedy'],en,['United States of America'],8467
+765,Wayne's World,1992-02-14,20000000,183097323,95,"['Comedy', 'Music']",en,['United States of America'],8872
+766,Stuart Little,1999-12-17,133000000,300135367,84,"['Family', 'Fantasy', 'Comedy', 'Adventure']",en,"['Germany', 'United States of America']",10137
+767,The Last Airbender,2010-06-30,150000000,319713881,103,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],10196
+768,The Village,2004-07-30,60000000,256697520,108,"['Drama', 'Mystery', 'Thriller']",en,['United States of America'],6947
+769,Unbreakable,2000-11-22,75000000,248118121,106,"['Thriller', 'Drama', 'Mystery']",en,['United States of America'],9741
+770,Monty Python and the Holy Grail,1975-05-25,400000,1940906,91,"['Adventure', 'Comedy', 'Fantasy']",en,['United Kingdom'],762
+771,The Boy in the Striped Pyjamas,2008-05-07,12500000,20416563,94,"['Drama', 'War', 'History']",en,"['United Kingdom', 'United States of America']",14574
+772,Paul,2011-02-14,40000000,97984015,104,"['Adventure', 'Comedy', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",39513
+773,Popstar: Never Stop Never Stopping,2016-06-03,20000000,9496130,86,"['Comedy', 'Music']",en,['United States of America'],341012
+774,Repo Man,1984-02-20,1500000,2300000,92,"['Comedy', 'Science Fiction']",en,['United States of America'],13820
+775,Doom,2005-10-20,60000000,58072119,105,"['Action', 'Horror', 'Science Fiction']",en,"['Czech Republic', 'Germany', 'United Kingdom', 'United States of America']",8814
+776,American Animals,2018-06-01,3000000,2847319,117,"['Drama', 'Crime', 'Documentary']",en,"['India', 'United Kingdom', 'United States of America']",489931
+777,'71,2014-10-10,11000000,3200000,99,"['Thriller', 'Action', 'Drama', 'War']",en,['United Kingdom'],252178
+778,Wind River,2017-08-03,11000000,44998252,107,"['Crime', 'Drama', 'Mystery', 'Thriller']",en,"['France', 'United Kingdom', 'United States of America']",395834
+779,Dead Poets Society,1989-06-02,16400000,235860116,128,['Drama'],en,['United States of America'],207
+780,Inside Llewyn Davis,2013-10-13,11000000,32935319,104,"['Drama', 'Music']",en,"['France', 'United Kingdom', 'United States of America']",86829
+781,Teenage Mutant Ninja Turtles,2014-08-07,125000000,485004754,101,"['Science Fiction', 'Action', 'Adventure', 'Comedy']",en,['United States of America'],98566
+782,Starry Eyes,2014-07-29,0,0,98,"['Horror', 'Drama']",en,"['Belgium', 'United States of America']",254194
+783,The Usual Suspects,1995-07-19,6000000,23341568,106,"['Drama', 'Crime', 'Thriller']",en,['United States of America'],629
+784,Bird Box,2018-12-13,19800000,0,124,"['Horror', 'Thriller', 'Drama']",en,['United States of America'],405774
+785,Clash of the Titans,2010-03-26,125000000,493214993,106,"['Adventure', 'Fantasy', 'Action']",en,['United States of America'],18823
+786,Seven Psychopaths,2012-10-12,15000000,33035736,110,"['Comedy', 'Crime']",en,"['United Kingdom', 'United States of America']",86838
+787,Ghost in the Shell,1995-11-18,3000000,515905,82,"['Action', 'Animation', 'Science Fiction']",ja,"['Japan', 'United Kingdom']",9323
+788,Free Willy,1993-07-16,20000000,153698625,112,"['Family', 'Adventure', 'Drama']",en,"['France', 'United States of America']",1634
+789,The Crazies,2010-02-26,20000000,54956140,101,"['Mystery', 'Horror', 'Action']",en,"['United Arab Emirates', 'United States of America']",29427
+790,Double Down,2005-11-05,0,0,93,"['Action', 'Drama', 'Thriller']",en,['United States of America'],260928
+791,Bridesmaids,2011-05-13,32500000,288383523,125,"['Comedy', 'Romance']",en,['United States of America'],55721
+792,Sorcerer,1977-06-24,22000000,9000000,121,"['Thriller', 'Adventure', 'Drama']",en,['United States of America'],38985
+793,Legally Blonde,2001-07-13,18000000,141774679,96,"['Comedy', 'Romance']",en,['United States of America'],8835
+794,Blindspotting,2018-07-20,0,0,95,"['Comedy', 'Drama']",en,['United States of America'],489930
+795,Midnight in Paris,2011-05-11,17000000,151119219,94,"['Fantasy', 'Comedy', 'Romance']",en,"['France', 'Spain', 'United States of America']",59436
+796,Alvin and the Chipmunks: The Squeakquel,2009-12-21,75000000,443140005,88,"['Comedy', 'Family', 'Animation', 'Fantasy', 'Music']",en,['United States of America'],23398
+797,Alvin and the Chipmunks,2007-12-13,60000000,361366633,92,"['Comedy', 'Family', 'Fantasy', 'Animation']",en,['United States of America'],6477
+798,The Adventures of Sharkboy and Lavagirl,2005-06-10,50000000,71992655,92,"['Adventure', 'Family', 'Science Fiction']",en,['United States of America'],14199
+799,Coraline,2009-02-05,60000000,124600000,100,"['Animation', 'Family', 'Fantasy']",en,['United States of America'],14836
+800,Twilight,2008-11-20,37000000,393616788,122,"['Fantasy', 'Drama', 'Romance']",en,['United States of America'],8966
+801,The Twilight Saga: Eclipse,2010-06-23,68000000,698491347,124,"['Adventure', 'Fantasy', 'Drama', 'Romance']",en,['United States of America'],24021
+802,The Twilight Saga: New Moon,2009-11-18,50000000,709827462,131,"['Adventure', 'Fantasy', 'Drama', 'Romance']",en,['United States of America'],18239
+803,The Twilight Saga: Breaking Dawn - Part 2,2012-11-13,120000000,829747654,115,"['Adventure', 'Fantasy', 'Drama', 'Romance']",en,['United States of America'],50620
+804,The Twilight Saga: Breaking Dawn - Part 1,2011-11-16,110000000,712171856,117,"['Adventure', 'Fantasy', 'Romance']",en,['United States of America'],50619
+805,Mulholland Drive,2001-06-06,15000000,20271129,147,"['Thriller', 'Drama', 'Mystery']",en,"['France', 'United States of America']",1018
+806,The House That Jack Built,2018-10-04,9800000,5566776,151,"['Drama', 'Horror', 'Crime', 'Thriller']",en,"['Denmark', 'France', 'Germany', 'Sweden']",398173
+807,Punch-Drunk Love,2002-10-25,25000000,24665649,96,"['Romance', 'Drama', 'Comedy']",en,['United States of America'],8051
+808,The Game,1997-09-12,50000000,109423648,129,"['Drama', 'Thriller', 'Mystery']",en,['United States of America'],2649
+809,Paranormal Activity 2,2010-10-20,3000000,177512032,91,"['Horror', 'Mystery']",en,['United States of America'],41436
+810,Paranormal Activity 3,2011-10-19,5000000,207039844,83,"['Horror', 'Mystery']",en,['United States of America'],72571
+811,Paranormal Activity 4,2012-10-17,5000000,142802657,88,['Horror'],en,['United States of America'],82990
+812,The Back-Up Plan,2010-04-23,35000000,77477008,106,"['Comedy', 'Romance']",en,['United States of America'],34806
+813,Avengers: Endgame,2019-04-24,356000000,2800000000,181,"['Adventure', 'Science Fiction', 'Action']",en,['United States of America'],299534
+814,Mad Max,1979-04-12,350000,100000000,91,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",en,['Australia'],9659
+815,Annie Hall,1977-04-19,4000000,38288028,93,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],703
+816,Six Shooter,2004-10-14,200000,0,27,"['Drama', 'Comedy', 'Crime']",en,"['Ireland', 'United Kingdom']",25126
+817,Iron Man 2,2010-04-28,200000000,623933331,124,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],10138
+818,Godzilla,1954-11-03,900000,2250000,96,"['Thriller', 'Horror', 'Science Fiction']",ja,['Japan'],1678
+819,Chef,2014-05-08,11000000,45967935,114,['Comedy'],en,['United States of America'],212778
+820,xXx: Return of Xander Cage,2017-01-13,85000000,346147658,107,"['Action', 'Adventure', 'Crime']",en,"['Canada', 'China', 'United States of America']",47971
+821,For a Few Dollars More,1965-12-18,600000,15000000,132,['Western'],it,"['Germany', 'Spain', 'Italy']",938
+822,Mothra vs. Godzilla,1964-04-29,0,10000000,89,"['Drama', 'Action', 'Science Fiction']",ja,['Japan'],1682
+823,Scanners,1981-01-14,4100000,14225876,103,"['Science Fiction', 'Horror']",en,['Canada'],9538
+824,Igor,2008-09-19,25000000,30700000,87,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Horror']",en,"['France', 'United States of America']",14248
+825,John Wick: Chapter 3 - Parabellum,2019-05-15,55000000,326709727,131,"['Action', 'Thriller', 'Crime']",en,['United States of America'],458156
+826,Collateral,2004-08-04,65000000,217764291,120,"['Drama', 'Crime', 'Thriller']",en,['United States of America'],1538
+827,The Pink Panther 2,2009-02-06,0,75871032,92,"['Comedy', 'Mystery']",en,['United States of America'],15159
+828,Small Soldiers,1998-07-10,40000000,54682547,110,"['Comedy', 'Adventure', 'Fantasy', 'Science Fiction', 'Action']",en,['United States of America'],11551
+829,The Dictator,2012-05-15,65000000,179379533,83,['Comedy'],en,['United States of America'],76493
+830,Caché,2005-10-05,8731048,36000000,117,"['Mystery', 'Drama', 'Thriller']",fr,"['Austria', 'France', 'Germany', 'Italy']",445
+831,Hop,2011-03-30,63000000,183953723,95,"['Animation', 'Comedy', 'Family']",en,['United States of America'],50359
+832,The Great Wall,2016-12-16,150000000,331957105,103,"['Action', 'Adventure', 'Fantasy']",en,"['China', 'Japan', 'United States of America']",311324
+833,Kuroko's Basketball the Movie: Last Game,2017-03-18,0,0,90,['Animation'],ja,['Japan'],428707
+834,Sword of the Stranger,2007-09-29,0,0,103,"['Action', 'Animation', 'History']",ja,['Japan'],13980
+835,Manchester by the Sea,2016-11-18,9000000,78988148,138,['Drama'],en,['United States of America'],334541
+836,An Extremely Goofy Movie,2000-02-29,0,0,79,"['Animation', 'Family', 'Comedy']",en,"['Australia', 'United States of America']",15653
+837,Teen Titans: Trouble in Tokyo,2006-09-15,0,0,75,"['Animation', 'Action', 'Science Fiction', 'TV Movie']",en,['United States of America'],16237
+838,The Powerpuff Girls Movie,2002-07-03,11000000,16426471,74,"['Animation', 'Action', 'Family']",en,"['United Kingdom', 'United States of America']",59387
+839,Police Story 3: Super Cop,1992-07-04,900000,20483423,95,"['Action', 'Crime', 'Thriller']",cn,['Hong Kong'],11134
+840,The Departed,2006-10-04,90000000,291465000,151,"['Drama', 'Thriller', 'Crime']",en,"['Hong Kong', 'United States of America']",1422
+841,Patrice O'Neal: Elephant in the Room,2011-02-19,0,0,78,['Comedy'],en,['United States of America'],57469
+842,Ip Man,2008-12-12,11715578,22108789,106,"['Drama', 'Action', 'History']",cn,"['China', 'Hong Kong']",14756
+843,Ong-Bak,2003-01-21,1100000,20112926,105,"['Action', 'Thriller', 'Crime', 'Adventure']",th,"['France', 'Hong Kong', 'Thailand']",9316
+844,Bloodsport,1988-02-26,1500000,65000000,92,"['Action', 'Thriller']",en,['United States of America'],11690
+845,The Karate Kid,1984-06-22,8000000,130442786,126,"['Action', 'Family', 'Drama']",en,['United States of America'],1885
+846,Thirst,2009-04-30,5000000,13085023,134,"['Drama', 'Horror', 'Thriller']",ko,['South Korea'],22536
+847,8 Mile,2002-11-08,41000000,242875078,111,"['Drama', 'Music']",en,"['Germany', 'United States of America']",65
+848,Persona,1966-10-18,0,0,83,['Drama'],sv,['Sweden'],797
+849,Going Clear: Scientology and the Prison of Belief,2015-01-25,0,0,119,['Documentary'],en,['United States of America'],318224
+850,Run Lola Run,1998-03-03,1530000,7267585,81,"['Action', 'Drama', 'Thriller']",de,['Germany'],104
+851,Ichi the Killer,2001-12-22,1400010,80631,129,"['Action', 'Crime', 'Horror']",ja,['Japan'],9696
+852,Something Borrowed,2011-05-05,35000000,65090821,112,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],49022
+853,What Happens in Vegas,2008-05-07,35000000,219375562,99,"['Comedy', 'Romance']",en,['United States of America'],9029
+854,Possession,1981-05-27,0,1158473,124,['Horror'],fr,"['France', 'Germany']",21484
+855,17 Again,2009-03-11,20000000,136316880,102,['Comedy'],en,['United States of America'],16996
+856,Bedtime Stories,2008-12-24,80000000,212874864,99,"['Fantasy', 'Comedy', 'Family', 'Romance']",en,['United States of America'],10202
+857,Tooth Fairy,2010-01-14,48000000,112462508,101,"['Comedy', 'Family', 'Fantasy']",en,"['Canada', 'United States of America']",23023
+858,Race to Witch Mountain,2009-03-12,50000000,106303988,98,"['Adventure', 'Family', 'Fantasy', 'Science Fiction', 'Thriller', 'Action']",en,['United States of America'],13836
+859,Planet 51,2009-11-19,70000000,104945765,91,"['Animation', 'Family', 'Comedy', 'Science Fiction', 'Adventure']",en,"['Spain', 'United Kingdom', 'United States of America']",16866
+860,Hercules,1997-06-20,85000000,252712101,93,"['Animation', 'Family', 'Fantasy', 'Adventure', 'Comedy', 'Romance']",en,['United States of America'],11970
+861,The Scorpion King,2002-04-18,60000000,165333180,92,"['Action', 'Adventure', 'Fantasy']",en,"['United States of America', 'Germany', 'Belgium']",9334
+862,A Walk to Remember,2002-01-25,11800000,47494916,101,"['Drama', 'Romance']",en,['United States of America'],10229
+863,The Princess Diaries,2001-08-03,37000000,165335153,115,"['Comedy', 'Family', 'Romance']",en,['United States of America'],9880
+864,Beauty and the Beast,1991-10-22,25000000,424967620,84,"['Romance', 'Family', 'Animation', 'Fantasy']",en,['United States of America'],10020
+865,The Little Mermaid,1989-11-17,40000000,211343479,83,"['Animation', 'Family', 'Fantasy']",en,['United States of America'],10144
+866,The Parent Trap,1998-07-28,15000000,92108518,128,"['Comedy', 'Family']",en,['United States of America'],9820
+867,Hannah Montana: The Movie,2009-04-10,35000000,155545279,102,"['Comedy', 'Drama', 'Family', 'Music', 'Romance']",en,['United States of America'],18126
+868,Catch That Kid,2004-02-06,18000000,16951702,92,"['Family', 'Action', 'Adventure']",en,"['Denmark', 'United States of America']",20483
+869,A Fistful of Dollars,1964-09-12,200000,14500000,99,['Western'],it,"['Germany', 'Spain', 'Italy']",391
+870,Dogtooth,2009-06-01,275576,110197,98,['Drama'],el,['Greece'],38810
+871,La Haine,1995-05-31,2600000,15300000,98,['Drama'],fr,['France'],406
+872,Wendy Wu: Homecoming Warrior,2006-06-16,6000000,0,90,"['Family', 'Action', 'Adventure', 'TV Movie']",en,['United States of America'],61717
+873,The Cheetah Girls,2003-08-15,0,0,93,"['Family', 'Comedy', 'Drama', 'Music', 'TV Movie']",en,"['Canada', 'United States of America']",32293
+874,"Salò, or the 120 Days of Sodom",1976-01-10,0,22017,117,"['Drama', 'Horror']",it,"['France', 'Italy']",5336
+875,Spider-Man: Far From Home,2019-06-28,160000000,1131927996,129,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],429617
+876,Starstruck,2010-02-14,0,0,81,"['Romance', 'Comedy', 'TV Movie', 'Music']",en,['United States of America'],35558
+877,Super 8,2011-06-08,50000000,260095986,112,"['Thriller', 'Science Fiction', 'Mystery']",en,['United States of America'],37686
+878,Eyes Without a Face,1960-01-11,0,58656,84,"['Drama', 'Horror', 'Thriller']",fr,"['France', 'Italy']",31417
+879,Dressed to Kill,1980-07-25,6500000,31899000,105,"['Thriller', 'Mystery', 'Horror']",en,['United States of America'],11033
+880,Good Will Hunting,1997-12-05,10000000,225933435,127,['Drama'],en,['United States of America'],489
+881,Pass Thru,2016-04-19,0,0,90,"['Science Fiction', 'Drama']",en,['United States of America'],373841
+882,Slither,2006-03-31,15000000,12834936,95,"['Horror', 'Science Fiction', 'Comedy']",en,"['Canada', 'United States of America']",9035
+883,Phantom of the Paradise,1974-10-31,1300000,0,92,"['Music', 'Comedy', 'Horror']",en,['United States of America'],27327
+884,The Lion King,2019-07-12,260000000,1663075401,118,"['Adventure', 'Drama', 'Family', 'Animation']",en,['United States of America'],420818
+885,Toy Story 4,2019-06-19,175000000,1073394593,100,"['Family', 'Adventure', 'Animation', 'Comedy', 'Fantasy']",en,['United States of America'],301528
+886,The Farewell,2019-07-12,250300,23076657,100,"['Comedy', 'Drama']",en,"['China', 'United States of America']",565310
+887,Ninja Assassin,2009-09-29,40000000,61601280,99,"['Action', 'Adventure', 'Thriller']",en,"['France', 'Germany', 'United States of America']",22832
+888,The Mechanic,2011-01-13,40000000,51070807,93,"['Action', 'Thriller', 'Crime']",en,['United States of America'],27582
+889,Midsommar,2019-07-03,9000000,47969371,147,"['Horror', 'Drama', 'Mystery']",en,"['Sweden', 'United States of America']",530385
+890,Heathers,1989-03-31,3000000,1108462,103,"['Comedy', 'Crime']",en,['United States of America'],2640
+891,I Am Here....Now,2009-12-01,0,0,86,"['Fantasy', 'Science Fiction', 'Thriller']",en,['United States of America'],99847
+892,Tickled,2016-05-26,0,923000,92,['Documentary'],en,['New Zealand'],373072
+893,Scream,1996-12-20,15000000,173046663,112,"['Crime', 'Horror', 'Mystery']",en,['United States of America'],4232
+894,Warrior,2011-09-09,25000000,23308615,140,"['Drama', 'Action']",en,['United States of America'],59440
+895,2 Fast 2 Furious,2003-06-05,76000000,236350661,108,"['Action', 'Crime', 'Thriller']",en,"['Germany', 'United States of America']",584
+896,Zoom,2006-08-11,75600000,12506188,83,"['Family', 'Comedy', 'Adventure', 'Action', 'Science Fiction']",en,['United States of America'],14113
+897,Shutter,2004-09-09,125000,0,97,"['Horror', 'Mystery', 'Thriller']",th,['Thailand'],17111
+898,Paris Is Burning,1991-03-13,500000,3779620,71,['Documentary'],en,"['United Kingdom', 'United States of America']",31225
+899,Casper,1995-05-26,50000000,287928194,100,"['Fantasy', 'Comedy', 'Family']",en,['United States of America'],8839
+900,Once Upon a Time… in Hollywood,2019-07-24,95000000,374251247,162,"['Comedy', 'Drama', 'Thriller']",en,"['China', 'United Kingdom', 'United States of America']",466272
+901,Paddleton,2019-02-22,0,0,89,"['Comedy', 'Drama']",en,['United States of America'],525183
+902,Godzilla: King of the Monsters,2019-05-29,170000000,386600138,132,"['Science Fiction', 'Action']",en,"['China', 'Japan', 'United States of America']",373571
+903,Trick 'r Treat,2007-12-09,12000000,0,82,"['Horror', 'Comedy']",en,['United States of America'],23202
+904,Parasite,2019-05-30,11363000,257591776,133,"['Comedy', 'Thriller', 'Drama']",ko,['South Korea'],496243
+905,The Gracefield Incident,2017-07-21,0,0,95,"['Horror', 'Science Fiction', 'Action', 'Mystery']",en,"['United States of America', 'Canada']",327253
+906,There Will Be Blood,2007-12-26,25000000,77208711,158,['Drama'],en,['United States of America'],7345
+907,Premium Rush,2012-08-24,35000000,31083599,91,"['Crime', 'Action', 'Thriller']",en,['United States of America'],49526
+908,Twisted Pair,2018-10-03,50000,0,89,"['Thriller', 'Science Fiction', 'Drama']",en,['United States of America'],495507
+909,Dave Chappelle: Sticks & Stones,2019-08-26,0,0,65,['Comedy'],en,['United States of America'],624932
+910,Dave Chappelle: HBO Comedy Half-Hour,1998-01-09,0,0,30,['Comedy'],en,['United States of America'],35595
+911,Dave Chappelle: For What It's Worth,2004-09-04,0,0,58,['Comedy'],en,['United States of America'],20147
+912,Dave Chappelle: Killin' Them Softly,2000-07-26,0,0,57,"['Comedy', 'Documentary']",en,['United States of America'],16275
+913,Dave Chappelle's Block Party,2005-09-12,3000000,11718595,100,"['Comedy', 'Documentary', 'Music']",en,['United States of America'],292
+914,Dave Chappelle: The Bird Revelation,2017-12-31,0,0,49,['Comedy'],en,['United States of America'],494368
+915,Dave Chappelle: Deep in the Heart of Texas,2017-03-21,0,0,66,['Comedy'],en,['United States of America'],444706
+916,Dave Chappelle: Equanimity,2017-12-31,0,0,64,['Comedy'],en,['United States of America'],488223
+917,Dave Chappelle: The Age of Spin,2017-03-21,0,0,67,['Comedy'],en,['United States of America'],444705
+918,Xenophobia,2019-08-06,0,0,82,['Science Fiction'],en,['United States of America'],620014
+919,Irreversible,2002-05-22,3500000,6500000,98,"['Drama', 'Thriller', 'Crime']",fr,['France'],979
+920,Bridge to Terabithia,2007-02-15,60000000,137587063,96,"['Adventure', 'Drama', 'Family']",en,['United States of America'],1265
+921,Angels in the Outfield,1994-07-15,31000000,50236831,102,"['Comedy', 'Family', 'Fantasy']",en,['United States of America'],24795
+922,Ballet Mécanique,1924-09-24,0,0,19,['Documentary'],fr,['France'],107011
+923,The Wizard of Oz,1939-08-15,2777000,33754967,102,"['Adventure', 'Fantasy', 'Family']",en,['United States of America'],630
+924,Saturation,2017-12-15,0,0,155,"['Documentary', 'Music']",en,['United States of America'],493165
+925,All-American Trash,2016-04-15,0,0,29,[],en,[],429619
+926,Billy Star,2017-12-12,0,0,22,['Drama'],en,['United States of America'],492434
+927,Resident Evil: The Final Chapter,2016-12-23,40000000,312242626,107,"['Action', 'Horror', 'Science Fiction']",en,"['Canada', 'France', 'Germany', 'United States of America']",173897
+928,Heaven Knows What,2015-05-29,0,84417,97,"['Drama', 'Crime']",en,"['France', 'United States of America']",285024
+929,Pitch Perfect,2012-09-28,17000000,115400000,112,"['Comedy', 'Music', 'Romance']",en,['United States of America'],114150
+930,Body Double,1984-10-25,10000000,8801940,114,"['Crime', 'Mystery', 'Thriller']",en,['United States of America'],11507
+931,Godzilla vs. King Ghidorah,1991-12-14,12000000,11000000,103,"['Action', 'Adventure', 'Science Fiction']",ja,['Japan'],36679
+932,This Is Where I Leave You,2014-09-10,19800000,41296320,103,"['Drama', 'Comedy']",en,['United States of America'],239678
+933,Jump In!,2007-01-12,0,0,85,"['Drama', 'Comedy', 'Romance']",en,['United States of America'],13968
+934,Akeelah and the Bee,2006-04-28,8000000,18948425,112,['Drama'],en,['United States of America'],13751
+935,The Dirties,2013-10-04,10000,0,83,"['Crime', 'Comedy', 'Drama']",en,['Canada'],159770
+936,One Cut of the Dead,2017-11-04,52406,27590180,96,"['Comedy', 'Horror']",ja,['Japan'],513434
+937,Onibaba,1964-11-21,0,0,105,"['Horror', 'Drama']",ja,['Japan'],3763
+938,Our Daily Bread,2006-04-21,0,0,92,['Documentary'],de,"['Austria', 'Germany']",24565
+939,Atanarjuat: The Fast Runner,2002-02-01,1934000,3786801,172,"['Fantasy', 'Drama']",iu,['Canada'],13245
+940,Fast & Furious Presents: Hobbs & Shaw,2019-08-01,200000000,760098996,137,"['Action', 'Adventure', 'Comedy']",en,['United States of America'],384018
+941,Night of the Living Dead,1968-10-04,114000,30000000,96,['Horror'],en,['United States of America'],10331
+942,Don't Look Now,1973-01-18,1500000,0,110,"['Thriller', 'Drama', 'Horror']",en,"['Italy', 'United Kingdom']",931
+943,Dawn of the Dead,1978-09-02,650000,55000000,127,['Horror'],en,"['Italy', 'United States of America']",923
+944,Joker,2019-10-01,55000000,1074458282,122,"['Crime', 'Thriller', 'Drama']",en,"['Canada', 'United States of America']",475557
+945,An American Werewolf in London,1981-08-21,10000000,31973249,97,"['Comedy', 'Horror']",en,"['United Kingdom', 'United States of America']",814
+946,Day of the Woman,1978-11-02,650000,0,101,"['Horror', 'Thriller']",en,['United States of America'],25239
+947,Videodrome,1983-02-04,5952000,2120439,88,"['Horror', 'Mystery', 'Science Fiction']",en,['Canada'],837
+948,All About My Mother,1999-04-16,8272296,67872296,101,"['Comedy', 'Drama']",es,"['Spain', 'France']",99
+949,Gremlins,1984-06-08,11000000,153083102,106,"['Fantasy', 'Horror', 'Comedy']",en,['United States of America'],927
+950,Day of the Dead,1985-07-03,3500000,34000000,100,"['Horror', 'Drama', 'Mystery']",en,['United States of America'],8408
+951,Manhunter,1986-08-14,15000000,8620929,120,"['Crime', 'Horror', 'Thriller']",en,['United States of America'],11454
+952,The Fly,1986-08-15,15000000,60629159,96,"['Horror', 'Science Fiction']",en,"['Canada', 'United Kingdom', 'United States of America']",9426
+953,El Camino: A Breaking Bad Movie,2019-10-11,0,0,123,"['Crime', 'Drama', 'Thriller', 'Action']",en,['United States of America'],559969
+954,Den of Thieves,2018-01-18,30000000,80509622,140,"['Action', 'Thriller', 'Crime']",en,['United States of America'],449443
+955,Lord of the Flies,1963-08-13,250000,0,92,"['Thriller', 'Adventure', 'Drama']",en,['United Kingdom'],9960
+956,August Rush,2007-11-21,25000000,66122026,114,"['Family', 'Drama', 'Music']",en,['United States of America'],5123
+957,The Vanishing,1988-10-27,0,0,106,"['Thriller', 'Mystery']",nl,"['France', 'Germany', 'Netherlands']",8740
+958,Benny's Video,1992-10-20,0,0,110,"['Crime', 'Drama']",de,"['Austria', 'Switzerland']",1987
+959,Who Killed Captain Alex?,2010-03-01,200,200,68,"['Action', 'Drama', 'Comedy']",en,['Uganda'],316776
+960,Visitor Q,2001-03-17,60400,0,84,"['Comedy', 'Drama', 'Horror', 'Thriller']",ja,['Japan'],4241
+961,Blade of the Immortal,2017-04-29,0,150532,140,"['Action', 'Fantasy', 'Adventure']",ja,"['Japan', 'South Korea', 'United Kingdom']",426284
+962,War,2007-08-24,25000000,40452643,103,"['Action', 'Thriller']",en,"['United States of America', 'Canada']",10431
+963,Casino,1995-11-22,50000000,116112375,179,"['Crime', 'Drama']",en,"['France', 'United States of America']",524
+964,The Town,2010-09-15,37000000,154026136,125,"['Crime', 'Drama', 'Thriller']",en,"['United Kingdom', 'United States of America']",23168
+965,The Lighthouse,2019-10-18,11000000,18129854,109,"['Drama', 'Fantasy', 'Thriller', 'Horror']",en,"['Brazil', 'Canada', 'United States of America']",503919
+966,Training Day,2001-10-05,45000000,104876233,122,"['Action', 'Crime', 'Drama']",en,['United States of America'],2034
+967,Headshot,2016-09-24,0,0,117,"['Action', 'Thriller', 'Crime']",id,['Indonesia'],403605
+968,The Beach Bum,2019-03-21,5000000,4554065,95,['Comedy'],en,"['France', 'Switzerland', 'United Kingdom', 'United States of America']",441384
+969,Spring Breakers,2013-01-24,5000000,31724284,94,"['Drama', 'Crime']",en,"['France', 'United States of America']",122081
+970,Speak,2004-01-20,1000000,0,89,['Drama'],en,['United States of America'],15058
+971,Jackie Brown,1997-12-25,12000000,39673162,154,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],184
+972,Kingsman: The Golden Circle,2017-09-20,104000000,410902662,141,"['Action', 'Adventure', 'Comedy']",en,"['United Kingdom', 'United States of America']",343668
+973,Crows Zero,2007-10-26,0,0,130,"['Action', 'Adventure', 'Comedy', 'Crime']",ja,['Japan'],14943
+974,Crows Zero II,2009-04-11,0,0,133,"['Action', 'Thriller']",ja,['Japan'],25716
+975,SPL: Kill Zone,2005-11-18,0,0,93,"['Action', 'Crime', 'Drama', 'Thriller']",cn,['Hong Kong'],13127
+976,SPL 2: A Time for Consequences,2015-06-18,0,0,120,"['Action', 'Crime', 'Thriller']",cn,"['China', 'Hong Kong']",331576
+977,Louis C.K. 2017,2017-04-04,0,0,74,['Comedy'],en,['United States of America'],449674
+978,Louis C.K.: Hilarious,2010-01-26,0,0,84,['Comedy'],en,['United States of America'],45523
+979,Louis C.K.: Live at the Beacon Theater,2011-12-10,250000,1000000,62,['Comedy'],en,['United States of America'],80379
+980,Louis C.K.: Chewed Up,2008-10-01,0,0,60,['Comedy'],en,['United States of America'],30969
+981,Louis C.K.: Live at The Comedy Store,2015-01-27,0,0,66,['Comedy'],en,['United States of America'],321594
+982,Louis C.K.: Oh My God,2013-04-13,0,0,58,['Comedy'],en,['United States of America'],185574
+983,Death Proof,2007-05-22,25000000,31126421,113,"['Action', 'Thriller']",en,['United States of America'],1991
+984,Assault on Precinct 13,1976-11-05,150000,0,91,"['Thriller', 'Action', 'Crime']",en,['United States of America'],17814
+985,Final Destination 3,2006-02-09,25000000,118890272,93,"['Horror', 'Mystery']",en,"['Canada', 'Germany', 'United States of America']",9286
+986,Final Destination 2,2003-01-31,26000000,90941129,90,"['Horror', 'Mystery']",en,['United States of America'],9358
+987,Indie Game: The Movie,2012-05-18,0,0,103,['Documentary'],en,['Canada'],80215
+988,Camp Rock,2008-06-20,0,0,95,"['Family', 'Music', 'Comedy', 'Drama', 'TV Movie', 'Romance']",en,['United States of America'],13655
+989,Maniac,2016-09-17,0,0,15,[],uk,['Ukraine'],935363
+990,Legion,2010-01-21,26000000,67918658,100,"['Horror', 'Action', 'Fantasy']",en,['United States of America'],22894
+991,Priest,2011-05-05,60000000,78309131,87,"['Action', 'Fantasy', 'Horror', 'Thriller']",en,['United States of America'],38321
+992,The Animatrix,2003-05-09,5000000,0,102,"['Animation', 'Science Fiction']",en,"['Japan', 'United States of America']",55931
+993,Circle,2015-05-28,0,0,87,"['Science Fiction', 'Mystery', 'Drama', 'Thriller', 'Horror']",en,['United States of America'],335866
+994,Blade Runner: Black Out 2022,2017-09-26,0,0,16,"['Action', 'Animation', 'Science Fiction']",en,"['United States of America', 'Japan']",475946
+995,Kid's Story,2003-06-03,0,0,15,"['Science Fiction', 'Animation']",en,[],24914
+996,A Detective Story,2003-04-04,0,0,10,"['Science Fiction', 'Animation', 'Crime']",en,['Japan'],24660
+997,Knives Out,2019-11-27,40000000,312897920,131,"['Comedy', 'Crime', 'Mystery']",en,['United States of America'],546554
+998,Wild Hogs,2007-03-02,0,253625427,100,"['Action', 'Adventure', 'Comedy']",en,['United States of America'],11199
+999,The Last Samurai,2003-12-05,140000000,456758981,154,"['Drama', 'Action', 'War']",en,"['Japan', 'United States of America', 'New Zealand']",616
+1000,The Outsiders,1983-03-25,10000000,33697647,91,"['Crime', 'Drama']",en,['United States of America'],227
+1001,Arthur and the Invisibles,2006-12-13,86000000,107944236,94,"['Adventure', 'Fantasy', 'Animation', 'Family']",en,"['France', 'United Kingdom']",9992
+1002,The Spiderwick Chronicles,2008-02-14,90000000,164170327,95,"['Family', 'Adventure', 'Fantasy']",en,['United States of America'],8204
+1003,Tabernacle 101,2019-08-30,0,0,99,"['Drama', 'Horror']",en,['Australia'],627322
+1004,I Lost My Body,2019-11-06,0,0,81,"['Animation', 'Drama', 'Fantasy']",fr,['France'],586940
+1005,Star Wars: The Rise of Skywalker,2019-12-18,250000000,1074144248,142,"['Adventure', 'Action', 'Science Fiction']",en,['United States of America'],181812
+1006,Police Academy,1984-03-22,4500000,81198894,97,"['Comedy', 'Crime']",en,['United States of America'],9336
+1007,The Happening,2008-06-11,60000000,163403799,91,"['Thriller', 'Science Fiction']",en,"['United States of America', 'India', 'France']",8645
+1008,The Night Comes for Us,2018-10-05,0,0,121,"['Action', 'Thriller', 'Crime']",id,['Indonesia'],449992
+1009,Earthquake Bird,2019-11-01,0,0,107,"['Drama', 'Mystery', 'Romance', 'Thriller']",en,"['Japan', 'United Kingdom']",513409
+1010,Underworld,2003-09-19,22000000,95708457,122,"['Fantasy', 'Action', 'Thriller']",en,"['Germany', 'Hungary', 'United Kingdom', 'United States of America']",277
+1011,The Adventures of Pluto Nash,2002-08-16,100000000,7103973,95,"['Action', 'Comedy', 'Science Fiction']",en,['United States of America'],11692
+1012,Cheaper by the Dozen 2,2005-12-21,60000000,129181830,94,"['Comedy', 'Family', 'Adventure']",en,"['Canada', 'United States of America']",9641
+1013,Marriage Story,2019-09-28,18000000,2300000,137,['Drama'],en,['United Kingdom'],492188
+1014,"Olive, The Other Reindeer",1999-12-17,0,0,45,"['Animation', 'Family', 'Comedy', 'TV Movie']",en,['United States of America'],13379
+1015,Godzilla Against MechaGodzilla,2002-11-02,8500000,16000000,88,"['Action', 'Science Fiction']",ja,['Japan'],12636
+1016,Smiley Face,2007-11-16,0,179381,84,['Comedy'],en,"['Germany', 'United States of America']",13168
+1017,6 Underground,2019-12-13,150000000,0,128,"['Action', 'Comedy', 'Thriller']",en,['United States of America'],509967
+1018,Cats,2019-12-19,95000000,73515024,110,"['Fantasy', 'Comedy', 'Drama']",en,"['United Kingdom', 'United States of America']",536869
+1019,Curfew,2012-03-28,50000,0,19,['Drama'],en,['United States of America'],157289
+1020,Limitless,2011-03-08,27000000,161849455,105,"['Thriller', 'Mystery', 'Science Fiction']",en,['United States of America'],51876
+1021,Bill Burr: Paper Tiger,2019-09-10,0,0,67,"['Comedy', 'Documentary']",en,"['United Kingdom', 'United States of America']",625128
+1022,The Irishman,2019-11-01,159000000,968853,209,"['Crime', 'Drama', 'History']",en,['United States of America'],398978
+1023,Shark Tale,2004-09-20,75000000,367275019,90,"['Animation', 'Action', 'Comedy', 'Family']",en,['United States of America'],10555
+1024,Bad Boys II,2003-07-18,130000000,273339556,147,"['Adventure', 'Action', 'Comedy', 'Thriller', 'Crime']",en,['United States of America'],8961
+1025,Sinbad: Legend of the Seven Seas,2003-07-02,60000000,80767884,90,"['Family', 'Animation', 'Adventure', 'Comedy', 'Fantasy', 'Action']",en,['United States of America'],14411
+1026,Monsters vs Aliens,2009-03-19,175000000,381509870,94,"['Animation', 'Family', 'Adventure', 'Science Fiction']",en,['United States of America'],15512
+1027,Puss in Boots,2011-10-27,130000000,554987477,90,"['Animation', 'Family', 'Fantasy', 'Adventure', 'Comedy']",en,['United States of America'],417859
+1028,Hearts of Darkness: A Filmmaker's Apocalypse,1991-11-27,0,1318449,96,['Documentary'],en,['United States of America'],4539
+1029,Inside Job,2010-10-08,2000000,7871522,109,['Documentary'],en,['United States of America'],44639
+1030,An Inconvenient Truth,2006-05-24,1000000,46243000,100,['Documentary'],en,['United States of America'],1781
+1031,Bowling for Columbine,2002-10-09,4000000,35564473,120,"['Documentary', 'Drama']",en,"['Canada', 'Germany', 'United States of America']",1430
+1032,Bad Genius,2017-05-03,1839169,42350000,130,"['Drama', 'Crime', 'Thriller', 'Comedy']",th,['Thailand'],455714
+1033,Act of Valor,2012-02-24,12000000,82499399,110,"['Action', 'Thriller', 'War']",en,['United States of America'],75674
+1034,Herbie Fully Loaded,2005-06-22,50000000,144146816,100,"['Comedy', 'Family', 'Adventure', 'Fantasy', 'Romance']",en,['United States of America'],11451
+1035,The Kid with a Bike,2011-05-18,0,0,87,['Drama'],fr,"['Belgium', 'France', 'Italy']",63831
+1036,"Two Days, One Night",2014-05-21,7000000,9016922,95,['Drama'],fr,"['Italy', 'Belgium', 'France']",221902
+1037,Batman: Assault on Arkham,2014-08-12,0,4571025,76,"['Thriller', 'Animation', 'Action', 'Crime']",en,['United States of America'],242643
+1038,"Batman: The Dark Knight Returns, Part 1",2012-08-21,3500000,0,76,"['Science Fiction', 'Action', 'Animation', 'Mystery']",en,['United States of America'],123025
+1039,"Batman: The Dark Knight Returns, Part 2",2013-01-03,3500000,0,78,"['Science Fiction', 'Action', 'Animation', 'Mystery']",en,['United States of America'],142061
+1040,Osmosis Jones,2001-08-10,75000000,13596911,95,"['Adventure', 'Animation', 'Action', 'Comedy', 'Family']",en,['United States of America'],12610
+1041,Serenity,2005-09-25,39000000,38869464,119,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",en,['United States of America'],16320
+1042,1917,2019-12-25,100000000,394638258,119,"['War', 'Action', 'Drama']",en,"['India', 'Spain', 'United Kingdom', 'United States of America']",530915
+1043,The Muppets,2011-11-22,45000000,165184237,103,"['Comedy', 'Music']",en,['United States of America'],64328
+1044,Outsourced,2007-09-28,0,0,102,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],7861
+1045,To All the Boys: P.S. I Still Love You,2020-02-12,0,0,102,"['Romance', 'Comedy']",en,['United States of America'],565426
+1046,Weathering with You,2019-06-19,0,186965409,112,"['Animation', 'Drama', 'Fantasy', 'Romance']",ja,['Japan'],568160
+1047,Miami Vice,2006-07-27,135000000,163794509,132,"['Action', 'Crime', 'Thriller']",en,"['Uruguay', 'United States of America', 'Germany', 'Paraguay']",82
+1048,Hot Wheels: World Race,2003-07-01,0,0,110,"['Family', 'Animation', 'Action', 'Science Fiction']",en,['Canada'],47159
+1049,Public Enemies,2009-07-01,100000000,214104620,140,"['Crime', 'Action']",en,"['Japan', 'United States of America']",11322
+1050,Cinderella Man,2005-06-02,88000000,108539911,144,"['Romance', 'Drama', 'History']",en,['United States of America'],921
+1051,The Da Vinci Code,2006-05-17,125000000,767820459,149,"['Thriller', 'Mystery']",en,['United States of America'],591
+1052,Angels & Demons,2009-05-13,150000000,485930816,138,"['Thriller', 'Mystery']",en,"['Italy', 'United States of America']",13448
+1053,Stargate,1994-10-28,55000000,196567262,121,"['Action', 'Adventure', 'Science Fiction']",en,"['France', 'United States of America']",2164
+1054,TMNT,2007-03-23,34000000,95608995,86,"['Adventure', 'Animation', 'Comedy', 'Family']",en,"['Hong Kong', 'United States of America']",1273
+1055,The Grudge 3,2009-05-12,5000000,38610009,90,"['Mystery', 'Horror', 'Thriller']",en,['United States of America'],1977
+1056,L'Argent,1983-05-16,0,0,85,"['Crime', 'Drama']",fr,"['France', 'Switzerland']",42112
+1057,13 Hours: The Secret Soldiers of Benghazi,2016-01-14,50000000,69411370,144,"['War', 'Action', 'History', 'Drama']",en,"['Malta', 'Morocco', 'United States of America']",300671
+1058,Sincerely Louis C.K.,2020-04-04,0,0,60,['Comedy'],en,['United States of America'],689643
+1059,Waco: Madman or Messiah,2018-01-28,0,0,176,['Documentary'],en,['United States of America'],495002
+1060,Save the Last Dance,2001-01-12,13000000,131706809,113,"['Drama', 'Family', 'Romance', 'Music']",en,['United States of America'],9816
+1061,Apostle,2018-09-21,0,0,130,"['Horror', 'Mystery', 'Thriller', 'Drama']",en,"['United States of America', 'United Kingdom']",424121
+1062,Extraction,2020-04-24,65000000,0,116,"['Action', 'Thriller']",en,['United States of America'],545609
+1063,The Wailing,2016-05-12,10951000,49851770,156,"['Horror', 'Mystery']",ko,"['South Korea', 'United States of America']",293670
+1064,War of the Worlds,2005-06-28,132000000,603873119,117,"['Adventure', 'Thriller', 'Science Fiction']",en,['United States of America'],74
+1065,Crawl,2019-07-11,13500000,91542097,88,"['Thriller', 'Horror', 'Action']",en,"['Canada', 'Serbia', 'United States of America']",511987
+1066,The Fighter,2010-12-10,25000000,93617009,116,['Drama'],en,['United States of America'],45317
+1067,21 Bridges,2019-10-24,33000000,49939757,99,"['Crime', 'Action', 'Drama']",en,['United States of America'],535292
+1068,Run All Night,2015-03-11,50000000,71561644,114,"['Action', 'Crime', 'Thriller']",en,['United States of America'],241554
+1069,Girls Trip,2017-07-21,19000000,140376621,122,['Comedy'],en,['United States of America'],417870
+1070,Rat Race,2001-08-17,48000000,85498534,112,"['Adventure', 'Comedy']",en,"['Canada', 'United States of America']",9896
+1071,Ghosts of Girlfriends Past,2009-05-01,37500000,102223269,115,"['Fantasy', 'Comedy', 'Romance']",en,['United States of America'],12556
+1072,Superbabies: Baby Geniuses 2,2004-08-27,0,9109322,88,"['Comedy', 'Family']",en,"['Germany', 'United Kingdom', 'United States of America']",31117
+1073,The Adventures of Young Indiana Jones: Trenches of Hell,1999-10-26,0,0,89,"['Action', 'Adventure', 'Drama', 'War', 'TV Movie']",en,['United States of America'],222050
+1074,Belly,1998-11-04,0,0,96,"['Crime', 'Drama']",en,['United States of America'],12888
+1075,8:46,2020-06-12,0,0,27,['Comedy'],en,['United States of America'],714842
+1076,Battle: Los Angeles,2011-03-08,70000000,211819354,116,"['Science Fiction', 'Action']",en,['United States of America'],44943
+1077,The Fanatic,2019-08-30,18000000,3153,89,"['Crime', 'Thriller']",en,['United States of America'],509853
+1078,Corpse Bride,2005-09-12,40000000,118133252,77,"['Romance', 'Fantasy', 'Animation']",en,"['United Kingdom', 'United States of America']",3933
+1079,Wallace & Gromit: The Curse of the Were-Rabbit,2005-09-04,30000000,192610372,85,"['Adventure', 'Animation', 'Comedy', 'Family']",en,"['United Kingdom', 'United States of America']",533
+1080,The NeverEnding Story,1984-04-06,27000000,20158808,102,"['Adventure', 'Fantasy', 'Family', 'Drama']",en,"['Germany', 'United States of America']",34584
+1081,The NeverEnding Story II: The Next Chapter,1990-10-25,32000000,16283667,89,"['Drama', 'Family', 'Fantasy', 'Adventure']",en,"['Germany', 'United States of America']",34636
+1082,Skyline,2010-11-11,10000000,66984888,92,"['Science Fiction', 'Adventure', 'Action', 'Thriller']",en,['United States of America'],42684
+1083,Aliens vs Predator: Requiem,2007-12-25,40000000,130290885,94,"['Fantasy', 'Action', 'Science Fiction', 'Thriller', 'Horror']",en,['United States of America'],440
+1084,Predators,2010-07-03,40000000,127233108,107,"['Science Fiction', 'Action', 'Thriller']",en,['United States of America'],34851
+1085,Fantastic Four,2005-06-29,100000000,333535934,106,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",en,"['Germany', 'United States of America']",9738
+1086,Fantastic Four: Rise of the Silver Surfer,2007-06-13,130000000,301913131,92,"['Adventure', 'Fantasy', 'Action', 'Thriller']",en,"['Germany', 'United Kingdom', 'United States of America']",1979
+1087,Little Fockers,2010-12-21,100000000,310650585,98,"['Comedy', 'Romance']",en,['United States of America'],39451
+1088,Rocky II,1979-06-15,7000000,85182160,118,['Drama'],en,['United States of America'],1367
+1089,Rocky III,1982-05-28,17000000,270000000,99,['Drama'],en,['United States of America'],1371
+1090,Rocky IV,1985-11-21,31000000,300473716,91,['Drama'],en,['United States of America'],1374
+1091,Bicentennial Man,1999-12-17,100000000,87423861,131,"['Science Fiction', 'Drama']",en,"['Germany', 'United States of America']",2277
+1092,Ted,2012-06-29,50000000,549368315,107,"['Comedy', 'Fantasy']",en,['United States of America'],72105
+1093,Monsters,2010-06-18,500000,5639730,94,"['Drama', 'Thriller', 'Science Fiction']",en,['United Kingdom'],43933
+1094,Force Majeure,2014-08-15,0,4094339,120,['Drama'],sv,"['Denmark', 'France', 'Norway', 'Sweden']",265189
+1095,The French Connection,1971-10-09,1800000,41158757,104,"['Action', 'Crime', 'Thriller']",en,['United States of America'],1051
+1096,It's Kind of a Funny Story,2010-10-08,8000000,6491240,102,"['Comedy', 'Drama']",en,['United States of America'],43923
+1097,Ronin,1998-09-25,55000000,70692101,122,"['Action', 'Thriller', 'Crime']",en,['United States of America'],8195
+1098,"Yes, God, Yes",2017-04-23,0,0,11,['Drama'],en,['United States of America'],421465
+1099,Neighbors,2014-05-08,18000000,270665134,97,['Comedy'],en,['United States of America'],195589
+1100,Cartel Land,2015-07-03,0,1145923,100,"['Drama', 'Documentary']",en,['United States of America'],317952
+1101,30 Minutes or Less,2011-08-11,28000000,40547440,83,"['Action', 'Adventure', 'Comedy']",en,['United States of America'],62206
+1102,The Insider,1999-10-28,90000000,60289912,158,"['Drama', 'Thriller']",en,['United States of America'],9008
+1103,Jackass: The Movie,2002-10-25,5000000,64282312,88,"['Comedy', 'Documentary']",en,['United States of America'],9012
+1104,Jackass 3D,2010-10-15,20000000,117224271,99,"['Comedy', 'Documentary', 'Action']",en,['United States of America'],16290
+1105,The Ninth Gate,1999-08-25,38000000,58401898,133,"['Mystery', 'Thriller']",en,"['Spain', 'France']",622
+1106,Ip Man 3,2015-12-24,36000000,157029618,105,"['Action', 'Drama', 'History']",cn,"['China', 'Hong Kong']",365222
+1107,Doodlebug,1997-01-01,0,0,3,['Mystery'],en,['United Kingdom'],43629
+1108,Flightplan,2005-09-22,55000000,223387299,98,"['Thriller', 'Drama', 'Mystery']",en,['United States of America'],9315
+1109,Battles Without Honor and Humanity,1973-01-13,150000,0,99,"['Drama', 'Crime']",ja,['Japan'],34326
+1110,American Reunion,2012-04-04,50000000,234989584,113,['Comedy'],en,['United States of America'],71552
+1111,9,2009-08-19,30000000,48428063,79,"['Action', 'Adventure', 'Animation', 'Science Fiction', 'Thriller']",en,"['Canada', 'Luxembourg', 'United States of America']",12244
+1112,Cube,1997-09-09,350000,8969065,90,"['Thriller', 'Science Fiction', 'Mystery']",en,['Canada'],431
+1113,Sound! Euphonium the Movie – Welcome to the Kitauji High School Concert Band,2016-04-23,0,0,103,"['Animation', 'Drama', 'Music']",ja,['Japan'],374056
+1114,High School of the Dead: Drifters of the Dead,2011-04-25,0,0,18,"['Comedy', 'Animation', 'Adventure', 'Horror']",ja,['Japan'],203101
+1115,Project Power,2020-08-14,0,0,113,"['Action', 'Crime', 'Science Fiction']",en,['United States of America'],605116
+1116,Peninsula,2020-07-15,17000000,42698327,115,"['Horror', 'Adventure', 'Action', 'Thriller']",ko,['South Korea'],581392
+1117,Saw,2004-10-01,1200000,103911669,103,"['Horror', 'Mystery', 'Crime']",en,['United States of America'],176
+1118,Saw 3D,2010-10-22,20000000,136151680,90,"['Horror', 'Crime']",en,['United States of America'],41439
+1119,Saw II,2005-10-28,4000000,147748505,93,['Horror'],en,['United States of America'],215
+1120,Lakeview Terrace,2008-09-19,20000000,27640028,110,"['Drama', 'Crime', 'Thriller']",en,['United States of America'],13279
+1121,Three… Extremes,2004-08-20,77532,516930,125,['Horror'],ko,"['Hong Kong', 'Japan', 'Netherlands', 'South Korea']",33908
+1122,Pandorum,2009-09-08,33000000,20648328,108,"['Action', 'Horror', 'Mystery', 'Science Fiction', 'Thriller']",en,"['Germany', 'United Kingdom', 'United States of America']",19898
+1123,Eragon,2006-12-14,100000000,249288105,104,"['Fantasy', 'Action', 'Adventure', 'Family']",en,"['United Kingdom', 'United States of America', 'Hungary']",2486
+1124,Blood Beat,1983-03-18,0,0,85,['Horror'],es,['United States of America'],84999
+1125,"Electric Boogaloo: The Wild, Untold Story of Cannon Films",2014-10-06,0,0,107,['Documentary'],en,"['Australia', 'United Kingdom']",282041
+1126,Grand Piano,2013-10-11,0,0,90,"['Thriller', 'Mystery']",en,"['Spain', 'United States of America']",220286
+1127,Daredevil,2003-02-14,78000000,179179718,103,"['Fantasy', 'Action']",en,['United States of America'],9480
+1128,Prince of Persia: The Sands of Time,2010-05-19,200000000,336365676,116,"['Adventure', 'Fantasy', 'Action']",en,['United States of America'],9543
+1129,Pulse,2001-02-03,25000000,318451,119,"['Horror', 'Thriller', 'Mystery']",ja,['Japan'],27324
+1130,Top Five,2014-12-12,0,25434291,102,"['Drama', 'Comedy']",en,['United States of America'],284296
+1131,The Nightmare Before Christmas,1993-10-09,24000000,75634409,76,"['Fantasy', 'Animation', 'Family']",en,['United States of America'],9479
+1132,Afro Samurai Pilot,2007-10-27,0,0,4,"['Action', 'Animation', 'Music']",ja,['Japan'],515056
+1133,Erased,2016-08-17,0,0,120,"['Thriller', 'Fantasy']",ja,['Japan'],379300
+1134,Mike and Dave Need Wedding Dates,2016-07-07,33000000,77068246,98,['Comedy'],en,['United States of America'],316023
+1135,Comedy Central Roast of Charlie Sheen,2011-09-19,0,0,78,['Comedy'],en,['United States of America'],296192
+1136,Jack and Jill,2011-11-11,79000000,149673788,91,['Comedy'],en,['United States of America'],71880
+1137,I Am Number Four,2011-02-18,50000000,149878437,109,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",en,"['India', 'United States of America']",46529
+1138,Millions,2004-04-29,0,11782282,98,"['Comedy', 'Crime', 'Drama', 'Family']",en,"['Belgium', 'France', 'United Kingdom']",13373
+1139,Pocahontas,1995-06-14,55000000,346079773,81,"['Adventure', 'Animation', 'Family', 'Romance']",en,['United States of America'],10530
+1140,The Hurt Locker,2008-10-10,15000000,49230772,131,"['Drama', 'Thriller', 'War']",en,['United States of America'],12162
+1141,Pirates of the Caribbean: Dead Man's Chest,2006-07-06,200000000,1065659812,151,"['Adventure', 'Fantasy', 'Action']",en,['United States of America'],58
+1142,Pirates of the Caribbean: At World's End,2007-05-19,300000000,961000000,169,"['Adventure', 'Fantasy', 'Action']",en,['United States of America'],285
+1143,Superman Returns,2006-06-28,270000000,391081192,154,"['Science Fiction', 'Action', 'Adventure']",en,['United States of America'],1452
+1144,Flyboys,2006-09-22,60000000,17834865,138,"['Action', 'Adventure', 'Drama', 'History', 'Romance', 'War']",en,"['United Kingdom', 'United States of America']",9664
+1145,Corman's World,2011-12-16,0,0,91,['Documentary'],en,['United States of America'],56591
+1146,Mission: Impossible,1996-05-22,80000000,457731198,110,"['Adventure', 'Action', 'Thriller']",en,['United States of America'],954
+1147,Dragon Ball Z: Battle of Gods,2013-03-30,0,50461371,85,"['Animation', 'Action', 'Science Fiction']",ja,['Japan'],126963
+1148,The Master of Disguise,2002-08-02,16000000,43411001,80,"['Comedy', 'Family']",en,['United States of America'],13908
+1149,Battles Without Honor and Humanity: Deadly Fight in Hiroshima,1973-04-28,125000,0,100,"['Drama', 'Crime']",ja,['Japan'],52980
+1150,Pink Floyd: The Wall,1982-07-14,12000000,22244207,95,"['Music', 'Drama']",en,"['United Kingdom', 'United States of America']",12104
+1151,A Midsummer Night's Dream,1999-05-14,11000000,16071990,116,"['Fantasy', 'Comedy', 'Romance']",en,"['Italy', 'United States of America', 'United Kingdom']",10210
+1152,Lilo & Stitch,2002-06-21,80000000,273144151,85,"['Animation', 'Family']",en,['United States of America'],11544
+1153,Lilo & Stitch 2: Stitch Has a Glitch,2005-01-22,0,0,68,"['Animation', 'Family', 'Comedy', 'Science Fiction']",en,['United States of America'],20760
+1154,Leroy & Stitch,2006-06-23,0,0,73,"['Animation', 'Comedy', 'Family']",en,['United States of America'],21316
+1155,The Polar Express,2004-11-10,165000000,310634054,100,"['Animation', 'Adventure', 'Family', 'Fantasy']",en,['United States of America'],5255
+1156,Big Momma's House,2000-05-31,30000000,173959438,98,"['Crime', 'Comedy']",en,"['Germany', 'United States of America']",9600
+1157,Open Season,2006-09-27,85000000,197309027,86,"['Animation', 'Family', 'Adventure', 'Comedy']",en,['United States of America'],7484
+1158,Beat the Devil,2002-11-22,0,0,10,"['Comedy', 'Action', 'Fantasy']",en,['United States of America'],51939
+1159,I'm Thinking of Ending Things,2020-08-28,0,0,135,"['Drama', 'Fantasy', 'Mystery', 'Thriller']",en,['United States of America'],500840
+1160,Jeepers Creepers,2001-07-01,10000000,59217789,90,"['Horror', 'Thriller', 'Mystery']",en,"['Germany', 'United States of America']",8922
+1161,Grown Ups,2010-06-24,80000000,271430189,102,['Comedy'],en,['United States of America'],38365
+1162,Just Go with It,2011-02-10,80000000,214945591,117,"['Comedy', 'Romance']",en,['United States of America'],50546
+1163,Tower Heist,2011-11-02,75000000,152930623,104,"['Action', 'Comedy']",en,['United States of America'],59108
+1164,The Ant Bully,2006-07-28,50000000,55181129,88,"['Fantasy', 'Adventure', 'Animation', 'Comedy', 'Family']",en,['United States of America'],9906
+1165,The Sorcerer's Apprentice,2010-07-13,150000000,215283742,109,"['Fantasy', 'Adventure', 'Action']",en,['United States of America'],27022
+1166,Hulk,2003-06-19,137000000,245360480,138,"['Science Fiction', 'Adventure', 'Action']",en,['United States of America'],1927
+1167,Hoodwinked!,2005-12-16,15000000,51053787,82,"['Animation', 'Comedy', 'Family', 'Crime']",en,['United States of America'],10982
+1168,Around the World in 80 Days,2004-06-16,110000000,72178895,120,"['Action', 'Adventure', 'Comedy']",en,"['Germany', 'Ireland', 'United Kingdom', 'United States of America']",10204
+1169,The Naked Gun: From the Files of Police Squad!,1988-12-02,12000000,78756177,86,"['Comedy', 'Crime']",en,['United States of America'],37136
+1170,Pitch Perfect 2,2015-05-07,29000000,287506194,115,"['Comedy', 'Music']",en,['United States of America'],254470
+1171,Street Fighter,1994-12-23,35000000,99423521,102,"['Action', 'Adventure', 'Comedy', 'Thriller']",en,"['Japan', 'United States of America']",11667
+1172,The Killing,1956-06-06,320000,0,85,"['Crime', 'Thriller', 'Drama']",en,['United States of America'],247
+1173,Jumanji,1995-12-15,65000000,262821940,104,"['Adventure', 'Fantasy', 'Family']",en,['United States of America'],8844
+1174,Mars Attacks!,1996-12-13,70000000,101371017,106,"['Comedy', 'Fantasy', 'Science Fiction']",en,['United States of America'],75
+1175,Gemini Man,2019-10-02,140000000,173469516,117,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",en,"['China', 'Colombia', 'Hungary', 'United States of America']",453405
+1176,Agent Cody Banks,2003-03-14,28000000,58795814,102,"['Action', 'Adventure', 'Comedy', 'Family']",en,"['Canada', 'United States of America']",10923
+1177,The Sunset Limited,2011-02-12,0,0,90,"['Drama', 'TV Movie']",en,['United States of America'],56831
+1178,The Babysitter,2017-10-13,0,0,85,"['Comedy', 'Horror']",en,['United States of America'],419479
+1179,Blackhat,2015-01-13,70000000,17752940,133,"['Crime', 'Thriller', 'Action']",en,['United States of America'],201088
+1180,Diary of a Wimpy Kid,2010-03-19,15000000,76196538,92,"['Comedy', 'Family']",en,"['United Kingdom', 'United States of America']",33217
+1181,Diary of a Wimpy Kid: Rodrick Rules,2011-03-25,21000000,72526996,99,"['Family', 'Comedy']",en,['United States of America'],60307
+1182,The Man from Nowhere,2010-08-04,1255000,43059790,119,"['Action', 'Thriller', 'Crime']",ko,['South Korea'],51608
+1183,"Bo Burnham: Words, Words, Words",2010-10-16,0,0,62,['Comedy'],en,['United States of America'],47911
+1184,The Babysitter: Killer Queen,2020-09-10,0,0,101,"['Comedy', 'Horror']",en,['United States of America'],623491
+1185,The SpongeBob Movie: Sponge Out of Water,2015-01-28,74000000,311594032,93,"['Family', 'Adventure', 'Comedy', 'Fantasy', 'Animation']",en,"['Australia', 'United States of America']",228165
+1186,Jimmy Neutron: Boy Genius,2001-12-21,25000000,80936232,83,"['Family', 'Action', 'Adventure', 'Animation', 'Comedy', 'Science Fiction']",en,['United States of America'],12589
+1187,Curious George,2006-02-10,50000000,69834815,87,"['Adventure', 'Animation', 'Comedy', 'Family']",en,['United States of America'],9975
+1188,City of God,2002-08-30,3300000,30641770,130,"['Drama', 'Crime']",pt,"['Brazil', 'France', 'Germany']",598
+1189,Red Hook,2009-10-03,0,0,85,"['Comedy', 'Drama', 'Horror', 'Thriller']",en,['United States of America'],33275
+1190,Nanny McPhee,2005-10-21,25000000,123276807,97,"['Fantasy', 'Comedy', 'Family']",en,"['United Kingdom', 'United States of America']",11283
+1191,Rosemary's Baby,1968-06-12,3200000,33395426,138,"['Drama', 'Horror', 'Thriller']",en,['United States of America'],805
+1192,12 Rounds,2009-03-19,22000000,17280326,108,"['Action', 'Thriller', 'Crime']",en,['United States of America'],17134
+1193,Treasure Planet,2002-11-26,140000000,109578115,95,"['Adventure', 'Animation', 'Family', 'Fantasy', 'Science Fiction']",en,['United States of America'],9016
+1194,Jarhead,2005-11-04,72000000,97076152,123,"['Drama', 'War']",en,"['United Kingdom', 'United States of America']",25
+1195,The Haunted Mansion,2003-11-26,90000000,182290266,88,"['Thriller', 'Fantasy', 'Comedy', 'Family', 'Mystery']",en,['United States of America'],10756
+1196,Inside,2007-06-13,3000000,0,83,"['Horror', 'Thriller']",fr,['France'],13312
+1197,Bram Stoker's Dracula,1992-11-13,40000000,215862692,128,"['Romance', 'Horror']",en,['United States of America'],6114
+1198,Evil Eye,2020-04-01,0,0,90,"['Mystery', 'Thriller', 'Horror']",en,['United States of America'],732713
+1199,Killer Tongue,1996-11-15,4000000,219449,98,"['Comedy', 'Horror', 'Science Fiction']",es,"['Spain', 'United Kingdom']",36271
+1200,Shooter,2007-03-22,61000000,95696996,124,"['Action', 'Drama', 'Mystery', 'Thriller', 'Crime']",en,['United States of America'],7485
+1201,Long-Haired Hare,1949-06-25,0,0,8,"['Animation', 'Comedy', 'Family', 'Music']",en,['United States of America'],64711
+1202,Feed the Kitty,1952-02-02,0,0,7,"['Animation', 'Comedy', 'Family']",en,['United States of America'],83765
+1203,The Invitation,2015-07-03,1000000,354835,100,"['Thriller', 'Horror']",en,['United States of America'],306947
+1204,A Better Tomorrow,1986-08-02,0,4469460,95,"['Action', 'Crime', 'Drama']",zh,['Hong Kong'],11471
+1205,Death Wish,1974-07-24,3000000,22000000,93,"['Crime', 'Drama', 'Action']",en,['United States of America'],13939
+1206,Doomsday,2008-03-14,30000000,22472631,108,"['Action', 'Thriller', 'Science Fiction']",en,"['Germany', 'United Kingdom', 'United States of America', 'South Africa']",13460
+1207,A Better Tomorrow II,1987-12-17,150000,0,105,"['Action', 'Crime', 'Thriller']",zh,['Hong Kong'],18305
+1208,Altitude,2010-10-10,0,0,90,"['Horror', 'Thriller', 'Fantasy']",en,"['Canada', 'United States of America']",44678
+1209,The Warrior's Way,2010-12-01,42000000,11087569,100,"['Adventure', 'Fantasy', 'Action', 'Western', 'Thriller']",en,"['India', 'New Zealand', 'South Korea', 'United States of America']",46528
+1210,Mission: Impossible II,2000-05-24,125000000,546388105,123,"['Adventure', 'Action', 'Thriller']",en,['United States of America'],955
+1211,Urotsukidōji: Legend of the Overfiend,1989-03-18,0,0,108,"['Animation', 'Action', 'Horror', 'Fantasy']",ja,['Japan'],48624
+1212,Bullet in the Head,1990-08-17,3500000,0,130,"['Thriller', 'Crime', 'Drama', 'Action', 'War']",cn,['Hong Kong'],11909
+1213,Nimic,2020-01-30,0,0,12,"['Drama', 'Fantasy', 'Mystery', 'Thriller']",en,"['Germany', 'United Kingdom', 'United States of America']",621749
+1214,The Dreamers,2003-09-01,15000000,15121165,115,"['Drama', 'Romance']",en,"['Belgium', 'France', 'Italy', 'United Kingdom', 'United States of America']",1278
+1215,Hard Target,1993-04-27,18000000,74189677,97,"['Action', 'Adventure', 'Crime', 'Thriller']",en,['United States of America'],2019
+1216,Doctor Who: The Day of the Doctor,2013-11-23,0,10000000,77,"['Science Fiction', 'Adventure']",en,['United Kingdom'],313106
+1217,Battles Without Honor and Humanity: Proxy War,1973-09-25,0,0,119,"['Action', 'Drama', 'Crime']",ja,['Japan'],52874
+1218,Battles Without Honor and Humanity: Police Tactics,1974-01-15,125000,2140000,101,"['Crime', 'Drama']",ja,['Japan'],52979
+1219,Battles Without Honor and Humanity: Final Episode,1974-06-29,0,0,100,"['Action', 'Drama', 'Crime']",ja,['Japan'],64912
+1220,Pitch Black,2000-02-18,23000000,53187659,108,"['Thriller', 'Science Fiction', 'Action']",en,['United States of America'],2787
+1221,Event Horizon,1997-08-15,60000000,26673242,96,"['Horror', 'Science Fiction', 'Mystery']",en,"['United Kingdom', 'United States of America']",8413
+1222,Con Air,1997-06-05,75000000,224012234,116,"['Action', 'Thriller', 'Crime']",en,['United States of America'],1701
+1223,Total Recall,1990-06-01,65000000,261317921,113,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],861
+1224,Tenet,2020-08-22,205000000,365304105,150,"['Action', 'Thriller', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",577922
+1225,The Devil All the Time,2020-09-11,0,0,138,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],499932
+1226,Southern Comfort,1981-09-24,0,0,105,"['Action', 'Thriller']",en,['United States of America'],12528
+1227,Twin Peaks,1989-09-28,3800000,0,116,"['Crime', 'Drama', 'Mystery', 'TV Movie']",en,['United States of America'],452522
+1228,The Ghost Writer,2010-02-12,45000000,60331447,128,"['Thriller', 'Mystery']",en,"['France', 'Germany', 'United Kingdom', 'United States of America']",11439
+1229,Patrice O'Neal: One-Night Stand,2005-10-07,0,0,27,['Comedy'],en,[],657951
+1230,Fudoh: The New Generation,1996-10-12,0,0,99,"['Action', 'Thriller', 'Crime', 'Comedy']",ja,['Japan'],36282
+1231,Lost Highway,1997-01-15,15000000,3756869,134,"['Drama', 'Thriller', 'Mystery']",en,"['United States of America', 'France']",638
+1232,Three Colors: Blue,1993-09-08,0,0,98,['Drama'],fr,"['France', 'Poland', 'Switzerland']",108
+1233,King of New York,1990-07-18,0,0,103,"['Thriller', 'Crime']",en,"['Italy', 'United Kingdom', 'United States of America']",9558
+1234,"The Good, the Bad and the Ugly",1966-12-23,1200000,38900000,161,['Western'],it,"['United States of America', 'Italy', 'Spain', 'Germany']",429
+1235,Once Upon a Time in the West,1968-12-21,5000000,5380118,166,"['Drama', 'Western']",it,"['Italy', 'United States of America']",335
+1236,Murder on the Orient Express,1974-11-22,1400000,35700000,128,"['Drama', 'Thriller', 'Mystery']",en,"['United Kingdom', 'United States of America']",4176
+1237,Clue,1985-12-13,15000000,14643997,94,"['Comedy', 'Thriller', 'Crime', 'Mystery']",en,['United States of America'],15196
+1238,The Monster Squad,1987-08-14,12000000,3769990,82,"['Comedy', 'Action', 'Fantasy']",en,['United States of America'],13509
+1239,Days of Thunder,1990-06-27,60000000,157920733,107,"['Adventure', 'Action', 'Drama']",en,['United States of America'],2119
+1240,What's Eating Gilbert Grape,1993-12-17,11000000,10032765,118,"['Romance', 'Drama']",en,['United States of America'],1587
+1241,Congo,1995-06-09,50000000,152022101,109,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],10329
+1242,Apollo 13,1995-06-30,52000000,355237933,140,"['Drama', 'History']",en,['United States of America'],568
+1243,Hard Eight,1997-02-28,3000000,222559,102,"['Drama', 'Crime']",en,['United States of America'],8052
+1244,Beavis and Butt-Head Do America,1996-12-15,12000000,63118386,80,"['Animation', 'Comedy']",en,['United States of America'],3179
+1245,The Virgin Suicides,1999-12-31,6000000,10409377,97,"['Drama', 'Romance']",en,['United States of America'],1443
+1246,Cyberbully,2011-07-17,0,0,90,['Drama'],en,['Canada'],70821
+1247,Wizards on Deck with Hannah Montana,2009-07-17,0,0,68,['Family'],en,['United States of America'],77974
+1248,Bringing Out the Dead,1999-10-22,32000000,16800000,121,['Drama'],en,['United States of America'],8649
+1249,Galaxy Quest,1999-12-25,45000000,90683916,101,"['Comedy', 'Science Fiction', 'Adventure']",en,['United States of America'],926
+1250,The Original Kings of Comedy,2000-08-18,13000000,38251106,115,"['Comedy', 'Documentary']",en,['United States of America'],23618
+1251,Spy Game,2001-11-18,115000000,143049560,126,"['Action', 'Crime', 'Thriller']",en,"['France', 'Germany', 'Hong Kong', 'Japan', 'United States of America']",1535
+1252,The Machinist,2004-07-02,5000000,8203235,101,"['Thriller', 'Drama']",en,"['Belgium', 'Spain', 'United States of America']",4553
+1253,The Boxer's Omen,1983-10-23,0,0,104,"['Action', 'Horror', 'Fantasy']",cn,['Hong Kong'],49239
+1254,The Limey,1999-05-15,10000000,3204663,89,"['Drama', 'Mystery', 'Crime']",en,['United States of America'],10388
+1255,Hustle & Flow,2005-07-22,8000000,23563727,116,"['Crime', 'Drama', 'Music']",en,['United States of America'],10476
+1256,Barnyard,2006-08-04,51000000,116476887,90,"['Animation', 'Comedy', 'Family']",en,"['Germany', 'United States of America']",9907
+1257,Red Eye,2005-08-19,26000000,57891803,85,"['Thriller', 'Mystery']",en,['United States of America'],11460
+1258,Soul,2020-12-25,150000000,136384442,101,"['Animation', 'Family', 'Comedy', 'Fantasy', 'Drama']",en,['United States of America'],508442
+1259,Saturday Night Fever,1977-12-16,3500000,237113184,119,"['Music', 'Drama']",en,['United States of America'],11009
+1260,The 36th Chamber of Shaolin,1978-02-02,0,0,115,"['Action', 'Adventure']",zh,['Hong Kong'],11841
+1261,Logan Lucky,2017-08-17,29000000,48453605,118,"['Comedy', 'Crime', 'Action', 'Drama']",en,['United States of America'],399170
+1262,Predator 2,1990-11-21,35000000,57120318,108,"['Science Fiction', 'Action', 'Thriller']",en,['United States of America'],169
+1263,Blue Steel,1990-03-16,0,8217997,102,['Thriller'],en,['United States of America'],9491
+1264,Hot Rod,2007-08-03,0,14353654,88,"['Comedy', 'Action', 'Drama']",en,['United States of America'],10074
+1265,The Assassination of Jesse James by the Coward Robert Ford,2007-09-20,30000000,14711793,160,"['Action', 'Drama', 'Western']",en,"['Canada', 'United Kingdom', 'United States of America']",4512
+1266,Killing Them Softly,2012-07-30,15000000,37930465,97,"['Crime', 'Thriller']",en,['United States of America'],64689
+1267,Universal Soldier: Regeneration,2009-10-01,14000000,875386,97,"['Adventure', 'Action', 'Science Fiction', 'Thriller']",en,['United States of America'],28510
+1268,Accident,2009-09-24,0,0,89,"['Action', 'Drama', 'Thriller']",cn,['Hong Kong'],25474
+1269,"Aguirre, the Wrath of God",1972-12-29,370000,37041,95,"['Adventure', 'Drama', 'History']",de,"['Germany', 'Mexico', 'Peru']",2000
+1270,Cruising,1980-02-15,11000000,19814523,102,"['Crime', 'Mystery', 'Thriller']",en,"['Germany', 'United States of America']",27958
+1271,Paradox,2017-08-25,0,0,101,"['Crime', 'Action', 'Thriller']",cn,"['China', 'Hong Kong']",452558
+1272,Pay It Forward,2000-10-20,40000000,55707411,122,['Drama'],en,['United States of America'],10647
+1273,Rio Bravo,1959-03-18,1200000,5750000,141,['Western'],en,['United States of America'],301
+1274,Throw Down,2004-07-08,0,0,95,"['Drama', 'Action']",cn,['Hong Kong'],25664
+1275,Canned Feud,1951-02-03,0,0,7,"['Animation', 'Family', 'Comedy']",en,['United States of America'],145948
+1276,Nosferatu,1922-02-16,0,19054,94,"['Fantasy', 'Horror']",de,['Germany'],653
+1277,48 Hrs.,1982-12-07,12000000,78868508,96,"['Thriller', 'Action', 'Comedy', 'Crime', 'Drama']",en,['United States of America'],150
+1278,Eddie Murphy: Delirious,1983-10-15,0,0,69,"['Comedy', 'TV Movie']",en,['United States of America'],15251
+1279,Eddie Murphy Raw,1987-11-25,0,50504655,90,['Comedy'],en,['United States of America'],17159
+1280,Beverly Hills Cop,1984-12-05,14000000,316360478,105,"['Action', 'Comedy', 'Crime']",en,['United States of America'],90
+1281,Beverly Hills Cop II,1987-05-18,28000000,299965036,103,"['Action', 'Comedy', 'Crime']",en,['United States of America'],96
+1282,Easy Rider,1969-06-26,400000,60000000,95,"['Adventure', 'Drama']",en,['United States of America'],624
+1283,Bad Lieutenant,1992-11-20,1000000,2019469,96,"['Crime', 'Drama']",en,['United States of America'],12143
+1284,The Girl with the Dragon Tattoo,2011-12-14,90000000,232617430,158,"['Thriller', 'Crime', 'Mystery']",en,"['United States of America', 'Norway', 'Sweden']",65754
+1285,Trees Lounge,1996-05-11,1300000,0,95,"['Drama', 'Comedy']",en,['United States of America'],27845
+1286,Daddy Day Care,2003-05-09,60000000,164433867,92,"['Comedy', 'Family']",en,['United States of America'],10708
+1287,Pickup on South Street,1953-05-27,780000,0,80,"['Crime', 'Thriller', 'Romance']",en,['United States of America'],25955
+1288,Gran Torino,2008-12-12,33000000,269958228,116,['Drama'],en,"['United States of America', 'Germany']",13223
+1289,Coming to America,1988-06-29,30000000,288752301,117,"['Comedy', 'Romance']",en,['United States of America'],9602
+1290,Dave Chappelle: Unforgiven,2020-11-24,0,0,18,[],en,['United States of America'],770665
+1291,DodgeBall: A True Underdog Story,2004-06-18,20000000,167722310,92,['Comedy'],en,"['Germany', 'United States of America']",9472
+1292,Twin Dragons,1992-01-15,10000000,8332431,104,"['Comedy', 'Action']",cn,['Hong Kong'],18764
+1293,Wolf Warrior,2015-04-02,12000000,80000000,90,"['Action', 'War']",zh,['China'],335462
+1294,First Blood,1982-10-22,15000000,125212904,93,"['Action', 'Adventure', 'Thriller', 'War']",en,['United States of America'],1368
+1295,Once Upon a Time in America,1984-05-23,30000000,5500000,229,"['Drama', 'Crime']",en,"['United States of America', 'Italy']",311
+1296,The Age of Innocence,1993-09-10,34000000,32255440,133,"['Drama', 'Romance']",en,['United States of America'],10436
+1297,Boogie Nights,1997-10-07,15000000,43101594,156,['Drama'],en,['United States of America'],4995
+1298,The Heroic Trio,1993-02-12,0,0,88,"['Action', 'Fantasy', 'Thriller']",cn,['Hong Kong'],43636
+1299,Project A,1983-12-22,0,0,106,"['Action', 'Comedy', 'Adventure']",cn,['Hong Kong'],21519
+1300,Wheels on Meals,1984-08-17,0,0,108,"['Romance', 'Action', 'Comedy', 'Crime']",cn,['Hong Kong'],11205
+1301,"Yes, God, Yes",2020-07-24,0,0,78,['Drama'],en,"['United Kingdom', 'United States of America']",527660
+1302,The Tale of Despereaux,2008-12-18,60000000,86947965,93,"['Adventure', 'Animation', 'Family']",en,"['United Kingdom', 'United States of America']",10199
+1303,The Hunt for Red October,1990-03-02,30000000,200512643,135,"['Action', 'Adventure', 'Thriller']",en,['United States of America'],1669
+1304,Tombstone,1993-12-25,25000000,56505065,130,"['Western', 'Action']",en,['United States of America'],11969
+1305,Femme Fatale,2002-04-30,35000000,16830252,114,"['Mystery', 'Crime', 'Thriller']",en,"['Switzerland', 'France']",9280
+1306,"Mickey, Donald, Goofy: The Three Musketeers",2004-08-04,0,0,68,"['Adventure', 'Animation', 'Comedy', 'Family']",en,['United States of America'],21385
+1307,Carlito's Way,1993-11-10,30000000,63848322,144,"['Crime', 'Drama', 'Romance', 'Thriller']",en,['United States of America'],6075
+1308,Donnie Brasco,1997-02-27,35000000,124909762,127,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],9366
+1309,Greenland,2020-07-29,34000000,52300000,120,"['Action', 'Thriller', 'Drama']",en,"['United Kingdom', 'United States of America']",524047
+1310,Liar Liar,1997-03-21,45000000,302710615,86,['Comedy'],en,['United States of America'],1624
+1311,Chris Rock: Bigger & Blacker,1999-07-10,0,0,65,['Comedy'],en,['United States of America'],17870
+1312,Chris Rock: Bring the Pain,1996-06-01,0,0,58,['Comedy'],en,['United States of America'],18128
+1313,The Big Bird Cage,1972-07-01,0,0,96,"['Action', 'Crime', 'Drama']",en,"['Philippines', 'United States of America']",22910
+1314,Zack Snyder's Justice League,2021-03-18,70000000,0,242,"['Action', 'Adventure', 'Fantasy']",en,['United States of America'],791373
+1315,L.A. Confidential,1997-09-19,35000000,126216940,138,"['Crime', 'Mystery', 'Thriller']",en,['United States of America'],2118
+1316,Godzilla vs. Kong,2021-03-24,200000000,470116094,114,"['Action', 'Science Fiction', 'Thriller']",en,['United States of America'],399566
+1317,The Godfather Part III,1990-12-25,54000000,136766062,162,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],242
+1318,Eastern Condors,1987-07-09,0,0,97,"['Action', 'Adventure', 'War']",cn,['Hong Kong'],68942
+1319,Nobody,2021-03-18,17000000,61779301,92,"['Action', 'Crime', 'Thriller']",en,['United States of America'],615457
+1320,Man Bites Dog,1992-08-20,33000,205569,96,"['Comedy', 'Crime']",fr,['Belgium'],10086
+1321,Lady Snowblood,1973-12-01,0,0,97,"['Action', 'Crime', 'Drama']",ja,['Japan'],2487
+1322,Southbound,2015-09-17,0,23665,89,"['Fantasy', 'Thriller', 'Horror', 'Science Fiction']",en,['United States of America'],354251
+1323,Full Contact,1992-07-23,1250000,0,96,"['Crime', 'Action', 'Thriller']",cn,"['Hong Kong', 'Thailand']",27073
+1324,The Driver,1978-06-08,4000000,0,91,"['Crime', 'Thriller', 'Action']",en,"['United Kingdom', 'United States of America']",2153
+1325,One Flew Over the Cuckoo's Nest,1975-11-19,3000000,108981275,133,['Drama'],en,['United States of America'],510
+1326,First Love,2019-05-31,0,0,108,"['Crime', 'Action', 'Comedy']",ja,"['Japan', 'United Kingdom']",597094
+1327,Mortal Kombat,2021-04-07,20000000,84426031,110,"['Action', 'Fantasy', 'Adventure']",en,['United States of America'],460465
+1328,The Seventh Seal,1957-02-16,0,0,96,"['Fantasy', 'Drama']",sv,['Sweden'],490
+1329,Scream for Help,1984-07-03,0,0,90,"['Horror', 'Mystery', 'Crime', 'Thriller']",en,"['United Kingdom', 'United States of America']",84996
+1330,Green Book,2018-11-16,23000000,319700000,130,"['Drama', 'Comedy']",en,['United States of America'],490132
+1331,A History of Violence,2005-09-23,32000000,60740827,96,"['Drama', 'Thriller', 'Crime']",en,"['Canada', 'Germany', 'United States of America']",59
+1332,King Arthur: Legend of the Sword,2017-05-10,175000000,148675066,126,"['Action', 'Drama', 'Fantasy']",en,['United States of America'],274857
+1333,Forgetting Sarah Marshall,2008-04-17,30000000,105173115,111,"['Comedy', 'Romance', 'Drama']",en,['United States of America'],9870
+1334,Black Snake Moan,2006-12-31,15000000,10907485,116,['Drama'],en,['United States of America'],7874
+1335,Unhinged,2020-07-16,33000000,39238300,90,"['Action', 'Thriller']",en,"['United States of America', 'United Kingdom']",625568
+1336,Space Jam: A New Legacy,2021-07-08,150000000,163692228,115,"['Family', 'Animation', 'Comedy', 'Science Fiction']",en,['United States of America'],379686
+1337,The Adventures of Baron Munchausen,1988-12-07,46630000,8083123,126,"['Adventure', 'Comedy', 'Fantasy']",en,"['Italy', 'United Kingdom']",14506
+1338,Big Trouble in Little China,1986-05-30,25000000,11000000,99,"['Comedy', 'Action', 'Adventure', 'Fantasy']",en,['United States of America'],6978
+1339,Fate/stay night: Heaven's Feel I. Presage Flower,2017-10-14,0,17422935,120,"['Action', 'Animation', 'Drama', 'Fantasy', 'Romance']",ja,['Japan'],283984
+1340,The Suicide Squad,2021-07-28,185000000,168717425,132,"['Action', 'Comedy', 'Adventure']",en,['United States of America'],436969
+1341,"Love, Rosie",2014-10-16,0,4439431,102,"['Romance', 'Drama', 'Comedy']",en,"['Belgium', 'Canada', 'Germany', 'Ireland', 'United Kingdom']",200727
+1342,The Witcher: Nightmare of the Wolf,2021-08-23,0,0,83,"['Animation', 'Action', 'Fantasy']",en,"['Poland', 'South Korea', 'United States of America']",666243
+1343,Phase IV,1974-09-01,0,0,86,"['Horror', 'Science Fiction']",en,"['United Kingdom', 'United States of America']",59189
+1344,We Need to Talk About Kevin,2011-09-28,7000000,10765283,113,"['Drama', 'Thriller']",en,"['United States of America', 'United Kingdom']",71859
+1345,Straw Dogs,1971-11-25,2200000,3251794,116,"['Drama', 'Thriller']",en,"['United States of America', 'United Kingdom']",994
+1346,Zeitgeist,2007-06-01,7000000,0,118,"['Documentary', 'History']",en,['United States of America'],13016
+1347,Dune,2021-09-15,165000000,402027830,155,"['Science Fiction', 'Adventure']",en,['United States of America'],438631
+1348,Last Night in Soho,2021-10-21,43000000,22957625,117,"['Mystery', 'Thriller', 'Horror']",en,['United Kingdom'],576845
+1349,The Standoff at Sparrow Creek,2019-01-18,450000,0,88,"['Drama', 'Thriller', 'Mystery']",en,['United States of America'],516630
+1350,The Mitchells vs. the Machines,2021-04-22,75000000,0,110,"['Animation', 'Adventure', 'Comedy']",en,"['Hong Kong', 'United States of America']",501929
+1351,Darkman,1990-08-24,16000000,48878502,95,"['Action', 'Science Fiction', 'Thriller']",en,['United States of America'],9556
+1352,Journey to the West: Conquering the Demons,2013-02-07,0,215000000,110,"['Action', 'Fantasy', 'Adventure', 'Comedy']",zh,"['China', 'Hong Kong']",170657
+1353,The Matrix Resurrections,2021-12-16,190000000,156497322,147,"['Science Fiction', 'Action', 'Adventure']",en,"['Canada', 'Germany', 'United States of America']",624860
+1354,Female Prisoner Scorpion: Jailhouse 41,1972-12-30,0,0,90,"['Action', 'Crime', 'Drama']",ja,['Japan'],39872
+1355,Dogma,1999-11-12,10000000,31429330,130,"['Fantasy', 'Comedy', 'Adventure']",en,"['United Kingdom', 'United States of America']",1832
+1356,Yesterday,2019-06-26,26000000,88092097,116,"['Comedy', 'Fantasy', 'Music', 'Romance']",en,['United Kingdom'],515195
+1357,Spider-Man: No Way Home,2021-12-15,200000000,1921847111,148,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],634649
+1358,Jackass Forever,2022-02-01,10000000,80340218,96,"['Comedy', 'Documentary']",en,['United States of America'],656663
+1359,The Big Short,2015-12-11,28000000,133346506,131,"['Comedy', 'Drama']",en,['United States of America'],318846
+1360,The Death of Dick Long,2019-09-27,0,36586,100,"['Comedy', 'Crime', 'Drama']",en,['United States of America'],565383
+1361,Patrice O'Neal: Live!,2002-08-29,0,0,28,['Comedy'],en,['United States of America'],818195
+1362,Balls of Fury,2007-08-29,0,41098065,90,"['Comedy', 'Crime']",en,['United States of America'],9750
+1363,G-Force,2009-07-24,150000000,292817841,88,"['Animation', 'Family', 'Fantasy', 'Action', 'Adventure', 'Comedy']",en,['United States of America'],19585
+1364,The Batman,2022-03-01,185000000,770945583,177,"['Crime', 'Mystery', 'Thriller']",en,['United States of America'],414906
+1365,Le Samouraï,1967-10-25,0,39481,105,"['Crime', 'Thriller']",fr,"['France', 'Italy']",5511
+1366,Falling Down,1993-02-26,25000000,40903593,113,"['Crime', 'Drama', 'Thriller']",en,['United States of America'],37094
+1367,White Men Can't Jump,1992-03-27,31000000,90753806,115,"['Comedy', 'Drama']",en,['United States of America'],10158
+1368,The Northman,2022-04-07,70000000,69633110,137,"['Action', 'Adventure', 'Fantasy']",en,"['China', 'United States of America']",639933
+1369,The Millionaires' Express,1986-01-30,0,0,94,"['Action', 'Comedy']",cn,['Hong Kong'],59843
+1370,Chungking Express,1994-07-14,160000,0,103,"['Drama', 'Comedy', 'Romance']",cn,['Hong Kong'],11104
+1371,Near Dark,1987-10-02,5000000,0,94,['Horror'],en,['United States of America'],11879
+1372,Theorem,1968-09-07,0,0,95,"['Mystery', 'Drama']",it,['Italy'],5335
+1373,The Manson Brothers: Midnight Zombie Massacre,2021-09-10,1800000,0,92,"['Horror', 'Action', 'Comedy']",en,['United States of America'],714995
+1374,The Empty Man,2020-10-22,16000000,4796993,137,"['Horror', 'Mystery', 'Thriller']",en,"['South Africa', 'United States of America']",516632
+1375,The Deer Hunter,1978-12-08,15000000,49000000,183,"['Drama', 'War']",en,"['United Kingdom', 'United States of America']",11778
+1376,Universal Soldier: Day of Reckoning,2012-10-04,11500000,1402307,114,"['Action', 'Science Fiction', 'Thriller']",en,['United States of America'],122857
+1377,Exiled,2006-09-06,4800000,0,110,"['Action', 'Crime', 'Thriller']",cn,['Hong Kong'],13807
+1378,Top Gun: Maverick,2022-05-24,170000000,1488732821,131,"['Action', 'Drama']",en,['United States of America'],361743
+1379,Blue Velvet,1986-09-19,6000000,8618766,120,"['Crime', 'Mystery', 'Thriller', 'Romance']",en,['United States of America'],793
+1380,To Live and Die in L.A.,1985-11-01,0,17307019,116,"['Crime', 'Thriller', 'Action']",en,['United States of America'],9846
+1381,Limbo,2021-04-30,0,224405,104,"['Drama', 'Comedy']",en,['United Kingdom'],554371
+1382,Truck Turner,1974-06-26,0,0,91,"['Drama', 'Action', 'Thriller']",en,['United States of America'],22121
+1383,Look Both Ways,2022-08-16,0,0,110,"['Romance', 'Drama', 'Comedy']",en,['United States of America'],805327
+1384,Who Framed Roger Rabbit,1988-06-21,70000000,329803958,104,"['Fantasy', 'Animation', 'Comedy', 'Crime']",en,['United States of America'],856
+1385,Magic Mike's Last Dance,2023-02-09,45000000,52000000,112,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],906221
+1386,Flash Point,2007-07-26,8000000,6177725,88,['Action'],cn,"['China', 'Hong Kong']",35854
+1387,Coffy,1973-06-13,500000,4000000,90,"['Action', 'Thriller', 'Crime']",en,['United States of America'],22021
+1388,Riddick,2013-09-02,38000000,98337295,119,"['Science Fiction', 'Action', 'Thriller']",en,"['Canada', 'United States of America']",87421
+1389,Mississippi Burning,1988-12-08,15000000,34604000,128,"['Drama', 'Crime']",en,['United States of America'],1632
+1390,Dark Waters,2019-11-22,20000000,13601384,127,"['Drama', 'Thriller']",en,['United States of America'],552178
+1391,The Invisible Man,2020-02-26,7000000,144492724,124,"['Thriller', 'Science Fiction', 'Horror']",en,"['Australia', 'United States of America']",570670
+1392,Highlander,1986-03-07,16000000,12885193,116,"['Adventure', 'Action', 'Fantasy']",en,"['United Kingdom', 'United States of America']",8009
+1393,Piranha 3D,2010-08-20,24000000,83188165,88,"['Comedy', 'Horror']",en,['United States of America'],43593
+1394,Bronson,2008-10-09,230000,2260712,92,"['Drama', 'Action', 'Crime']",en,['United Kingdom'],18533
+1395,Flowers for Algernon,2000-02-20,0,0,91,['Drama'],en,"['United States of America', 'Canada']",29136
+1396,The Blackout,1997-06-11,0,0,98,"['Drama', 'Mystery', 'Thriller']",en,"['France', 'United States of America']",25690
+1397,Vampires Suck,2010-08-18,20000000,80547866,82,"['Horror', 'Comedy']",en,['United States of America'],40264
+1398,One Hour Photo,2002-08-21,12000000,52223306,96,"['Drama', 'Thriller']",en,['United States of America'],9357
+1399,Death Note,2006-06-17,20000000,29667169,126,"['Fantasy', 'Mystery', 'Thriller']",ja,['Japan'],16007
+1400,Red State,2011-08-19,4000000,1104682,88,"['Horror', 'Action', 'Thriller']",en,['United States of America'],48572
+1401,Basket Case,1982-04-02,35000,0,91,"['Comedy', 'Horror']",en,['United States of America'],27813
+1402,Phenomena,1985-01-25,3800000,0,116,"['Horror', 'Thriller']",en,"['Italy', 'Switzerland']",29161
+1403,Dead or Alive,1999-11-27,4615,0,105,"['Action', 'Thriller', 'Crime']",ja,['Japan'],11315
+1404,Versus,2000-10-23,400000,0,120,"['Horror', 'Fantasy', 'Action', 'Thriller', 'Adventure']",ja,['Japan'],5842
+1405,Bo Burnham: Inside,2021-07-22,0,0,87,"['Comedy', 'Drama']",en,['United States of America'],823754
+1406,Malignant,2021-09-01,40000000,34891791,111,"['Mystery', 'Horror', 'Thriller']",en,['United States of America'],619778
+1407,Lake Mungo,2009-07-30,2000000,0,87,"['Horror', 'Thriller']",en,['Australia'],27374
+1408,Deadstream,2022-10-20,0,1031519,87,"['Horror', 'Comedy']",en,['United States of America'],886083
+1409,Bedevilled,2010-08-19,700000,0,115,"['Thriller', 'Crime', 'Drama', 'Horror']",ko,['South Korea'],59421
+1410,Gandhi,1982-11-30,22000000,77737889,191,"['Drama', 'History']",en,"['India', 'United Kingdom', 'United States of America']",783
+1411,Men,2022-05-20,0,7168717,100,"['Horror', 'Thriller', 'Fantasy']",en,['United Kingdom'],780609
+1412,Dark City,1998-02-27,27000000,27200316,100,"['Mystery', 'Science Fiction']",en,"['Australia', 'United States of America']",2666
+1413,Trash Humpers,2009-09-12,0,24998,78,"['Horror', 'Comedy', 'Drama']",en,"['United Kingdom', 'United States of America']",46788
+1414,The Sentinel,1977-01-07,0,3,92,"['Horror', 'Mystery']",en,['United States of America'],18196
+1415,The Royal Tenenbaums,2001-10-05,21000000,71441250,110,"['Comedy', 'Drama']",en,['United States of America'],9428
+1416,Rush Hour,1998-09-18,33000000,244721064,98,"['Action', 'Comedy', 'Crime']",en,['United States of America'],2109
+1417,The Banshees of Inisherin,2022-10-20,20000000,49262687,114,"['Drama', 'Comedy']",en,"['Ireland', 'United Kingdom', 'United States of America']",674324
+1418,Death at a Funeral,2007-08-17,9000000,46789413,90,"['Comedy', 'Drama']",en,"['Germany', 'United Kingdom', 'United States of America']",2196
+1419,Don't Worry Darling,2022-09-21,35000000,86669039,123,"['Thriller', 'Mystery', 'Drama']",en,['United States of America'],619730
+1420,Avatar: The Way of Water,2022-12-14,460000000,2320250281,192,"['Science Fiction', 'Adventure', 'Action']",en,['United States of America'],76600
+1421,Brain Damage,1988-04-15,0,0,86,"['Horror', 'Comedy']",en,['United States of America'],27814
+1422,The Cell,2000-08-17,33000000,104155843,107,"['Horror', 'Science Fiction', 'Thriller']",en,"['Germany', 'United States of America']",8843
+1423,Wild Things,1998-03-20,20000000,67200000,108,"['Mystery', 'Thriller', 'Drama']",en,['United States of America'],617
+1424,The Fabelmans,2022-11-11,40000000,45598614,151,"['Drama', 'Comedy']",en,['United States of America'],804095
+1425,Fantastic Planet,1973-12-01,0,0,72,"['Animation', 'Science Fiction']",fr,"['Czechoslovakia', 'France']",16306
+1426,Hellraiser,1987-09-11,1000000,14575193,93,"['Horror', 'Thriller']",en,"['United Kingdom', 'United States of America']",9003
+1427,London Has Fallen,2016-03-02,60000000,205754447,99,"['Action', 'Thriller']",en,"['Bulgaria', 'United States of America']",267860
+1428,Barbarian,2022-09-08,4500000,45352337,103,"['Horror', 'Mystery', 'Thriller']",en,['United States of America'],913290
+1429,Nope,2022-07-20,68000000,170823080,130,"['Horror', 'Science Fiction', 'Mystery']",en,"['United States of America', 'Japan']",762504
+1430,Puss in Boots: The Last Wish,2022-12-07,90000000,482129780,103,"['Adventure', 'Fantasy', 'Animation', 'Comedy', 'Family', 'Action']",en,['United States of America'],315162
+1431,Elite Squad,2007-10-12,4000000,14759148,115,"['Drama', 'Action', 'Crime']",pt,['Brazil'],7347
+1432,Everything Everywhere All at Once,2022-03-24,25000000,139200000,140,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],545611
+1433,The Graduate,1967-12-21,3000000,104945305,106,"['Comedy', 'Drama', 'Romance']",en,['United States of America'],37247
+1434,The Menu,2022-11-17,35000000,79628200,107,"['Comedy', 'Thriller', 'Horror']",en,['United States of America'],593643
+1435,The Outlaws,2017-10-03,5883687,52946454,121,"['Action', 'Crime']",ko,['South Korea'],479718
+1436,Child's Play,1988-11-09,9000000,44196684,87,['Horror'],en,['United States of America'],10585
+1437,Ambulance,2022-03-16,40000000,51783040,136,"['Thriller', 'Action']",en,['United States of America'],763285
+1438,Step Brothers,2008-07-25,65000000,128107642,98,['Comedy'],en,['United States of America'],12133
+1439,Midnight Run,1988-07-20,30000000,38413606,126,"['Crime', 'Comedy', 'Action', 'Adventure']",en,['United States of America'],9013
+1440,Three Thousand Years of Longing,2022-08-24,60000000,20282422,108,"['Drama', 'Adventure', 'Fantasy', 'Romance']",en,"['Australia', 'China', 'United Kingdom']",556694
+1441,Riki-Oh: The Story of Ricky,1991-10-05,0,0,92,"['Action', 'Thriller']",cn,['Hong Kong'],17467
+1442,Dreams,1990-05-11,0,0,119,"['Fantasy', 'Drama']",ja,"['United States of America', 'Japan']",12516
+1443,Operation Avalanche,2016-07-29,1250000,55000,94,"['Thriller', 'Mystery', 'Comedy']",en,['United States of America'],376453
+1444,Idiocracy,2006-09-01,30000000,495303,84,"['Comedy', 'Science Fiction', 'Adventure']",en,['United States of America'],7512
+1445,John Wick: Chapter 4,2023-03-22,90000000,426978565,170,"['Action', 'Thriller', 'Crime']",en,"['Germany', 'United States of America']",603692
+1446,Moulin Rouge!,2001-05-24,52500000,179213434,128,"['Drama', 'Romance', 'Music']",en,"['Australia', 'United States of America']",824
+1447,The Killer,1989-07-06,0,2350174,110,"['Action', 'Crime', 'Drama', 'Thriller']",cn,['Hong Kong'],10835
+1448,Happy Together,1997-05-30,125000,5000000,96,"['Drama', 'Romance']",cn,"['Hong Kong', 'Japan']",18329
+1449,Speed Racer,2008-05-07,120000000,93945766,135,"['Family', 'Action', 'Adventure', 'Comedy']",en,"['Germany', 'United Kingdom', 'United States of America']",7459
+1450,The Strange Thing About the Johnsons,2011-01-22,0,0,29,"['Drama', 'Horror']",en,['United States of America'],164052
+1451,The Seventh Curse,1986-10-17,0,0,78,"['Fantasy', 'Horror', 'Action', 'Adventure']",cn,['Hong Kong'],39900
+1452,Hamilton,2020-07-03,0,0,160,"['History', 'Drama']",en,['United States of America'],556574
+1453,Jack,2004-06-19,0,0,104,['Drama'],en,[],182858
+1454,Daimajin,1966-04-16,0,0,84,"['Horror', 'Fantasy', 'Drama']",ja,['Japan'],28719
+1455,Barbarella,1968-10-10,9000000,2500000,98,"['Science Fiction', 'Adventure', 'Comedy']",en,"['France', 'Italy']",8069
+1456,Titane,2021-07-14,6600000,5115725,108,"['Drama', 'Thriller', 'Horror']",fr,"['Belgium', 'France']",630240
+1457,Excalibur,1981-04-10,11000000,34967437,140,"['Adventure', 'Fantasy']",en,['United Kingdom'],11527
+1458,"Faster, Pussycat! Kill! Kill!",1965-08-06,45000,0,84,"['Crime', 'Action', 'Thriller']",en,['United States of America'],315
+1459,Ms .45,1981-04-24,62000,0,81,"['Crime', 'Thriller', 'Action']",en,['United States of America'],22171
+1460,Thanksgiving,2007-04-06,0,0,3,"['Comedy', 'Horror']",en,['United States of America'],363909
+1461,But I'm a Cheerleader,2000-07-07,1200000,2600000,85,"['Comedy', 'Romance']",en,['United States of America'],20770
+1462,Reign of Fire,2002-07-09,60000000,82150183,101,"['Adventure', 'Action', 'Fantasy']",en,"['Ireland', 'United Kingdom', 'United States of America']",6278
+1463,TPB AFK: The Pirate Bay - Away from Keyboard,2013-02-08,0,34664,82,['Documentary'],sv,"['Denmark', 'Sweden']",50275
+1464,A Christmas Carol,2009-11-04,200000000,325286646,94,"['Animation', 'Family', 'Fantasy']",en,['United States of America'],17979
+1465,Daisies,1966-12-30,0,0,76,"['Comedy', 'Drama']",cs,['Czechoslovakia'],46919
+1466,Extraction 2,2023-06-09,65000000,0,123,"['Action', 'Thriller']",en,"['Austria', 'United States of America']",697843
+1467,Sanctuary,2023-04-06,0,0,96,"['Drama', 'Thriller', 'Comedy']",en,"['France', 'United States of America']",870518
+1468,Walk Hard: The Dewey Cox Story,2007-12-21,35000000,18317151,96,"['Comedy', 'Music', 'Drama']",en,['United States of America'],6575
+1469,Shogun Assassin,1980-11-11,0,0,85,['Action'],ja,"['Japan', 'United States of America']",15119
+1470,Babylon A.D.,2008-08-20,70000000,72109200,101,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",en,"['France', 'United Kingdom', 'United States of America']",9381
+1471,Mission: Impossible - Dead Reckoning Part One,2023-07-08,291000000,567148955,164,"['Action', 'Thriller']",en,['United States of America'],575264
+1472,Oppenheimer,2023-07-19,100000000,942806065,181,"['Drama', 'History']",en,"['United Kingdom', 'United States of America']",872585
+1473,Barbie,2023-07-19,145000000,1440074393,114,"['Comedy', 'Adventure', 'Fantasy']",en,"['United Kingdom', 'United States of America']",346698
+1474,Prehysteria!,1993-06-30,0,0,84,"['Family', 'Drama', 'Fantasy', 'Comedy']",en,['United States of America'],79500
+1475,Pineapple Express,2008-08-06,27000000,101624843,111,"['Action', 'Comedy', 'Crime']",en,['United States of America'],10189
+1476,Meg 2: The Trench,2023-08-02,129000000,384056482,116,"['Action', 'Science Fiction', 'Horror']",en,"['China', 'United States of America']",615656
+1477,The First Slam Dunk,2022-12-03,0,258000000,125,"['Animation', 'Comedy', 'Drama']",ja,['Japan'],783675
+1478,Man on Fire,2004-04-23,70000000,130293714,146,"['Action', 'Drama', 'Thriller']",en,"['Switzerland', 'United Kingdom', 'United States of America']",9509
+1479,Borsalino,1970-05-19,0,0,126,"['Crime', 'Drama']",fr,"['France', 'Italy']",25251
+1480,Viy,1967-11-27,0,0,77,"['Drama', 'Fantasy', 'Horror']",ru,['Soviet Union'],57230
+1481,Jungle Fever,1991-06-07,14000000,32482682,132,"['Drama', 'Romance']",en,['United States of America'],1713
+1482,Firebase,2017-06-28,0,0,27,"['Action', 'Science Fiction', 'War', 'Horror']",en,['Canada'],463800
+1483,Apocalypse Now,1979-08-15,31500000,150000000,147,"['Drama', 'War']",en,['United States of America'],28
+1484,Death Race 2000,1975-04-30,300000,8000000,80,"['Action', 'Comedy', 'Science Fiction']",en,['United States of America'],13282
+1485,Don't Let the Riverbeast Get You!,2012-09-02,0,0,99,"['Horror', 'Comedy', 'Action']",en,['United States of America'],273773
+1486,Cherry 2000,1987-11-10,10000000,14000,99,"['Action', 'Adventure', 'Science Fiction']",en,['United States of America'],15785
+1487,TÁR,2022-09-23,35000000,29182623,158,"['Drama', 'Music']",en,['United States of America'],817758
+1488,Sleepwalkers,1992-04-10,15000000,30524763,91,"['Horror', 'Fantasy', 'Thriller']",en,['United States of America'],11428
